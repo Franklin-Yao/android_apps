@@ -1,0 +1,40 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  
+  android:background="#ffa500"
+    android:orientation="vertical">
+        <Button
+    android:id="@+id/no_save"
+    android:background="#808000"
+    android:layout_width="match_parent"
+    android:layout_height="60px"
+    android:textSize="32sp"
+    android:text="保存笔记">
+    </Button>
+     <Button
+    android:id="@+id/no_delete"
+    android:background="#806000"
+    android:layout_width="match_parent"
+    android:layout_height="60px"
+    android:textSize="32sp"
+    android:text="删除笔记">
+    </Button>
+    <EditText
+    android:id="@+id/no_title"
+    android:background="#c0c0c0"
+    android:layout_width="match_parent"
+    android:layout_height="100px"
+    android:gravity="top|left"
+    android:hint="点击添加标题"
+    />
+   <EditText
+    android:id="@+id/no_content"
+    android:background="#fffafa"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top|left"
+    android:hint="点击添加内容"
+    />
+</LinearLayout>

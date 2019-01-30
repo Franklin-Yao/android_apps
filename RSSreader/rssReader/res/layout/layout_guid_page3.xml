@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<LinearLayout   
+    xmlns:android="http://schemas.android.com/apk/res/android"  
+           android:orientation="vertical"  
+           android:layout_width="fill_parent"    
+           android:layout_height="fill_parent">   
+           
+           <ImageView   
+              android:id="@+id/image1"    
+              android:src="@drawable/shoucang"  
+              android:layout_width="fill_parent"  
+              android:layout_height="wrap_content">   
+           </ImageView>
+
+           <TextView
+               android:id="@+id/textView_guid_page2"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:textSize="18sp"
+               android:text="这里是收藏文章列表界面，长按可以删除，叉形图标是退出按钮,后面都是如此；点击可以进入阅读" />
+   
+       </LinearLayout> 

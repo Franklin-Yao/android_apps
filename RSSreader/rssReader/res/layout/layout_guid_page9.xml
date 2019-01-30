@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<LinearLayout   
+    xmlns:android="http://schemas.android.com/apk/res/android"  
+           android:orientation="vertical"  
+           android:layout_width="fill_parent"    
+           android:layout_height="fill_parent">     
+           
+           <ImageView   
+              android:id="@+id/image1"    
+              android:src="@drawable/wenzhang"  
+              android:layout_width="fill_parent"  
+              android:layout_height="200sp">   
+           </ImageView>
+
+           <TextView
+               android:id="@+id/textView_guid_page2"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:textSize="18sp"
+               android:text="第一个为收藏该文章，第二个为设置亮度的，使屏幕变暗，第三个是屏幕变亮，第四个为分享，第五个刷新，第六个清除缓存，第七个退出，最上面显示的是文章标题。今天的旅程到此完毕，祝您使用本软件愉快！按返回键退出帮助" />
+   
+       </LinearLayout> 

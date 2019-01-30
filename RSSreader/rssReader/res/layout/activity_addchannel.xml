@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:alpha="128" >
+	<include
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        layout="@layout/include_top"/>
+    
+    <Button
+    android:id="@+id/btn_add"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/channellist_activity_lv_title"
+    android:text="添加" />
+
+	<EditText
+	    android:id="@+id/et_name"
+	    android:hint="请在这里输入rss标题"
+	    android:layout_width="fill_parent"
+	    android:layout_height="60sp"/>
+	
+	<EditText
+	    android:id="@+id/et_url"
+	    android:inputType="textUri"
+	    android:hint="请在这里输入rss网址，推荐粘贴"
+	    android:layout_width="fill_parent"
+	    android:layout_height="60sp"/>
+
+</LinearLayout>

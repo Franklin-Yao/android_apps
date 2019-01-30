@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<LinearLayout   
+    xmlns:android="http://schemas.android.com/apk/res/android"  
+           android:orientation="vertical"  
+           android:layout_width="fill_parent"    
+           android:layout_height="fill_parent">     
+           
+           <ImageView   
+              android:id="@+id/image1"    
+              android:src="@drawable/shouye"  
+              android:layout_width="fill_parent"  
+              android:layout_height="200sp">   
+           </ImageView>
+
+           <TextView
+               android:id="@+id/tv_about"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:textSize="18sp"
+               android:text="旅客您好，欢迎您来到帮助中心旅游，下面导游为您服务。注意:只有首次使用该软件或者在设置里点击“使用指引”才会出现帮助文档。这里是首页，点击或者拖动下面的菜单栏可以看到菜单栏，里面可以添加rss源，设置网络等；点击方阵中的图标可以进入相应的频道阅读" />
+   
+       </LinearLayout> 

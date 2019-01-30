@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:id="@+id/llyt_top"
+    android:background="#000000"
+    android:layout_width="fill_parent"
+    android:layout_height="44dip"
+    android:orientation="horizontal">
+
+	<ImageButton
+        android:id="@+id/ibtn_collection"
+        android:background="#000000"
+        android:layout_width="44sp"
+        android:layout_height="44sp"
+        android:layout_marginRight="0sp"
+        android:src="@drawable/shopping_cart" />
+
+	<ImageButton
+        android:id="@+id/ibtn_light_off"
+        android:layout_width="44sp"
+        android:background="#000000"
+        android:layout_height="44sp"
+        android:layout_marginRight="0sp"
+        android:src="@drawable/ligthbulb_off" />
+	
+	<ImageButton
+        android:id="@+id/ibtn_light_on"
+        android:background="#000000"
+        android:layout_width="44sp"
+        android:layout_height="44sp"
+        android:layout_marginRight="0sp"
+        android:src="@drawable/ligthbulb_on" />
+	
+	<ImageButton
+        android:id="@+id/ibtn_share"
+        android:background="#000000"
+        android:layout_width="44sp"
+        android:layout_height="44sp"
+        android:layout_marginRight="0sp"
+        android:src="@drawable/world" />
+	<ImageButton
+        android:id="@+id/ibtn_refresh"
+        android:background="#000000"
+        android:layout_width="44sp"
+        android:layout_height="44sp"
+        android:layout_marginRight="0sp"
+        android:src="@drawable/refresh" />
+    <ImageButton
+        android:id="@+id/ibtn_clear"
+        android:background="#000000"
+        android:layout_width="44sp"
+        android:layout_height="44sp"
+        android:layout_marginRight="0sp"
+        android:src="@drawable/clear" />
+    
+    <ImageButton
+        android:id="@+id/ibtn_close"
+        android:background="#000000"
+        android:layout_width="44sp"
+        android:layout_height="44sp"
+        android:layout_marginRight="0sp"
+        android:src="@drawable/close" />
+
+</LinearLayout>
+    <WebView
+        android:id="@+id/wv_webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    />
+
+</LinearLayout>

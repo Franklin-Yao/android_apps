@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+<TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="30dip" 
+        android:text="歌曲列表"
+        android:textSize="22sp"
+        android:background="#a0000000"
+        android:gravity="center">
+       </TextView >
+<ListView 
+       android:id="@+id/musiclist_activity_lv_musiclist"  
+       android:layout_width="fill_parent"  
+       android:layout_height="fill_parent"
+       android:cacheColorHint="#00000000">  
+       </ListView>
+
+</LinearLayout>

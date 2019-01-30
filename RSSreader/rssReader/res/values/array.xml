@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string-array name="feedback_item">
+          	<item>看到大量负面报道，不敢用rssReader</item>
+	   	 	<item>感觉手机变卡了</item>
+	    	<item>我觉得其他的软件更好用</item>
+        </string-array>
+    </resources>

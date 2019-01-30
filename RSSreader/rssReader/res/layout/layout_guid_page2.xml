@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<LinearLayout   
+    xmlns:android="http://schemas.android.com/apk/res/android"  
+           android:orientation="vertical"  
+           android:layout_width="fill_parent"    
+           android:layout_height="fill_parent">   
+           
+      <ImageView   
+         android:id="@+id/image1"    
+         android:src="@drawable/caidan"  
+         android:layout_width="fill_parent"  
+         android:layout_height="200sp">   
+      </ImageView>
+
+      <TextView
+          android:id="@+id/textView_guid_page2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="18sp"
+          android:text="这里是菜单栏，点击我的收藏，您将看到您之前收藏的文章列表；点击更多，您将可以做查看帮助等；点击添加rss频道，您可以添加
+您想添加的rss源；点击反馈意见，您可以将您的意见反馈给我们；点击网络，可以设置网络" />
+   
+       </LinearLayout> 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <include
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/include_top"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/btn_UserGuide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dip"
+        android:text="使用指引" 
+        android:alpha="128"/>
+
+    <Button
+        android:id="@+id/btn_about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dip"
+        android:text="关于"
+        android:alpha="128" />
+
+</LinearLayout>

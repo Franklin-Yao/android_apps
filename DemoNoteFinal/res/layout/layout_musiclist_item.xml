@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+<ImageView
+        android:id="@+id/item_musiclist_iv_ic"
+        android:layout_width="46dip"
+        android:layout_height="46dip"
+        android:src="@drawable/ic_mp3">
+</ImageView>
+
+<RelativeLayout
+    android:id="@+id/item_musiclist_rl_musicinfo"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_toRightOf="@id/item_musiclist_iv_ic" >
+
+    <TextView
+        android:id="@+id/item_musiclist_tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="20sp" >
+
+       </TextView >
+       <TextView 
+        android:id="@+id/item_musiclist_tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="TextView"
+        android:textColor="#7eeb3d"
+        android:textSize="18sp">
+       </TextView >
+</RelativeLayout>
+<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:layout_below="@id/item_musiclist_rl_musicinfo"
+        android:layout_toRightOf="@id/item_musiclist_iv_ic">
+    <ImageView
+        android:id="@+id/item_musiclist_iv_folder"
+        android:layout_width="18dip"
+        android:layout_height="18dip"
+        android:src="@drawable/ic_folder">
+    </ImageView>   
+
+    <TextView
+        android:id="@+id/item_musiclist_tv_path"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/item_musiclist_iv_folder"
+        android:singleLine="true"
+        android:text="TextView"
+        android:textColor="#ffff00"
+        android:textSize="13sp" >
+
+       </TextView >
+       <TextView 
+        android:id="@+id/item_musiclist_tv_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="13sp">
+       </TextView >
+</RelativeLayout>
+</RelativeLayout>
