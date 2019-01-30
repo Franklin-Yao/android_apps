@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+	<include
+		android:id="@+id/common_top"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		layout="@layout/common_top"/>
+    <com.pingo.widget.pullrefresh.PullToRefreshLayout
+	    android:id="@+id/refresh_view"
+	    android:layout_below="@id/common_top"
+	    android:layout_marginTop="20dp"
+	    android:layout_width="match_parent"
+	    android:layout_height="fill_parent" >
+	    <include layout="@layout/common_refresh_head" />
+	    <!-- 支持所有实现Pullable接口的View -->
+   		<com.pingo.widget.pullrefresh.PullableScrollView
+   		    android:layout_width="fill_parent"
+			android:layout_height="fill_parent">
+			<LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="fill_parent">
+	 		    <GridView
+	 		        android:id="@+id/gv_channellist"
+				    android:layout_width="fill_parent"
+				    android:layout_height="fill_parent"
+				    android:verticalSpacing="5dp"
+				    android:horizontalSpacing="5dp"
+				    android:gravity="center"
+				    android:numColumns="3"
+				    android:stretchMode="columnWidth" >
+	 		    </GridView>
+   		    </LinearLayout>
+		</com.pingo.widget.pullrefresh.PullableScrollView>
+    	<include 
+    	    layout="@layout/common_load_more" />
+	</com.pingo.widget.pullrefresh.PullToRefreshLayout>
+  	<ImageView
+        android:id="@+id/iv_main_bg2"
+	    android:layout_width="fill_parent"
+	    android:layout_height="10dp"
+	    android:layout_below="@id/common_top"
+	    android:background="@drawable/activity_main_bg_top2"/>
+</RelativeLayout>

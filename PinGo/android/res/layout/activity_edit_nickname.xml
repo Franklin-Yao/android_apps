@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#eee"
+        android:orientation="vertical" >
+       	<RelativeLayout
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:background="@drawable/title_bar" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="修改用户名"
+                android:textColor="#ffffff"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/add_friend"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true" 
+                android:onClick="editNicknameBack"
+                android:layout_alignParentLeft="true"
+                android:layout_alignTop="@+id/textView1"
+                android:layout_marginLeft="18dp"
+                android:src="@drawable/back_green_normal" />
+
+        </RelativeLayout>
+		<ScrollView
+    		android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:scrollbarStyle="outsideOverlay" 
+    		 >
+        
+        	<LinearLayout
+            	android:layout_width="fill_parent"
+            	android:layout_height="wrap_content"
+            	android:orientation="vertical" >
+            	<EditText
+			        android:id="@+id/login_passwd_edit"
+			        android:layout_width="fill_parent"
+			        android:layout_height="200dp"
+			        android:layout_below="@+id/login_user_edit"
+			        android:layout_marginLeft="20dp"
+			        android:layout_marginRight="20dp"
+			        android:layout_marginTop="25dp"
+			        android:background="@drawable/login_editbox"
+			        android:gravity="center"
+			        android:hint="起个给力的名字吧（不超过10个字）"
+			        android:textColor="#000"
+			        android:textSize="15sp" />
+      				<Button 
+      				    android:layout_width="fill_parent" 
+        				android:layout_height="wrap_content"
+        				android:layout_marginTop="14dp"
+        				android:layout_marginBottom="14dp"
+        				android:layout_marginLeft="12dp"
+        				android:layout_marginRight="12dp"
+        				android:padding="4dp" 
+        				android:text="保存"
+        				android:textSize="18sp"		
+						android:textColor="#fff"
+						android:gravity="center"
+						android:background="@drawable/bg_common_btn_green"
+						android:onClick="submit"
+      				    />
+        	</LinearLayout>
+        	
+    </ScrollView>
+</LinearLayout>

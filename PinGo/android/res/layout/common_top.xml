@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/activity_main_bg_top1">
+			<ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="15dp"
+                android:layout_height="30dp"
+                android:clickable="true" 
+                android:onClick="onTopLeft"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/back" />
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="休闲零食"
+                android:textColor="#ffffff"
+                android:textSize="20sp" />
+			<ImageView
+                android:id="@+id/iv_cat"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:clickable="true" 
+                android:onClick="onTopRight"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/activity_first_cat_good_down" />
+        </RelativeLayout>
+
+</LinearLayout>

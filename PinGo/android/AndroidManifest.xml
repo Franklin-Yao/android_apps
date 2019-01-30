@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pingo.activity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+	<supports-screens android:anyDensity="true"  
+	    android:largeScreens="true"  
+	    android:normalScreens="true"  
+	    android:smallScreens="true"  
+	    android:xlargeScreens="true" />
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+    <uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.RECEIVE_SMS" />
+	<uses-permission android:name="android.permission.GET_TASKS" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
+    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
+
+    <application
+        android:name="com.pingo.activity.PingoApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar">
+        <activity
+            android:name=".GuideActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+   		   android:name="cn.smssdk.SMSSDKUIShell"
+		   android:configChanges="keyboardHidden|orientation|screenSize"
+		   android:theme="@android:style/Theme.Translucent.NoTitleBar"
+		   android:windowSoftInputMode="stateHidden|adjustResize" />
+        
+        <activity android:name="com.pingo.activity.MainActivity" />
+        <activity android:name="com.pingo.activity.GoodNewActivity" />
+        <activity android:name="com.pingo.activity.GoodShoppingRushActivity" />
+        <activity android:name="com.pingo.activity.SmsValidationActivity1" />
+        <activity android:name="com.pingo.activity.SmsSendActivity" />
+        <activity android:name="com.pingo.activity.SmsValidationActivity" />
+        <activity android:name="com.pingo.activity.ProductListActivity" />
+        <activity android:name="com.pingo.activity.TextDisplayActivity" />
+        <activity android:name="com.pingo.activity.ProvinceSchoolZoneSelectActivity" />
+        <activity android:name="com.pingo.activity.NewOrEditAddressActivity" />
+        <activity android:name="com.pingo.activity.ManageAddressActivity" />
+        <activity android:name="com.pingo.activity.LoginActivity" />
+        <activity android:name="com.pingo.activity.BabyActivity" />
+        <activity android:name="com.pingo.activity.ConfirmOrderActivity" />
+        <activity android:name="com.pingo.activity.LoginNetActivity" />
+        <activity android:name="com.pingo.activity.PurseActivity" />
+        <activity android:name="com.pingo.activity.ResetPassActivity" />
+        <activity android:name="com.pingo.activity.FirstCatGoodActivity" />
+        <activity android:name="com.pingo.activity.EditNicknameActivity" />
+        <activity android:name="com.pingo.activity.PersonInfoActivity" />
+        <activity android:name="com.pingo.activity.editQueueTaskActivity" />
+        <activity android:name="com.pingo.activity.AboutActivity" />
+        <activity android:name="com.pingo.activity.setTimeActivity" />
+        <activity android:name="com.pingo.activity.SubmitTextActivity"/>
+        <activity android:name="com.pingo.activity.RegisterActivity" />
+        <activity android:name="com.pingo.activity.SettingsActivity" />
+        <activity android:name="com.pingo.activity.ChatActivity" />
+        <activity android:name="com.pingo.activity.MainActivityYao" />
+        <activity android:name="com.pingo.activity.GoodCatActivity"  android:theme="@style/dialog"/>
+        <activity android:name="com.pingo.activity.GoodInfoActivity" />
+        <activity android:name="com.pingo.activity.GoodListActivity"/>
+        <activity android:name="com.pingo.utils.ShowBigPictrue" />
+        <receiver android:name="com.pingo.receiver.getMessegeReceiver">
+        	<intent-filter>
+        		<action android:name="com.max.autoStart"/>
+        	</intent-filter>
+        </receiver>
+    </application>
+</manifest>

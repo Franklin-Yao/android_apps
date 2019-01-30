@@ -1,0 +1,333 @@
+# view res/layout/activity_guide.xml #generated:13
+-keep class android.support.v4.view.PagerTitleStrip { <init>(...); }
+
+# view res/layout/activity_guide.xml #generated:7
+# view res/layout/activity_main_fragment_goods.xml #generated:49
+# view res/layout/activity_main_fragment_home.xml #generated:25
+# view res/layout/activity_main_yao.xml #generated:138
+# view res/layout/slideviewpage.xml #generated:5
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_action_bar_decor_include.xml #generated:19
+# view res/layout/abc_action_bar_decor_include.xml #generated:47
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:29
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:52
+-keep class android.support.v7.internal.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_bar_decor_include.xml #generated:31
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:40
+# view res/layout/abc_action_mode_bar.xml #generated:19
+-keep class android.support.v7.internal.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_bar_decor_include.xml #generated:25
+# view res/layout/abc_action_bar_decor_overlay.xml #generated:35
+-keep class android.support.v7.internal.widget.ActionBarView { <init>(...); }
+
+# view res/layout/abc_action_bar_home.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarView$HomeView { <init>(...); }
+
+# view res/layout/abc_action_bar_tabbar.xml #generated:17
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.internal.widget.LinearLayoutICS { <init>(...); }
+
+# view v11\res/layout-v11/abc_action_bar_decor.xml #generated:17
+# view v11\res/layout-v11/abc_simple_decor.xml #generated:17
+-keep class android.support.v7.internal.widget.NativeActionModeAwareLayout { <init>(...); }
+
+# view res/layout/abc_action_bar_tab.xml #generated:17
+-keep class android.support.v7.internal.widget.ScrollingTabContainerView$TabView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:85
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class cn.smssdk.SMSSDKUIShell { <init>(...); }
+
+# view res/layout/smssdk_contact_list_page.xml #generated:13
+-keep class cn.smssdk.gui.ContactsListView { <init>(...); }
+
+# view res/layout/smssdk_country_list_page.xml #generated:13
+-keep class cn.smssdk.gui.CountryListView { <init>(...); }
+
+# view res/layout/activity_manage_address.xml #generated:21
+# view res/layout/cart_all_f2.xml #generated:82
+-keep class com.fortysevendeg.swipelistview.SwipeListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.pingo.activity.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.pingo.activity.BabyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.pingo.activity.ChatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.pingo.activity.ConfirmOrderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.pingo.activity.EditNicknameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.pingo.activity.FirstCatGoodActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class com.pingo.activity.GoodCatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.pingo.activity.GoodInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.pingo.activity.GoodListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.pingo.activity.GoodNewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.pingo.activity.GoodShoppingRushActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.pingo.activity.GuideActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.pingo.activity.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.pingo.activity.LoginNetActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.pingo.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.pingo.activity.MainActivityYao { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.pingo.activity.ManageAddressActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.pingo.activity.NewOrEditAddressActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.pingo.activity.PersonInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.pingo.activity.PingoApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.pingo.activity.ProductListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.pingo.activity.ProvinceSchoolZoneSelectActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.pingo.activity.PurseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.pingo.activity.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.pingo.activity.ResetPassActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.pingo.activity.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.pingo.activity.SmsSendActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.pingo.activity.SmsValidationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class com.pingo.activity.SmsValidationActivity1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class com.pingo.activity.SubmitTextActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.pingo.activity.TextDisplayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.pingo.activity.editQueueTaskActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class com.pingo.activity.setTimeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.pingo.receiver.getMessegeReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class com.pingo.utils.ShowBigPictrue { <init>(...); }
+
+# view res/layout/babydetail_a.xml #generated:24
+# view res/layout/scale_pic_item.xml #generated:8
+# view res/layout/show_big_pictrue_a.xml #generated:8
+-keep class com.pingo.widget.HackyViewPager { <init>(...); }
+
+# view res/layout/activity_confirm_order.xml #generated:59
+# view res/layout/activity_main_fragment_cart.xml #generated:90
+# view res/layout/babydetail_a.xml #generated:109
+# view res/layout/order_pay_main.xml #generated:88
+-keep class com.pingo.widget.MyListView { <init>(...); }
+
+# view res/layout/timepicker_popwindow.xml #generated:26
+# view res/layout/timepicker_popwindow.xml #generated:31
+-keep class com.pingo.widget.PickerView { <init>(...); }
+
+# view res/layout/home_f.xml #generated:10
+-keep class com.pingo.widget.SlideShowView { <init>(...); }
+
+# view res/layout/activity_first_cat_good.xml #generated:36
+# view res/layout/activity_good_list.xml #generated:11
+# view res/layout/activity_scrollview.xml #generated:1
+-keep class com.pingo.widget.pullrefresh.PullToRefreshLayout { <init>(...); }
+
+# view res/layout/activity_first_cat_good.xml #generated:48
+# view res/layout/activity_good_list.xml #generated:19
+# view res/layout/activity_scrollview.xml #generated:10
+-keep class com.pingo.widget.pullrefresh.PullableScrollView { <init>(...); }
+
+# view res/layout/smssdk_contacts_listview_item.xml #generated:10
+-keep class m.framework.ui.widget.asyncview.AsyncImageView { <init>(...); }
+
+# view res/layout/pull_to_refresh_tryscroll.xml #generated:10
+-keep class sqq.ScrollViewPull.widget.TryPullToRefreshScrollView { <init>(...); }
+
+# view res/layout/pull_to_refresh_tryscroll.xml #generated:2
+-keep class sqq.ScrollViewPull.widget.TryRefreshableView { <init>(...); }
+
+# onClick res/layout/activity_purse.xml #generated:42
+# onClick res/layout/activity_purse.xml #generated:72
+# onClick res/layout/activity_settings.xml #generated:22
+-keepclassmembers class * { *** aboutUs(...); }
+
+# onClick res/layout/activity_manage_address.xml #generated:45
+-keepclassmembers class * { *** addAddress(...); }
+
+# onClick res/layout/activity_chat.xml #generated:14
+-keepclassmembers class * { *** chat_back(...); }
+
+# onClick res/layout/order_pay_main.xml #generated:27
+-keepclassmembers class * { *** chooseAddress(...); }
+
+# onClick res/layout/activity_edit_nickname.xml #generated:22
+-keepclassmembers class * { *** editNicknameBack(...); }
+
+# onClick res/layout/exit_dialog.xml #generated:37
+-keepclassmembers class * { *** exitbutton0(...); }
+
+# onClick res/layout/exit_dialog.xml #generated:49
+-keepclassmembers class * { *** exitbutton1(...); }
+
+# onClick res/layout/activity_main_fragment_goods.xml #generated:28
+-keepclassmembers class * { *** getCat(...); }
+
+# onClick res/layout/activity_main_goods_cheap_good.xml #generated:10
+-keepclassmembers class * { *** getGoodInfo(...); }
+
+# onClick res/layout/activity_main_fragment_goods.xml #generated:198
+# onClick res/layout/activity_main_fragment_goods.xml #generated:261
+# onClick res/layout/activity_main_fragment_goods.xml #generated:324
+# onClick res/layout/activity_main_fragment_goods.xml #generated:387
+# onClick res/layout/activity_main_fragment_goods.xml #generated:450
+# onClick res/layout/common_item_cat_good.xml #generated:31
+-keepclassmembers class * { *** getMoreGoods(...); }
+
+# onClick res/layout/activity_new_edit_address.xml #generated:136
+-keepclassmembers class * { *** getProvinceSchoolZone(...); }
+
+# onClick res/layout/chatting_item_msg_text_left.xml #generated:29
+-keepclassmembers class * { *** head_xiaohei(...); }
+
+# onClick res/layout/activity_login.xml #generated:109
+-keepclassmembers class * { *** login(...); }
+
+# onClick res/layout/activity_person_info.xml #generated:98
+-keepclassmembers class * { *** logout(...); }
+
+# onClick res/layout/activity_good_info.xml #generated:165
+-keepclassmembers class * { *** onAdd(...); }
+
+# onClick res/layout/activity_good_info.xml #generated:173
+-keepclassmembers class * { *** onAddToCart(...); }
+
+# onClick res/layout/activity_about.xml #generated:68
+-keepclassmembers class * { *** onAgreement(...); }
+
+# onClick res/layout/guide_page4.xml #generated:7
+-keepclassmembers class * { *** onEnter(...); }
+
+# onClick res/layout/activity_settings.xml #generated:84
+-keepclassmembers class * { *** onFeedBack(...); }
+
+# onClick res/layout/activity_settings.xml #generated:53
+-keepclassmembers class * { *** onHelp(...); }
+
+# onClick res/layout/activity_about.xml #generated:37
+-keepclassmembers class * { *** onIntroduction(...); }
+
+# onClick res/layout/activity_register.xml #generated:139
+-keepclassmembers class * { *** onLogin(...); }
+
+# onClick res/layout/activity_good_info.xml #generated:139
+-keepclassmembers class * { *** onMinus(...); }
+
+# onClick res/layout/activity_register.xml #generated:117
+-keepclassmembers class * { *** onPassSee(...); }
+
+# onClick res/layout/activity_pay.xml #generated:7
+-keepclassmembers class * { *** onPay(...); }
+
+# onClick res/layout/activity_register.xml #generated:127
+-keepclassmembers class * { *** onRegister(...); }
+
+# onClick res/layout/activity_login.xml #generated:93
+# onClick res/layout/activity_reset_password.xml #generated:35
+-keepclassmembers class * { *** onResetPass(...); }
+
+# onClick res/layout/activity_first_cat_good.xml #generated:115
+-keepclassmembers class * { *** onSubmit(...); }
+
+# onClick res/layout/common_top.xml #generated:12
+-keepclassmembers class * { *** onTopLeft(...); }
+
+# onClick res/layout/common_top.xml #generated:30
+-keepclassmembers class * { *** onTopRight(...); }
+
+# onClick res/layout/activity_login.xml #generated:121
+# onClick res/layout/activity_queue_task.xml #generated:202
+-keepclassmembers class * { *** register(...); }
+
+# onClick res/layout/activity_register.xml #generated:46
+-keepclassmembers class * { *** registerSexFemale(...); }
+
+# onClick res/layout/activity_register.xml #generated:37
+-keepclassmembers class * { *** registerSexMale(...); }
+
+# onClick res/layout/activity_queue_task.xml #generated:80
+# onClick res/layout/task_time.xml #generated:28
+-keepclassmembers class * { *** setTime(...); }
+
+# onClick res/layout/activity_main_fragment_msg.xml #generated:40
+-keepclassmembers class * { *** startchat(...); }
+
+# onClick res/layout/activity_edit_nickname.xml #generated:57
+# onClick res/layout/activity_main_fragment_pingo.xml #generated:159
+# onClick res/layout/activity_submit_text.xml #generated:37
+-keepclassmembers class * { *** submit(...); }
+

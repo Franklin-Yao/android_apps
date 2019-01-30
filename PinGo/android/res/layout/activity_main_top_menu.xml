@@ -1,0 +1,42 @@
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:id="@+id/main_top_menu"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="10dp"
+        android:background="@drawable/activity_main_bg_top1"
+        android:orientation="horizontal" >
+        <EditText
+            android:id="@+id/et_search"
+            android:layout_marginLeft="15dp"
+            android:layout_width="220dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:focusable="false"
+            android:clickable="true"
+           	android:layout_marginTop="10dp"
+            android:background="@drawable/bg_common_round_white"
+            android:drawableRight="@drawable/activity_main_search"
+            android:gravity="center"
+            android:textSize="12dp"
+            android:hint="搜索" >
+        </EditText>
+
+        <ImageView
+            android:id="@+id/view_getcat"
+            android:layout_marginTop="10dp"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="8dp"
+            android:layout_gravity="right"
+            android:src="@drawable/activity_main_cat" />
+    </LinearLayout>
+</RelativeLayout>

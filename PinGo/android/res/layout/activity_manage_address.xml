@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+    <include
+		android:id="@+id/common_top"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		layout="@layout/common_top"/>
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_below="@id/common_top"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <View
+             android:layout_width="fill_parent"
+             android:layout_height="1dp"
+             android:layout_marginTop="30dp"
+             android:background="@color/divide_line" />
+        <com.fortysevendeg.swipelistview.SwipeListView
+             xmlns:swipe="http://schemas.android.com/apk/res-auto"
+             android:id="@+id/listAddress"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+              android:descendantFocusability="blocksDescendants"
+              android:cacheColorHint="#00000000"
+		      android:divider="@color/divide_line"
+			  android:dividerHeight="1dp"
+		      android:listSelector="@color/bg_list_item_pressed" 
+             swipe:swipeActionLeft="reveal"
+             swipe:swipeActionRight="reveal"
+             swipe:swipeAnimationTime="1"
+             swipe:swipeBackView="@+id/id_back"
+             swipe:swipeCloseAllItemsWhenMoveList="true"
+             swipe:swipeFrontView="@+id/id_front"
+             swipe:swipeMode="left"
+             swipe:swipeOffsetLeft="0dip"
+             swipe:swipeOffsetRight="0dp"
+             swipe:swipeOpenOnLongPress="false" />
+        <View
+             android:layout_width="fill_parent"
+             android:layout_height="1dp"
+             android:background="@color/divide_line" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center"
+            android:background="@drawable/bg_list_selector"
+            android:clickable="true"
+            android:text="添加新地址"
+            android:textColor="#22bdfb"
+            android:textSize="15sp" 
+            android:onClick="addAddress"/>
+        <View
+             android:layout_width="fill_parent"
+             android:layout_height="1dp"
+             android:background="@color/divide_line" />
+	</LinearLayout>
+	<ImageView
+        android:id="@+id/iv_main_bg2"
+	    android:layout_width="fill_parent"
+	    android:layout_height="10dp"
+	    android:layout_below="@id/common_top"
+	    android:background="@drawable/activity_main_bg_top2"/>
+</RelativeLayout>

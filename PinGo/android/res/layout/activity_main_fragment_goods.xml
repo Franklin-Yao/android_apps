@@ -1,0 +1,509 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@color/white">
+    <RelativeLayout
+	    android:id="@+id/title2"
+	    android:layout_width="fill_parent"
+	    android:layout_height="45dp"
+	    android:orientation="horizontal"
+	    android:background="@color/green" >
+	    <TextView
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="地址"
+		    android:layout_marginLeft="20dp"
+		    android:textColor="#ffffff"
+		    android:textSize="10sp" />
+	    <TextView
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_centerInParent="true"
+		    android:layout_marginLeft="80dp"
+		    android:text="首页"
+		    android:textColor="#ffffff"
+		    android:textSize="20sp" />
+
+	    <ImageView
+	        android:id="@+id/getcat"
+	        android:layout_width="40dip"
+	        android:layout_height="40dip"
+	        android:background="@drawable/cat"
+	        android:clickable="true"
+	        android:onClick="getCat" />
+
+	</RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/title2">
+		<RelativeLayout
+	   	    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent">
+		    <FrameLayout 
+		        android:id="@+id/ads"
+		        android:layout_width="fill_parent"
+		        android:layout_height="150dip" >
+		        
+		        <android.support.v4.view.ViewPager
+		            android:id="@+id/vp"
+		            android:layout_width="fill_parent"
+		            android:layout_height="fill_parent" />
+		        
+		        <LinearLayout 
+		            android:layout_width="fill_parent"
+		            android:layout_height="35dip"
+		            android:orientation="vertical"
+		            android:layout_gravity="bottom"
+		            android:gravity="center"
+		            android:background="#33000000">
+		            <TextView 
+		                android:id="@+id/title_ads"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:text="图片标题"
+		                android:textColor="@android:color/white"/>
+		            <LinearLayout 
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:orientation="horizontal"
+		                android:layout_marginTop="3dip">
+		                <View 
+		                    android:id="@+id/dot_0"
+		                    android:layout_width="5dip"
+		                    android:layout_height="5dip"
+		                    android:layout_marginLeft="2dip"
+		                    android:layout_marginRight="2dip"
+		                    android:background="@drawable/dot_focused" />
+		                <View 
+		                    android:id="@+id/dot_1"
+		                    android:layout_width="5dip"
+		                    android:layout_height="5dip"
+		                    android:layout_marginLeft="2dip"
+		                    android:layout_marginRight="2dip"
+		                    android:background="@drawable/dot_normal"/>
+		                <View 
+		                    android:id="@+id/dot_2"
+		                    android:layout_width="5dip"
+		                    android:layout_height="5dip"
+		                    android:layout_marginLeft="2dip"
+		                    android:layout_marginRight="2dip"
+		                    android:background="@drawable/dot_normal" />
+		                <View 
+		                    android:id="@+id/dot_3"
+		                    android:layout_width="5dip"
+		                    android:layout_height="5dip"
+		                    android:layout_marginLeft="2dip"
+		                    android:layout_marginRight="2dip"
+		                    android:background="@drawable/dot_normal" />
+		                <View 
+		                    android:id="@+id/dot_4"
+		                    android:layout_width="5dip"
+		                    android:layout_height="5dip"
+		                    android:layout_marginLeft="2dip"
+		                    android:layout_marginRight="2dip"
+		                    android:background="@drawable/dot_normal"/>
+		            </LinearLayout>
+		        </LinearLayout>
+		    </FrameLayout>
+		    <ImageView
+		        android:id="@+id/main_divide1"
+			    android:layout_width="fill_parent"
+			    android:layout_height="10dip"
+			    android:background="@drawable/main_divide"
+			    android:layout_below="@id/ads"/>
+		    <HorizontalScrollView
+		        android:id="@+id/scrollview1"
+		        android:layout_width="fill_parent"
+		        android:layout_height="160dip" 
+		        android:scrollbars="none"
+		        android:layout_below="@id/main_divide1">
+		        <LinearLayout
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:orientation="horizontal">
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"  
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"   
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"  
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"  
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					   android:layout_width="1dip"  
+					    android:layout_height="fill_parent"  
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent" 
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+		        </LinearLayout>
+		   	</HorizontalScrollView>
+		   	<ImageView
+		        android:id="@+id/main_divide2"
+			    android:layout_width="fill_parent"
+			    android:layout_height="10dip"
+			    android:background="@drawable/main_divide"
+			    android:layout_below="@id/scrollview1"/>
+		   	<LinearLayout
+		   	    android:id="@+id/main_part3"
+		   	    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:orientation="horizontal"
+			    android:layout_below="@id/main_divide2">
+			   	<ImageView 
+			        android:id="@+id/quanbu"
+			        android:layout_width="160dip"
+			        android:layout_height="wrap_content"
+			        android:background="@drawable/background1"/>
+			   	<View
+				   	android:layout_width="1dip" 
+				   	android:layout_height="fill_parent"  
+				  	android:background="@color/grey" />
+			   	<ImageView 
+			        android:id="@+id/quanbu"
+			        android:layout_width="160dip"
+			        android:layout_height="wrap_content"
+			        android:background="@drawable/background"/>
+		   	</LinearLayout>
+		   	<ImageView
+		        android:id="@+id/main_divide3"
+			    android:layout_width="fill_parent"
+			    android:layout_height="10dip"
+			    android:background="@drawable/main_divide"
+			    android:layout_below="@id/main_part3"/>
+			<LinearLayout
+			    android:id="@+id/main_part4"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/main_divide3"
+			    android:orientation="vertical">
+		   		<RelativeLayout
+		   		    android:id="@+id/rl_get_more_goods_1"
+			   	    android:layout_width="wrap_content" 
+				   	android:layout_height="20dip"
+				   	android:gravity="center_vertical"
+				   	android:clickable="true"
+				   	android:onClick="getMoreGoods"
+				   	android:layout_margin="10dip" >
+				   	<TextView 
+		                android:id="@+id/item1"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_alignParentLeft="true"
+		                android:text="休闲零食"
+		                android:textSize="15dip"
+		                android:textColor="@color/black"/>
+				   	<ImageView
+				   	    android:id="@+id/more_goods"
+					    android:layout_width="wrap_content"
+					    android:layout_height="wrap_content"
+					    android:layout_marginTop="2dip"
+					    android:layout_alignParentRight="true"
+					    android:background="@drawable/mm_submenu_normal"/>
+				   	<TextView 
+		                android:id="@+id/item2"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_toLeftOf="@id/more_goods"
+		                android:text="更多商品"
+		                android:textSize="15dip"
+		                android:textColor="@color/red"/>
+			   	</RelativeLayout>
+			   	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+			   	<LinearLayout
+		            android:layout_width="wrap_content"
+		            android:layout_height="160dip"
+		            android:orientation="horizontal">
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"  
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"   
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			 	</LinearLayout>
+			 	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+		   	</LinearLayout>
+		   	<LinearLayout
+			    android:id="@+id/main_part5"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/main_part4"
+			    android:orientation="vertical">
+		   		<RelativeLayout
+		   		    android:id="@+id/rl_get_more_goods_2"
+			   	    android:layout_width="wrap_content" 
+				   	android:layout_height="20dip"
+				   	android:gravity="center_vertical"
+				   	android:clickable="true"
+				   	android:onClick="getMoreGoods"
+				   	android:layout_margin="10dip" >
+				   	<TextView 
+		                android:id="@+id/item1"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_alignParentLeft="true"
+		                android:text="奶酒饮料"
+		                android:textSize="15dip"
+		                android:textColor="@color/black"/>
+				   	<ImageView
+				   	    android:id="@+id/more_goods"
+					    android:layout_width="wrap_content"
+					    android:layout_height="wrap_content"
+					    android:layout_marginTop="2dip"
+					    android:layout_alignParentRight="true"
+					    android:background="@drawable/mm_submenu_normal"/>
+				   	<TextView 
+		                android:id="@+id/item2"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_toLeftOf="@id/more_goods"
+		                android:text="更多商品"
+		                android:textSize="15dip"
+		                android:textColor="@color/red"/>
+			   	</RelativeLayout>
+			   	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+			   	<LinearLayout
+		            android:layout_width="wrap_content"
+		            android:layout_height="160dip"
+		            android:orientation="horizontal">
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"  
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip" 
+					    android:layout_height="fill_parent"   
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			 	</LinearLayout>
+			 	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+		   	</LinearLayout>
+		   	<LinearLayout
+			    android:id="@+id/main_part6"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/main_part5"
+			    android:orientation="vertical">
+		   		<RelativeLayout
+		   		    android:id="@+id/rl_get_more_goods_3"
+			   	    android:layout_width="wrap_content" 
+				   	android:layout_height="20dip"
+				   	android:gravity="center_vertical"
+				   	android:clickable="true"
+				   	android:onClick="getMoreGoods"
+				   	android:layout_margin="10dip" >
+				   	<TextView 
+		                android:id="@+id/item1"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_alignParentLeft="true"
+		                android:text="文具用品"
+		                android:textSize="15dip"
+		                android:textColor="@color/black"/>
+				   	<ImageView
+				   	    android:id="@+id/more_goods"
+					    android:layout_width="wrap_content"
+					    android:layout_height="wrap_content"
+					    android:layout_marginTop="2dip"
+					    android:layout_alignParentRight="true"
+					    android:background="@drawable/mm_submenu_normal"/>
+				   	<TextView 
+		                android:id="@+id/item2"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_toLeftOf="@id/more_goods"
+		                android:text="更多商品"
+		                android:textSize="15dip"
+		                android:textColor="@color/red"/>
+			   	</RelativeLayout>
+			   	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+			   	<LinearLayout
+		            android:layout_width="wrap_content"
+		            android:layout_height="160dip"
+		            android:orientation="horizontal">
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"  
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"   
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			 	</LinearLayout>
+			 	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+		   	</LinearLayout>
+		   	<LinearLayout
+			    android:id="@+id/main_part7"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/main_part6"
+			    android:orientation="vertical">
+		   		<RelativeLayout
+		   		    android:id="@+id/rl_get_more_goods_4"
+			   	    android:layout_width="wrap_content" 
+				   	android:layout_height="20dip"
+				   	android:gravity="center_vertical"
+				   	android:clickable="true"
+				   	android:onClick="getMoreGoods"
+				   	android:layout_margin="10dip" >
+				   	<TextView 
+		                android:id="@+id/item1"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_alignParentLeft="true"
+		                android:text="洗护美肤"
+		                android:textSize="15dip"
+		                android:textColor="@color/black"/>
+				   	<ImageView
+				   	    android:id="@+id/more_goods"
+					    android:layout_width="wrap_content"
+					    android:layout_height="wrap_content"
+					    android:layout_marginTop="2dip"
+					    android:layout_alignParentRight="true"
+					    android:background="@drawable/mm_submenu_normal"/>
+				   	<TextView 
+		                android:id="@+id/item2"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_toLeftOf="@id/more_goods"
+		                android:text="更多商品"
+		                android:textSize="15dip"
+		                android:textColor="@color/red"/>
+			   	</RelativeLayout>
+			   	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+			   	<LinearLayout
+		            android:layout_width="wrap_content"
+		            android:layout_height="160dip"
+		            android:orientation="horizontal">
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"  
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"   
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			 	</LinearLayout>
+			 	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+		   	</LinearLayout>
+		   	<LinearLayout
+			    android:id="@+id/main_part8"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/main_part7"
+			    android:orientation="vertical">
+		   		<RelativeLayout
+		   		    android:id="@+id/rl_get_more_goods_5"
+			   	    android:layout_width="wrap_content" 
+				   	android:layout_height="20dip"
+				   	android:gravity="center_vertical"
+				   	android:clickable="true"
+				   	android:onClick="getMoreGoods"
+				   	android:layout_margin="10dip" >
+				   	<TextView 
+		                android:id="@+id/item1"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_alignParentLeft="true"
+		                android:text="家居清洁"
+		                android:textSize="15dip"
+		                android:textColor="@color/black"/>
+				   	<ImageView
+				   	    android:id="@+id/more_goods"
+					    android:layout_width="wrap_content"
+					    android:layout_height="wrap_content"
+					    android:layout_marginTop="2dip"
+					    android:layout_alignParentRight="true"
+					    android:background="@drawable/mm_submenu_normal"/>
+				   	<TextView 
+		                android:id="@+id/item2"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:layout_toLeftOf="@id/more_goods"
+		                android:text="更多商品"
+		                android:textSize="15dip"
+		                android:textColor="@color/red"/>
+			   	</RelativeLayout>
+			   	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+			   	<LinearLayout
+		            android:layout_width="wrap_content"
+		            android:layout_height="160dip"
+		            android:orientation="horizontal">
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"  
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			        <View
+					    android:layout_width="1dip"  
+					    android:layout_height="fill_parent"   
+					    android:background="@color/grey" />
+			        <include layout="@layout/common_item_good_one"/>
+			 	</LinearLayout>
+			 	<View
+				   	android:layout_width="fill_parent" 
+				   	android:layout_height="1dip" 
+				  	android:background="@color/grey" />
+		   	</LinearLayout>
+	   	</RelativeLayout>
+   	</ScrollView>
+</RelativeLayout>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+    <include
+		android:id="@+id/common_top"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		layout="@layout/common_top"/>
+	<ScrollView
+        android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/common_top">
+		<LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content">
+		   	<LinearLayout
+		       android:layout_width="fill_parent"
+		       android:layout_height="wrap_content"
+		       android:gravity="center_horizontal"
+		       android:orientation="vertical" >
+		       <ImageView
+		            android:id="@+id/iv_good_pic"
+		            android:layout_width="fill_parent"
+		            android:layout_margin="15dp"
+		            android:layout_height="182dp" />
+		       <View
+			        android:id="@+id/main_divide1"
+				    android:layout_width="fill_parent"
+				    android:layout_height="10dip"
+				    android:background="@drawable/common_divide_line"/>
+		       <LinearLayout 
+	                android:layout_width="fill_parent"
+	                android:layout_height="110dp"
+	                android:paddingLeft="32dp"
+	                android:orientation="vertical">
+			       <TextView
+			           android:id="@+id/tv_good_name"
+			           android:layout_width="wrap_content"
+			           android:layout_height="wrap_content"
+			           android:layout_marginTop="10dp"
+			           android:singleLine="true"
+			           android:text=""
+			           android:textColor="#000000"
+			           android:textSize="15dp" />
+					<TextView
+			           android:id="@+id/tv_good_weight"
+			           android:layout_width="wrap_content"
+			           android:layout_height="wrap_content"
+			           android:layout_marginTop="4dp"
+			           android:singleLine="true"
+			           android:text=""
+			           android:textColor="#000000"
+			           android:textSize="15dp" />		
+			       <LinearLayout
+			           android:layout_width="fill_parent"
+			           android:layout_height="wrap_content"
+			           android:layout_marginTop="5dip"
+			           android:orientation="horizontal" >
+	
+			           <TextView
+			               android:id="@+id/tv_good_price"
+			               android:layout_width="wrap_content"
+			               android:layout_height="wrap_content"
+			               android:singleLine="true"
+			               android:text="￥"
+			               android:textColor="@color/red"
+			               android:textSize="18dp" />
+			       </LinearLayout>
+			       <TextView
+			               android:id="@+id/tv_good_mktprice"
+			               android:layout_width="wrap_content"
+			               android:layout_height="wrap_content"
+			               android:singleLine="true"
+			               android:text="校均价 ￥"
+			               android:textColor="#aca9aa"
+			               android:textSize="11dp" />
+		       </LinearLayout>
+		       <View
+			        android:id="@+id/main_divide1"
+				    android:layout_width="fill_parent"
+				    android:layout_height="10dip"
+				    android:background="@color/divide_line"/>
+		       
+		       <LinearLayout 
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:orientation="vertical">
+			       <TextView
+			           android:layout_width="wrap_content"
+			           android:layout_height="wrap_content"
+			           android:layout_marginTop="20dip"
+			           android:paddingLeft="32dp"
+			           android:singleLine="true"
+			           android:text="商品简介"
+			           android:textColor="#000000"
+			           android:textSize="15dp" />
+	
+			       <View
+			           android:layout_width="fill_parent"
+			           android:layout_height="1dp"
+			           android:background="@drawable/activity_good_info_divide_line" />
+					<LinearLayout 
+		                android:layout_width="fill_parent"
+		                android:layout_height="wrap_content"
+		                android:paddingLeft="32dp"
+		                android:orientation="vertical">
+			       <TextView
+			           android:id="@+id/tv_good_intro"
+			           android:layout_width="wrap_content"
+			           android:layout_height="wrap_content"
+			           android:layout_margin="10dip"
+			           android:paddingBottom="60dip"
+			           android:layout_marginTop="40dip"
+			           android:text=""
+			           android:textColor="#000000"
+			           android:textSize="15dip" />
+		   			</LinearLayout>
+		   		</LinearLayout>
+			</LinearLayout>
+   		</LinearLayout>
+   	</ScrollView>
+   	<ImageView
+        android:id="@+id/iv_top_bg2"
+	    android:layout_width="fill_parent"
+	    android:layout_height="10dp"
+	    android:layout_below="@id/common_top"
+	    android:background="@drawable/activity_main_bg_top2"/>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dip"
+        android:padding="10dp"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.9"
+        android:background="@color/divide_line"
+        android:orientation="horizontal" >
+		<LinearLayout
+	        android:layout_width="25dp"
+	        android:layout_height="fill_parent"
+	        android:gravity="center"
+	        android:clickable="true"
+	        android:onClick="onMinus"
+	        android:layout_marginTop="0dp"
+	        android:layout_marginLeft="26dp">
+	        <ImageButton
+	            android:id="@+id/decrement"
+	            android:layout_width="25dp"
+	            android:layout_height="2dp"
+	            android:background="@drawable/activity_good_info_mimus" />
+		</LinearLayout>
+        <TextView
+            android:id="@+id/tv_product_num"
+            android:layout_width="37dp"
+            android:layout_height="37dp"
+            android:layout_marginLeft="5dp"
+            android:text="1"
+            android:textSize="20dp"
+            android:focusable="false"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_common_round_gray_5"/>
+
+        <ImageButton
+            android:id="@+id/increment"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="7dp"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:onClick="onAdd"
+            android:background="@drawable/activity_good_info_add" />
+        <LinearLayout
+            android:layout_width="117dp"
+            android:layout_height="37dp"
+            android:layout_marginLeft="80dp"
+            android:clickable="true"
+        	android:onClick="onAddToCart"
+            android:background="@drawable/bg_common_round_blue_5"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+		   	<ImageView
+		   	    android:id="@+id/iv_top_bg2"
+		   	    android:layout_width="25dp"
+		   	    android:layout_height="25dp"
+		   	    android:background="@drawable/activity_good_info_cart" />
+
+	        <TextView
+		        android:id="@+id/login_register_btn"
+		        android:layout_width="wrap_content"
+		        android:layout_height="36dp"
+		        android:layout_marginLeft="5dp"
+		        android:gravity="center_vertical"
+		        android:text="加入购物车"
+		        android:textColor="#ffffff"
+		        android:textSize="15dp" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_gray"
+    android:orientation="vertical" >
+    <include
+		android:id="@+id/common_top"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		layout="@layout/common_top"/>
+    <LinearLayout
+        android:id="@+id/ll_main"
+        android:layout_below="@id/common_top"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical" 
+	    android:background="@color/divide_line">
+	    <LinearLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="154dp"
+		    android:orientation="vertical" 
+		    android:gravity="center"
+		    android:background="@drawable/activity_main_user_profile_bg">
+			<ImageView
+		        android:id="@+id/iv_user_avatar"
+			    android:layout_width="80dp"
+			    android:layout_height="80dp"
+			    android:background="@drawable/logo"/>
+		</LinearLayout>
+		<LinearLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="10dp"
+		    android:layout_marginBottom="10dp"
+		    android:layout_marginLeft="20dp"
+		    android:layout_marginRight="20dp"
+		    android:orientation="horizontal" >
+
+		    <LinearLayout
+		        android:id="@+id/view_profile"
+			    android:clickable="true"
+		        android:layout_width="155dp"
+		        android:layout_height="80dp"
+		        android:background="@color/white"
+		        android:gravity="center"
+		        android:orientation="horizontal"
+		        android:padding="10dp" >
+
+		        <ImageView
+		            android:id="@+id/iv_main_bg2"
+		            android:layout_width="45dp"
+		            android:layout_height="30dp"
+		            android:background="@drawable/activity_main_user_profile" />
+
+		        <TextView
+		            android:id="@+id/iv_main_bg2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_marginLeft="20dp"
+		            android:text="个人"
+		            android:textColor="@color/black"
+		            android:textSize="16dp" />
+		    </LinearLayout>
+			<LinearLayout
+			    android:id="@+id/view_address"
+			    android:clickable="true"
+		        android:layout_width="165dp"
+		        android:layout_height="80dp"
+		        android:background="@color/white"
+		        android:gravity="center"
+		        android:layout_marginLeft="10dp"
+		        android:orientation="horizontal"
+		        android:padding="10dp" >
+
+		        <ImageView
+		            android:id="@+id/iv_main_bg2"
+		            android:layout_width="45dp"
+		            android:layout_height="30dp"
+		            android:background="@drawable/activity_main_user_adress" />
+
+		        <TextView
+		            android:id="@+id/iv_main_bg2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_marginLeft="20dp"
+		            android:text="地址"
+		            android:textColor="@color/black"
+		            android:textSize="16dp" />
+		    </LinearLayout>
+		</LinearLayout>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/iv_main_bg2"
+	    android:layout_width="fill_parent"
+	    android:layout_height="10dp"
+	    android:layout_below="@id/common_top"
+	    android:background="@drawable/activity_main_bg_top2"/>
+</RelativeLayout>

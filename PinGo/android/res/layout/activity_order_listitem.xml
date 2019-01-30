@@ -1,0 +1,56 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:background="@color/white"
+    android:orientation="horizontal" >
+    <ImageView
+        android:id="@+id/iv_goods_pic"
+        android:layout_width="80dp"
+        android:layout_height="84dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:scaleType="centerCrop"
+        android:background="@drawable/common_pic_default" />
+       <LinearLayout
+           android:layout_width="200dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="10dp"
+           android:orientation="vertical" >
+           <TextView
+               android:id="@+id/tv_name"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginTop="26dp"
+               android:singleLine="true"
+               android:text="拍客大叔 棒棒糖"
+               android:textColor="#3d3d3d"
+               android:textSize="14dp"/>
+           <TextView
+               android:id="@+id/tv_num"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginTop="12dp"
+               android:gravity="center"
+               android:text="共一件商品"
+               android:textSize="12dp" />
+           <TextView
+               android:id="@+id/tv_price"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginTop="12dp"
+               android:gravity="center"
+               android:text="￥16.0"
+               android:textColor="#fa4d4d"
+               android:textSize="14dp" />
+       </LinearLayout>
+		<ImageView
+	        android:id="@+id/iv_goods_pic"
+	        android:layout_width="80dp"
+	        android:layout_height="84dp"
+	        android:layout_marginTop="15dp"
+	        android:layout_marginLeft="15dp"
+	        android:scaleType="centerCrop"
+	        android:background="@drawable/common_pic_default" />
+</LinearLayout>

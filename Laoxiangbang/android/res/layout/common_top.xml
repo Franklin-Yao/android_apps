@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/bg_orange"
+    android:orientation="vertical" >
+			<ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="15dp"
+                android:layout_height="30dp"
+                android:clickable="true" 
+                android:onClick="onTopLeft"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/back" />
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="休闲零食"
+                android:textColor="#ffffff"
+                android:textSize="20sp" />
+			<ImageView
+                android:id="@+id/iv_cat"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:clickable="true" 
+                android:onClick="onTopRight"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp" />
+</RelativeLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_dialog_content"
+	android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:gravity="center"
+	android:orientation="vertical"
+    android:background="@drawable/bg_common_round_white" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="22dp" >
+
+        <EditText
+            android:id="@+id/et_phone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/smssdk_input_bg_focus"
+            android:gravity="center"
+            android:hint="请输入手机号码"
+            android:textColor="#ff353535"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginRight="16dip"
+        android:layout_marginTop="24dip"
+        android:background="@drawable/btn_orange_selector"
+        android:text="发验证码"
+        android:textColor="#ffffff"
+        android:textSize="15sp" />
+	</LinearLayout>
+</LinearLayout>

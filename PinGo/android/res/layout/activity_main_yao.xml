@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainweixin"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#eee" >
+    <RelativeLayout
+        android:id="@+id/main_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:background="@color/lightgrey"
+        >
+        <ImageView
+        	android:id="@+id/img_tab_now"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content" 
+        	android:layout_gravity="bottom"            	
+            android:layout_alignParentBottom="true"/>              
+         <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+        	>
+        	 <LinearLayout
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+              	android:gravity="center_horizontal"
+              	android:orientation="vertical"
+              	android:layout_weight="1">
+                <ImageView
+            		android:id="@+id/img_find_task"
+        			android:layout_width="50dip"
+        			android:layout_height="50dip" 
+        			android:clickable="true"
+        			android:src="@drawable/tabbar_home_selected" />
+                <TextView
+            		android:layout_width="wrap_content"
+            		android:layout_height="wrap_content"
+            		android:layout_marginTop="-15dip"
+            		android:text="主页"
+            		android:textColor="@color/black"
+            		android:textSize="12sp" />      
+        	 </LinearLayout>
+        	 <LinearLayout
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+              	android:gravity="center_horizontal"
+              	android:orientation="vertical"
+              	android:layout_weight="1">
+                <ImageView
+            		android:id="@+id/img_task"
+        			android:layout_width="50dip"
+        			android:layout_height="50dip" 
+        			android:clickable="true"
+        			android:src="@drawable/tabbar_cart_normal" />
+                <TextView
+            		android:layout_width="wrap_content"
+            		android:layout_height="wrap_content"
+            		android:layout_marginTop="-15dip"
+            		android:text="购物车"
+            		android:textColor="@color/black"
+            		android:textSize="12sp" />    
+        	 </LinearLayout>
+        	 <LinearLayout
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+              	android:gravity="center_horizontal"
+              	android:orientation="vertical"
+              	android:layout_weight="1">
+
+                <ImageView
+                    android:id="@+id/img_add_task"
+                    android:layout_width="50dip"
+        			android:layout_height="50dip" 
+                    android:clickable="true"
+                    android:src="@drawable/tabbar_order_normal" />
+                <TextView
+            		android:layout_width="wrap_content"
+            		android:layout_height="wrap_content"
+            		android:layout_marginTop="-15dip"
+            		android:text="拼购"
+            		android:textColor="@color/black"
+            		android:textSize="12sp" />
+        	 </LinearLayout>
+        	 <LinearLayout
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+              	android:gravity="center_horizontal"
+              	android:orientation="vertical"
+              	android:layout_weight="1">
+
+        	     <ImageView
+        	         android:id="@+id/img_msg"
+        	         android:layout_width="50dip"
+        			android:layout_height="50dip" 
+        	         android:clickable="true"
+        	         android:src="@drawable/tabbar_wallet_normal" />
+
+                <TextView
+            		android:layout_width="wrap_content"
+            		android:layout_height="wrap_content"
+            		android:layout_marginTop="-15dip"
+            		android:text="消息"
+            		android:textColor="@color/black"
+            		android:textSize="12sp" />
+        	 </LinearLayout>
+        	 <LinearLayout
+            	android:layout_width="wrap_content"
+            	android:layout_height="wrap_content"
+              	android:gravity="center_horizontal"
+              	android:orientation="vertical"
+              	android:layout_weight="1">               	
+                <ImageView
+            		android:id="@+id/img_me"
+        			android:layout_width="50dip"
+        			android:layout_height="50dip" 
+        			android:clickable="true"
+        			android:src="@drawable/tabbar_profile_normal" />
+                <TextView
+            		android:layout_width="wrap_content"
+            		android:layout_height="wrap_content"
+            		android:layout_marginTop="-15dip"
+            		android:text="个人"
+            		android:textColor="@color/black"
+            		android:textSize="12sp" />
+        	 </LinearLayout>
+        </LinearLayout>     
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+    	android:layout_height="wrap_content" 
+    	android:layout_alignParentTop="true"
+    	android:layout_above="@id/main_bottom" 
+        android:orientation="vertical" >
+        <android.support.v4.view.ViewPager
+        	android:id="@+id/tabpager"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_gravity="center" >
+        </android.support.v4.view.ViewPager>
+    </LinearLayout>
+</RelativeLayout>

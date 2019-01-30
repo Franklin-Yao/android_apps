@@ -1,0 +1,1972 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity
+android.support.v4.app.FragmentActivity: FragmentActivity()
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost
+android.support.v4.app.FragmentTabHost: FragmentTabHost(android.content.Context,android.util.AttributeSet)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.NotificationCompatSideChannelService
+android.support.v4.content.FileProvider
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.content.WakefulBroadcastReceiver
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip: PagerTabStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.PagerTitleStrip
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context)
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager: ViewPager(android.content.Context)
+android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager$LayoutParams
+android.support.v4.view.ViewPager$LayoutParams: ViewPager$LayoutParams(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.ContentLoadingProgressBar
+android.support.v4.widget.ContentLoadingProgressBar: ContentLoadingProgressBar(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.DrawerLayout
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet,int)
+android.support.v4.widget.DrawerLayout$LayoutParams
+android.support.v4.widget.DrawerLayout$LayoutParams: DrawerLayout$LayoutParams(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout
+android.support.v4.widget.SlidingPaneLayout: SlidingPaneLayout(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.SlidingPaneLayout: SlidingPaneLayout(android.content.Context,android.util.AttributeSet,int)
+android.support.v4.widget.SlidingPaneLayout$LayoutParams
+android.support.v4.widget.SlidingPaneLayout$LayoutParams: SlidingPaneLayout$LayoutParams(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SwipeRefreshLayout
+android.support.v4.widget.SwipeRefreshLayout: SwipeRefreshLayout(android.content.Context,android.util.AttributeSet)
+android.support.v7.app.ActionBar$LayoutParams
+android.support.v7.app.ActionBar$LayoutParams: ActionBar$LayoutParams(android.content.Context,android.util.AttributeSet)
+android.support.v7.app.ActionBarActivity
+android.support.v7.app.ActionBarActivity: void setContentView(android.view.View)
+android.support.v7.internal.view.menu.ActionMenuItemView
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context)
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.view.menu.ActionMenuPresenter$SavedState
+android.support.v7.internal.view.menu.ActionMenuPresenter$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.view.menu.ActionMenuView
+android.support.v7.internal.view.menu.ActionMenuView: ActionMenuView(android.content.Context)
+android.support.v7.internal.view.menu.ActionMenuView: ActionMenuView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ActionMenuView$LayoutParams
+android.support.v7.internal.view.menu.ActionMenuView$LayoutParams: ActionMenuView$LayoutParams(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ExpandedMenuView
+android.support.v7.internal.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ListMenuItemView
+android.support.v7.internal.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context)
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.AbsSpinnerICS$SavedState
+android.support.v7.internal.widget.AbsSpinnerICS$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ActionBarContainer
+android.support.v7.internal.widget.ActionBarContainer: ActionBarContainer(android.content.Context)
+android.support.v7.internal.widget.ActionBarContainer: ActionBarContainer(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarContextView
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context)
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.ActionBarOverlayLayout
+android.support.v7.internal.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context)
+android.support.v7.internal.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarView
+android.support.v7.internal.widget.ActionBarView: ActionBarView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarView$HomeView
+android.support.v7.internal.widget.ActionBarView$HomeView: ActionBarView$HomeView(android.content.Context)
+android.support.v7.internal.widget.ActionBarView$HomeView: ActionBarView$HomeView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarView$SavedState
+android.support.v7.internal.widget.ActionBarView$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ActivityChooserView
+android.support.v7.internal.widget.ActivityChooserView: ActivityChooserView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActivityChooserView: ActivityChooserView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.CompatTextView
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context)
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.LinearLayoutICS
+android.support.v7.internal.widget.LinearLayoutICS: LinearLayoutICS(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ListPopupWindow
+android.support.v7.internal.widget.ListPopupWindow: ListPopupWindow(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ListPopupWindow: ListPopupWindow(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.NativeActionModeAwareLayout
+android.support.v7.internal.widget.NativeActionModeAwareLayout: NativeActionModeAwareLayout(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ProgressBarICS$SavedState
+android.support.v7.internal.widget.ProgressBarICS$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView: ScrollingTabContainerView$TabView(android.content.Context,android.util.AttributeSet)
+android.support.v7.widget.SearchView
+android.support.v7.widget.SearchView: SearchView(android.content.Context,android.util.AttributeSet)
+android.support.v7.widget.SearchView$SearchAutoComplete
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context)
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet)
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet,int)
+cn.smssdk.DefaultOnSendMessageHandler
+cn.smssdk.DefaultOnSendMessageHandler: DefaultOnSendMessageHandler()
+cn.smssdk.DefaultOnSendMessageHandler: boolean onSendMessage(java.lang.String,java.lang.String)
+cn.smssdk.EventHandler
+cn.smssdk.EventHandler: EventHandler()
+cn.smssdk.EventHandler: void onRegister()
+cn.smssdk.EventHandler: void beforeEvent(int,java.lang.Object)
+cn.smssdk.EventHandler: void afterEvent(int,int,java.lang.Object)
+cn.smssdk.EventHandler: void onUnregister()
+cn.smssdk.OnSendMessageHandler
+cn.smssdk.OnSendMessageHandler: boolean onSendMessage(java.lang.String,java.lang.String)
+cn.smssdk.R
+cn.smssdk.R: R()
+cn.smssdk.R$array
+cn.smssdk.R$array: int smssdk_country_group_r
+cn.smssdk.R$array: int smssdk_country_group_q
+cn.smssdk.R$array: int smssdk_country_group_p
+cn.smssdk.R$array: int smssdk_country_group_o
+cn.smssdk.R$array: int smssdk_country_group_v
+cn.smssdk.R$array: int smssdk_country_group_u
+cn.smssdk.R$array: int smssdk_country_group_t
+cn.smssdk.R$array: int smssdk_country_group_s
+cn.smssdk.R$array: int smssdk_country_group_f
+cn.smssdk.R$array: int smssdk_country_group_j
+cn.smssdk.R$array: int smssdk_country_group_e
+cn.smssdk.R$array: int smssdk_country_group_i
+cn.smssdk.R$array: int smssdk_country_group_d
+cn.smssdk.R$array: int smssdk_country_group_h
+cn.smssdk.R$array: int smssdk_country_group_c
+cn.smssdk.R$array: int smssdk_country_group_g
+cn.smssdk.R$array: int smssdk_country_group_n
+cn.smssdk.R$array: int smssdk_country_group_b
+cn.smssdk.R$array: int smssdk_country_group_m
+cn.smssdk.R$array: int smssdk_country_group_a
+cn.smssdk.R$array: int smssdk_country_group_l
+cn.smssdk.R$array: int smssdk_country_group_k
+cn.smssdk.R$array: int smssdk_country_group_y
+cn.smssdk.R$array: int smssdk_country_group_z
+cn.smssdk.R$array: int smssdk_country_group_w
+cn.smssdk.R$array: int smssdk_country_group_x
+cn.smssdk.R$array: R$array()
+cn.smssdk.R$color
+cn.smssdk.R$color: int smssdk_gray
+cn.smssdk.R$color: int smssdk_lv_item_selector
+cn.smssdk.R$color: int smssdk_lv_tv_color
+cn.smssdk.R$color: int smssdk_gray_press
+cn.smssdk.R$color: int smssdk_black
+cn.smssdk.R$color: int smssdk_lv_item_divider
+cn.smssdk.R$color: int smssdk_white
+cn.smssdk.R$color: int smssdk_lv_title_color
+cn.smssdk.R$color: int smssdk_transparent
+cn.smssdk.R$color: R$color()
+cn.smssdk.R$drawable
+cn.smssdk.R$drawable: int smssdk_dialog_btn_back
+cn.smssdk.R$drawable: int smssdk_cl_divider
+cn.smssdk.R$drawable: int smssdk_dialog_bg
+cn.smssdk.R$drawable: int smssdk_back_arrow
+cn.smssdk.R$drawable: int smssdk_cp_default_avatar
+cn.smssdk.R$drawable: int smssdk_search_icon
+cn.smssdk.R$drawable: int smssdk_country_group_scroll_up
+cn.smssdk.R$drawable: int smssdk_sharesdk_icon
+cn.smssdk.R$drawable: int smssdk_dialog_btn_pre
+cn.smssdk.R$drawable: int smssdk_dialog_btn_nor
+cn.smssdk.R$drawable: int smssdk_clear_search
+cn.smssdk.R$drawable: int smssdk_input_bg_normal
+cn.smssdk.R$drawable: int smssdk_input_bg_focus
+cn.smssdk.R$drawable: int smssdk_edittext_bg_selector
+cn.smssdk.R$drawable: int smssdk_input_bg_special_normal
+cn.smssdk.R$drawable: int smssdk_btn_disenable
+cn.smssdk.R$drawable: int smssdk_default_avatar
+cn.smssdk.R$drawable: int smssdk_corners_bg_pre
+cn.smssdk.R$drawable: int smssdk_corners_bg_nor
+cn.smssdk.R$drawable: int smssdk_country_bg_selector
+cn.smssdk.R$drawable: int smssdk_country_group_scroll_down
+cn.smssdk.R$drawable: int smssdk_dialog_back
+cn.smssdk.R$drawable: int smssdk_btn_enable
+cn.smssdk.R$drawable: int smssdk_back_arrow2
+cn.smssdk.R$drawable: int smssdk_input_bg_special_focus
+cn.smssdk.R$drawable: int smssdk_corners_bg
+cn.smssdk.R$drawable: R$drawable()
+cn.smssdk.R$id
+cn.smssdk.R$id: int tv_phone
+cn.smssdk.R$id: int tv_contact
+cn.smssdk.R$id: int btn_next
+cn.smssdk.R$id: int tv_unreceive_identify
+cn.smssdk.R$id: int et_put_identify
+cn.smssdk.R$id: int btn_dialog_cancel
+cn.smssdk.R$id: int btn_dialog_ok
+cn.smssdk.R$id: int rl_country
+cn.smssdk.R$id: int tv_dialog_title
+cn.smssdk.R$id: int btn_submit
+cn.smssdk.R$id: int llTitle
+cn.smssdk.R$id: int tv_name
+cn.smssdk.R$id: int tv_dialog_hint
+cn.smssdk.R$id: int ivSearch
+cn.smssdk.R$id: int iv_contact
+cn.smssdk.R$id: int tv_country_num
+cn.smssdk.R$id: int iv_clear
+cn.smssdk.R$id: int tv_identify_notify
+cn.smssdk.R$id: int iv_contact_icon
+cn.smssdk.R$id: int tv_invite_hint
+cn.smssdk.R$id: int tv_country
+cn.smssdk.R$id: int clContact
+cn.smssdk.R$id: int btn_invite
+cn.smssdk.R$id: int et_write_phone
+cn.smssdk.R$id: int clCountry
+cn.smssdk.R$id: int btn_sounds
+cn.smssdk.R$id: int llSearch
+cn.smssdk.R$id: int tv_title
+cn.smssdk.R$id: int tv_contact_name
+cn.smssdk.R$id: int btn_add
+cn.smssdk.R$id: int rl_lv_item_bg
+cn.smssdk.R$id: int ll_back
+cn.smssdk.R$id: int tv_contact_phones
+cn.smssdk.R$id: R$id()
+cn.smssdk.R$layout
+cn.smssdk.R$layout: int smssdk_search_title_layout
+cn.smssdk.R$layout: int smssdk_contact_list_page
+cn.smssdk.R$layout: int smssdk_country_list_page
+cn.smssdk.R$layout: int smssdk_regist_page
+cn.smssdk.R$layout: int smssdk_back_verify_dialog
+cn.smssdk.R$layout: int smssdk_title_layout
+cn.smssdk.R$layout: int smssdk_progress_dialog
+cn.smssdk.R$layout: int smssdk_send_msg_dialog
+cn.smssdk.R$layout: int smssdk_listview_title_layout
+cn.smssdk.R$layout: int smssdk_contact_detail_page
+cn.smssdk.R$layout: int smssdk_contacts_listview_item
+cn.smssdk.R$layout: int smssdk_input_identify_num_page
+cn.smssdk.R$layout: R$layout()
+cn.smssdk.R$raw
+cn.smssdk.R$raw: int smssdk_pydb
+cn.smssdk.R$raw: R$raw()
+cn.smssdk.R$string
+cn.smssdk.R$string: int smssdk_write_right_mobile_phone
+cn.smssdk.R$string: int smssdk_error_desc_516
+cn.smssdk.R$string: int smssdk_error_detail_512
+cn.smssdk.R$string: int smssdk_error_desc_515
+cn.smssdk.R$string: int smssdk_error_detail_511
+cn.smssdk.R$string: int smssdk_send_mobile_detail
+cn.smssdk.R$string: int smssdk_error_desc_518
+cn.smssdk.R$string: int smssdk_cancel
+cn.smssdk.R$string: int smssdk_error_detail_514
+cn.smssdk.R$string: int smssdk_error_desc_517
+cn.smssdk.R$string: int smssdk_error_detail_513
+cn.smssdk.R$string: int smssdk_error_desc_519
+cn.smssdk.R$string: int smssdk_submit
+cn.smssdk.R$string: int smssdk_resend_identify_code
+cn.smssdk.R$string: int smssdk_make_sure_mobile_detail
+cn.smssdk.R$string: int smssdk_add_contact
+cn.smssdk.R$string: int smssdk_contacts_phones
+cn.smssdk.R$string: int smssdk_your_ccount_is_verified
+cn.smssdk.R$string: int smssdk_wait
+cn.smssdk.R$string: int smssdk_search
+cn.smssdk.R$string: int smssdk_error_desc_520
+cn.smssdk.R$string: int smssdk_error_desc_521
+cn.smssdk.R$string: int smssdk_error_desc_522
+cn.smssdk.R$string: int smssdk_error_desc_523
+cn.smssdk.R$string: int smssdk_error_desc_524
+cn.smssdk.R$string: int smssdk_error_desc_525
+cn.smssdk.R$string: int smssdk_invite
+cn.smssdk.R$string: int smssdk_virificaition_code_wrong
+cn.smssdk.R$string: int smssdk_error_desc_526
+cn.smssdk.R$string: int smssdk_error_desc_server_busy
+cn.smssdk.R$string: int smssdk_country
+cn.smssdk.R$string: int smssdk_country_not_support_currently
+cn.smssdk.R$string: int smssdk_write_identify_code
+cn.smssdk.R$string: int smssdk_choose_country
+cn.smssdk.R$string: int smssdk_ok
+cn.smssdk.R$string: int smssdk_write_mobile_phone
+cn.smssdk.R$string: int smssdk_contacts_in_app
+cn.smssdk.R$string: int smssdk_network_error
+cn.smssdk.R$string: int smssdk_identify_code
+cn.smssdk.R$string: int smssdk_next
+cn.smssdk.R$string: int smssdk_receive_msg
+cn.smssdk.R$string: int smssdk_virificaition_code_sent
+cn.smssdk.R$string: int smssdk_choice_invite_phones
+cn.smssdk.R$string: int smssdk_close_identify_page_dialog
+cn.smssdk.R$string: int smssdk_error_detail_526
+cn.smssdk.R$string: int smssdk_get_phone_verifycode_today_frequentlly
+cn.smssdk.R$string: int smssdk_send_sounds_success
+cn.smssdk.R$string: int smssdk_regist
+cn.smssdk.R$string: int smssdk_user_info_submited
+cn.smssdk.R$string: int smssdk_send_sounds_identify_code
+cn.smssdk.R$string: int smssdk_make_sure_country_mobile
+cn.smssdk.R$string: int smssdk_back
+cn.smssdk.R$string: int smssdk_unreceive_identify_code
+cn.smssdk.R$string: int smssdk_error_detail_516
+cn.smssdk.R$string: int smssdk_error_detail_515
+cn.smssdk.R$string: int smssdk_error_detail_518
+cn.smssdk.R$string: int smssdk_error_detail_517
+cn.smssdk.R$string: int smssdk_error_detail_519
+cn.smssdk.R$string: int smssdk_search_contact
+cn.smssdk.R$string: int smssdk_send_invitation
+cn.smssdk.R$string: int smssdk_invite_content
+cn.smssdk.R$string: int smssdk_contacts_out_app
+cn.smssdk.R$string: int smssdk_error_desc_514
+cn.smssdk.R$string: int smssdk_error_desc_513
+cn.smssdk.R$string: int smssdk_error_desc_512
+cn.smssdk.R$string: int smssdk_error_desc_511
+cn.smssdk.R$string: int smssdk_make_sure_send_sounds
+cn.smssdk.R$string: int smssdk_not_invite
+cn.smssdk.R$string: int smssdk_get_verifycode_frequentlly
+cn.smssdk.R$string: int smssdk_contacts_detail
+cn.smssdk.R$string: int smssdk_error_detail_520
+cn.smssdk.R$string: int smssdk_error_detail_521
+cn.smssdk.R$string: int smssdk_error_detail_522
+cn.smssdk.R$string: int smssdk_make_sure_mobile_num
+cn.smssdk.R$string: int smssdk_error_detail_523
+cn.smssdk.R$string: int smssdk_error_detail_524
+cn.smssdk.R$string: int smssdk_error_detail_525
+cn.smssdk.R$string: R$string()
+cn.smssdk.R$style
+cn.smssdk.R$style: int AppTheme
+cn.smssdk.R$style: int CommonDialog
+cn.smssdk.R$style: R$style()
+cn.smssdk.ReflectableEnventHandler
+cn.smssdk.ReflectableEnventHandler: int a
+cn.smssdk.ReflectableEnventHandler: android.os.Handler$Callback b
+cn.smssdk.ReflectableEnventHandler: int c
+cn.smssdk.ReflectableEnventHandler: android.os.Handler$Callback d
+cn.smssdk.ReflectableEnventHandler: int e
+cn.smssdk.ReflectableEnventHandler: android.os.Handler$Callback f
+cn.smssdk.ReflectableEnventHandler: int g
+cn.smssdk.ReflectableEnventHandler: android.os.Handler$Callback h
+cn.smssdk.ReflectableEnventHandler: ReflectableEnventHandler()
+cn.smssdk.ReflectableEnventHandler: void setOnRegisterCallback(int,android.os.Handler$Callback)
+cn.smssdk.ReflectableEnventHandler: void onRegister()
+cn.smssdk.ReflectableEnventHandler: void setBeforeEventCallback(int,android.os.Handler$Callback)
+cn.smssdk.ReflectableEnventHandler: void beforeEvent(int,java.lang.Object)
+cn.smssdk.ReflectableEnventHandler: void setAfterEventCallback(int,android.os.Handler$Callback)
+cn.smssdk.ReflectableEnventHandler: void afterEvent(int,int,java.lang.Object)
+cn.smssdk.ReflectableEnventHandler: void setOnUnregisterCallback(int,android.os.Handler$Callback)
+cn.smssdk.ReflectableEnventHandler: void onUnregister()
+cn.smssdk.SMSSDK
+cn.smssdk.SMSSDK: int RESULT_COMPLETE
+cn.smssdk.SMSSDK: int RESULT_ERROR
+cn.smssdk.SMSSDK: int EVENT_GET_SUPPORTED_COUNTRIES
+cn.smssdk.SMSSDK: int EVENT_GET_VERIFICATION_CODE
+cn.smssdk.SMSSDK: int EVENT_SUBMIT_VERIFICATION_CODE
+cn.smssdk.SMSSDK: int EVENT_GET_CONTACTS
+cn.smssdk.SMSSDK: int EVENT_SUBMIT_USER_INFO
+cn.smssdk.SMSSDK: int EVENT_GET_FRIENDS_IN_APP
+cn.smssdk.SMSSDK: int EVENT_GET_NEW_FRIENDS_COUNT
+cn.smssdk.SMSSDK: int EVENT_GET_VOICE_VERIFICATION_CODE
+cn.smssdk.SMSSDK: cn.smssdk.a a
+cn.smssdk.SMSSDK: SMSSDK()
+cn.smssdk.SMSSDK: void initSDK(android.content.Context,java.lang.String,java.lang.String)
+cn.smssdk.SMSSDK: void registerEventHandler(cn.smssdk.EventHandler)
+cn.smssdk.SMSSDK: void unregisterEventHandler(cn.smssdk.EventHandler)
+cn.smssdk.SMSSDK: void unregisterAllEventHandler()
+cn.smssdk.SMSSDK: void a()
+cn.smssdk.SMSSDK: void getSupportedCountries()
+cn.smssdk.SMSSDK: void getVerificationCode(java.lang.String,java.lang.String)
+cn.smssdk.SMSSDK: void getVerificationCode(java.lang.String,java.lang.String,cn.smssdk.OnSendMessageHandler)
+cn.smssdk.SMSSDK: void submitVerificationCode(java.lang.String,java.lang.String,java.lang.String)
+cn.smssdk.SMSSDK: void getContacts(boolean)
+cn.smssdk.SMSSDK: void submitUserInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+cn.smssdk.SMSSDK: void getFriendsInApp()
+cn.smssdk.SMSSDK: void getNewFriendsCount()
+cn.smssdk.SMSSDK: java.util.HashMap getGroupedCountryList()
+cn.smssdk.SMSSDK: java.lang.String[] getCountry(java.lang.String)
+cn.smssdk.SMSSDK: java.lang.String[] getCountryByMCC(java.lang.String)
+cn.smssdk.SMSSDK: void readVerificationCode(android.telephony.SmsMessage,cn.smssdk.SMSSDK$VerifyCodeReadListener)
+cn.smssdk.SMSSDK: void getVoiceVerifyCode(java.lang.String,java.lang.String)
+cn.smssdk.SMSSDK$VerifyCodeReadListener
+cn.smssdk.SMSSDK$VerifyCodeReadListener: void onReadVerifyCode(java.lang.String)
+cn.smssdk.SMSSDKUIShell
+cn.smssdk.SMSSDKUIShell: SMSSDKUIShell()
+cn.smssdk.UserInterruptException
+cn.smssdk.UserInterruptException: long serialVersionUID
+cn.smssdk.UserInterruptException: UserInterruptException()
+cn.smssdk.a
+cn.smssdk.a: android.content.Context a
+cn.smssdk.a: java.util.HashSet b
+cn.smssdk.a: cn.smssdk.utils.Protocols c
+cn.smssdk.a: cn.smssdk.contact.a d
+cn.smssdk.a: cn.smssdk.a.a e
+cn.smssdk.a: cn.smssdk.b.b f
+cn.smssdk.a: java.util.HashMap g
+cn.smssdk.a: a(android.content.Context)
+cn.smssdk.a: void a(java.lang.String,java.lang.String)
+cn.smssdk.a: void a()
+cn.smssdk.a: void a(cn.smssdk.EventHandler)
+cn.smssdk.a: void b(cn.smssdk.EventHandler)
+cn.smssdk.a: void b()
+cn.smssdk.a: void a(int,java.lang.Object)
+cn.smssdk.a: void b(int,java.lang.Object)
+cn.smssdk.a: void a(int,int,java.lang.Object)
+cn.smssdk.a: void a(java.lang.Object)
+cn.smssdk.a: void b(java.lang.Object)
+cn.smssdk.a: void c(java.lang.Object)
+cn.smssdk.a: void d()
+cn.smssdk.a: void d(java.lang.Object)
+cn.smssdk.a: void e()
+cn.smssdk.a: void f()
+cn.smssdk.a: void onContactChange(boolean)
+cn.smssdk.a: java.util.HashMap c()
+cn.smssdk.a: java.lang.String[] a(java.lang.String)
+cn.smssdk.a: java.lang.String[] b(java.lang.String)
+cn.smssdk.a: void a(android.telephony.SmsMessage,cn.smssdk.SMSSDK$VerifyCodeReadListener)
+cn.smssdk.a: void e(java.lang.Object)
+cn.smssdk.a: java.util.HashSet a(cn.smssdk.a)
+cn.smssdk.a: void a(cn.smssdk.a,int,java.lang.Object)
+cn.smssdk.a: void a(cn.smssdk.a,int,int,java.lang.Object)
+cn.smssdk.a.a
+cn.smssdk.a.a: cn.smssdk.a.a a
+cn.smssdk.a.a: cn.smssdk.utils.Protocols b
+cn.smssdk.a.a: cn.smssdk.utils.c c
+cn.smssdk.a.a: cn.smssdk.a.b d
+cn.smssdk.a.a: cn.smssdk.contact.a e
+cn.smssdk.a.a: cn.smssdk.a.a a(android.content.Context)
+cn.smssdk.a.a: a(android.content.Context)
+cn.smssdk.a.a: void a(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+cn.smssdk.a.a: int a()
+cn.smssdk.a.a: boolean c()
+cn.smssdk.a.a: java.util.ArrayList a(java.util.ArrayList)
+cn.smssdk.a.a: java.util.ArrayList b()
+cn.smssdk.a.a: void a(int,android.os.Handler$Callback)
+cn.smssdk.a.a: java.lang.String[] d()
+cn.smssdk.a.b
+cn.smssdk.a.b: android.os.Handler a
+cn.smssdk.a.b: cn.smssdk.contact.a b
+cn.smssdk.a.b: cn.smssdk.utils.c c
+cn.smssdk.a.b: cn.smssdk.utils.Protocols d
+cn.smssdk.a.b: cn.smssdk.a.a e
+cn.smssdk.a.b: int f
+cn.smssdk.a.b: android.os.Handler$Callback g
+cn.smssdk.a.b: b(android.content.Context,cn.smssdk.a.a)
+cn.smssdk.a.b: void a(int,android.os.Handler$Callback)
+cn.smssdk.a.b: boolean handleMessage(android.os.Message)
+cn.smssdk.a.b: int a()
+cn.smssdk.a.b: android.os.Handler$Callback a(cn.smssdk.a.b)
+cn.smssdk.a.b: int b(cn.smssdk.a.b)
+cn.smssdk.a.c
+cn.smssdk.a.c: cn.smssdk.a.b a
+cn.smssdk.a.c: c(cn.smssdk.a.b)
+cn.smssdk.a.c: void run()
+cn.smssdk.app.NewAppReceiver
+cn.smssdk.app.NewAppReceiver: java.lang.String[] a
+cn.smssdk.app.NewAppReceiver: cn.smssdk.app.NewAppReceiver b
+cn.smssdk.app.NewAppReceiver: android.content.Context c
+cn.smssdk.app.NewAppReceiver: android.content.IntentFilter[] d
+cn.smssdk.app.NewAppReceiver: android.os.Handler e
+cn.smssdk.app.NewAppReceiver: NewAppReceiver(android.content.Context)
+cn.smssdk.app.NewAppReceiver: void a(android.content.Context)
+cn.smssdk.app.NewAppReceiver: void a()
+cn.smssdk.app.NewAppReceiver: void onReceive(android.content.Context,android.content.Intent)
+cn.smssdk.app.NewAppReceiver: boolean a(java.lang.String)
+cn.smssdk.app.NewAppReceiver: boolean handleMessage(android.os.Message)
+cn.smssdk.app.NewAppReceiver: void <clinit>()
+cn.smssdk.app.NewAppReceiver$a
+cn.smssdk.app.NewAppReceiver$a: cn.smssdk.framework.utils.d a
+cn.smssdk.app.NewAppReceiver$a: NewAppReceiver$a(android.content.Context)
+cn.smssdk.app.NewAppReceiver$a: java.util.ArrayList a()
+cn.smssdk.app.NewAppReceiver$a: void a(java.util.ArrayList)
+cn.smssdk.app.NewAppReceiver$a: long b()
+cn.smssdk.app.NewAppReceiver$a: void a(long)
+cn.smssdk.app.NewAppReceiver$b
+cn.smssdk.app.NewAppReceiver$b: android.content.Context a
+cn.smssdk.app.NewAppReceiver$b: cn.smssdk.app.NewAppReceiver$a b
+cn.smssdk.app.NewAppReceiver$b: NewAppReceiver$b(android.content.Context)
+cn.smssdk.app.NewAppReceiver$b: void a(android.content.Context)
+cn.smssdk.app.NewAppReceiver$b: void run()
+cn.smssdk.app.NewAppReceiver$b: java.util.HashMap a(java.util.ArrayList)
+cn.smssdk.app.NewAppReceiver$b: java.util.ArrayList a(java.util.HashMap)
+cn.smssdk.b
+cn.smssdk.b: int a
+cn.smssdk.b: java.lang.Object b
+cn.smssdk.b: cn.smssdk.a c
+cn.smssdk.b: b(cn.smssdk.a,int,java.lang.Object)
+cn.smssdk.b: void run()
+cn.smssdk.b.a
+cn.smssdk.b.a: cn.smssdk.b.a a
+cn.smssdk.b.a: cn.smssdk.framework.utils.e b
+cn.smssdk.b.a: a(android.content.Context)
+cn.smssdk.b.a: cn.smssdk.b.a a(android.content.Context)
+cn.smssdk.b.a: java.lang.String a()
+cn.smssdk.b.a: cn.smssdk.b.a a(java.lang.String)
+cn.smssdk.b.a: java.lang.String b()
+cn.smssdk.b.a: cn.smssdk.b.a b(java.lang.String)
+cn.smssdk.b.a: java.lang.String c()
+cn.smssdk.b.a: cn.smssdk.b.a c(java.lang.String)
+cn.smssdk.b.a: void d(java.lang.String)
+cn.smssdk.b.a: java.lang.String d()
+cn.smssdk.b.a: void <clinit>()
+cn.smssdk.b.b
+cn.smssdk.b.b: cn.smssdk.b.a a
+cn.smssdk.b.b: cn.smssdk.utils.c b
+cn.smssdk.b.b: java.util.HashMap c
+cn.smssdk.b.b: cn.smssdk.b.b d
+cn.smssdk.b.b: cn.smssdk.SMSSDK$VerifyCodeReadListener e
+cn.smssdk.b.b: java.lang.String f
+cn.smssdk.b.b: b(android.content.Context)
+cn.smssdk.b.b: cn.smssdk.b.b a(android.content.Context)
+cn.smssdk.b.b: void a(java.lang.String,java.lang.String)
+cn.smssdk.b.b: void a(cn.smssdk.SMSSDK$VerifyCodeReadListener)
+cn.smssdk.b.b: boolean a(android.telephony.SmsMessage)
+cn.smssdk.b.b: boolean b(android.telephony.SmsMessage)
+cn.smssdk.b.b: void a()
+cn.smssdk.b.b: java.lang.String a(java.lang.String)
+cn.smssdk.b.b: int b(java.lang.String)
+cn.smssdk.b.b: void <clinit>()
+cn.smssdk.c
+cn.smssdk.c: cn.smssdk.a a
+cn.smssdk.c: c(cn.smssdk.a)
+cn.smssdk.c: boolean handleMessage(android.os.Message)
+cn.smssdk.contact.OnContactChangeListener
+cn.smssdk.contact.OnContactChangeListener: void onContactChange(boolean)
+cn.smssdk.contact.a
+cn.smssdk.contact.a: cn.smssdk.contact.a a
+cn.smssdk.contact.a: android.database.ContentObserver b
+cn.smssdk.contact.a: android.content.ContentResolver c
+cn.smssdk.contact.a: cn.smssdk.contact.c d
+cn.smssdk.contact.a: long e
+cn.smssdk.contact.a: java.util.ArrayList f
+cn.smssdk.contact.a: cn.smssdk.contact.OnContactChangeListener g
+cn.smssdk.contact.a: cn.smssdk.contact.d h
+cn.smssdk.contact.a: cn.smssdk.contact.a a(android.content.Context)
+cn.smssdk.contact.a: a(android.content.Context)
+cn.smssdk.contact.a: void d()
+cn.smssdk.contact.a: void a()
+cn.smssdk.contact.a: void b()
+cn.smssdk.contact.a: java.util.ArrayList e()
+cn.smssdk.contact.a: java.util.ArrayList a(boolean)
+cn.smssdk.contact.a: java.lang.String[] c()
+cn.smssdk.contact.a: void a(cn.smssdk.contact.OnContactChangeListener)
+cn.smssdk.contact.a: cn.smssdk.contact.d a(cn.smssdk.contact.a)
+cn.smssdk.contact.a: cn.smssdk.contact.OnContactChangeListener b(cn.smssdk.contact.a)
+cn.smssdk.contact.a.a
+cn.smssdk.contact.a.a: java.lang.String a
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.h b
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.i c
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.e d
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.k e
+cn.smssdk.contact.a.a: java.util.ArrayList f
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.m g
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.j h
+cn.smssdk.contact.a.a: java.util.ArrayList i
+cn.smssdk.contact.a.a: java.util.ArrayList j
+cn.smssdk.contact.a.a: java.util.ArrayList k
+cn.smssdk.contact.a.a: java.util.ArrayList l
+cn.smssdk.contact.a.a: java.util.ArrayList m
+cn.smssdk.contact.a.a: java.util.ArrayList n
+cn.smssdk.contact.a.a: java.util.ArrayList o
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.f p
+cn.smssdk.contact.a.a: a(cn.smssdk.contact.c,java.lang.String)
+cn.smssdk.contact.a.a: void a(cn.smssdk.contact.c)
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.h a()
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.i b()
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.e c()
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.k d()
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.m e()
+cn.smssdk.contact.a.a: cn.smssdk.contact.a.j f()
+cn.smssdk.contact.a.a: java.util.ArrayList g()
+cn.smssdk.contact.a.a: java.util.ArrayList h()
+cn.smssdk.contact.a.a: java.util.ArrayList i()
+cn.smssdk.contact.a.a: java.util.ArrayList j()
+cn.smssdk.contact.a.a: java.util.ArrayList k()
+cn.smssdk.contact.a.a: java.util.ArrayList l()
+cn.smssdk.contact.a.a: java.util.ArrayList m()
+cn.smssdk.contact.a.a: java.lang.String toString()
+cn.smssdk.contact.a.a: java.util.HashMap n()
+cn.smssdk.contact.a.b
+cn.smssdk.contact.a.b: java.util.HashMap a
+cn.smssdk.contact.a.b: java.util.HashMap b
+cn.smssdk.contact.a.b: b()
+cn.smssdk.contact.a.b: cn.smssdk.contact.a.b a(java.util.HashMap)
+cn.smssdk.contact.a.b: void b(java.util.HashMap)
+cn.smssdk.contact.a.b: byte[] a(java.lang.String)
+cn.smssdk.contact.a.b: java.lang.String b(java.lang.String)
+cn.smssdk.contact.a.b: int a(java.lang.String,int)
+cn.smssdk.contact.a.b: java.lang.String toString()
+cn.smssdk.contact.a.b: java.util.HashMap a()
+cn.smssdk.contact.a.b: void <clinit>()
+cn.smssdk.contact.a.c
+cn.smssdk.contact.a.c: c()
+cn.smssdk.contact.a.c: java.lang.String b()
+cn.smssdk.contact.a.c: int c()
+cn.smssdk.contact.a.c: java.lang.String d()
+cn.smssdk.contact.a.c: int a(int)
+cn.smssdk.contact.a.d
+cn.smssdk.contact.a.d: d()
+cn.smssdk.contact.a.d: java.lang.String b()
+cn.smssdk.contact.a.d: int c()
+cn.smssdk.contact.a.d: java.lang.String d()
+cn.smssdk.contact.a.d: int a(int)
+cn.smssdk.contact.a.e
+cn.smssdk.contact.a.e: e()
+cn.smssdk.contact.a.e: java.lang.String b()
+cn.smssdk.contact.a.f
+cn.smssdk.contact.a.f: f()
+cn.smssdk.contact.a.g
+cn.smssdk.contact.a.g: g()
+cn.smssdk.contact.a.g: java.lang.String b()
+cn.smssdk.contact.a.g: int c()
+cn.smssdk.contact.a.g: java.lang.String d()
+cn.smssdk.contact.a.g: int a(int)
+cn.smssdk.contact.a.h
+cn.smssdk.contact.a.h: h()
+cn.smssdk.contact.a.h: java.lang.String b()
+cn.smssdk.contact.a.h: java.lang.String c()
+cn.smssdk.contact.a.h: java.lang.String d()
+cn.smssdk.contact.a.h: java.lang.String e()
+cn.smssdk.contact.a.h: java.lang.String f()
+cn.smssdk.contact.a.h: java.lang.String g()
+cn.smssdk.contact.a.h: java.lang.String h()
+cn.smssdk.contact.a.h: java.lang.String i()
+cn.smssdk.contact.a.i
+cn.smssdk.contact.a.i: i()
+cn.smssdk.contact.a.i: java.lang.String b()
+cn.smssdk.contact.a.j
+cn.smssdk.contact.a.j: j()
+cn.smssdk.contact.a.j: java.lang.String b()
+cn.smssdk.contact.a.k
+cn.smssdk.contact.a.k: k()
+cn.smssdk.contact.a.k: java.lang.String b()
+cn.smssdk.contact.a.k: java.lang.String c()
+cn.smssdk.contact.a.l
+cn.smssdk.contact.a.l: l()
+cn.smssdk.contact.a.l: java.lang.String b()
+cn.smssdk.contact.a.l: int c()
+cn.smssdk.contact.a.l: java.lang.String d()
+cn.smssdk.contact.a.l: int a(int)
+cn.smssdk.contact.a.m
+cn.smssdk.contact.a.m: m()
+cn.smssdk.contact.a.m: java.lang.String b()
+cn.smssdk.contact.a.n
+cn.smssdk.contact.a.n: n()
+cn.smssdk.contact.a.n: java.lang.String b()
+cn.smssdk.contact.a.n: int c()
+cn.smssdk.contact.a.n: java.lang.String d()
+cn.smssdk.contact.a.n: int a(int)
+cn.smssdk.contact.a.o
+cn.smssdk.contact.a.o: o()
+cn.smssdk.contact.a.o: java.lang.String b()
+cn.smssdk.contact.a.o: int c()
+cn.smssdk.contact.a.o: java.lang.String d()
+cn.smssdk.contact.a.o: int a(int)
+cn.smssdk.contact.a.p
+cn.smssdk.contact.a.p: p()
+cn.smssdk.contact.a.q
+cn.smssdk.contact.a.q: q()
+cn.smssdk.contact.a.q: java.lang.String b()
+cn.smssdk.contact.a.q: int c()
+cn.smssdk.contact.a.q: java.lang.String d()
+cn.smssdk.contact.a.q: int a(int)
+cn.smssdk.contact.b
+cn.smssdk.contact.b: cn.smssdk.contact.a a
+cn.smssdk.contact.b: b(cn.smssdk.contact.a,android.os.Handler)
+cn.smssdk.contact.b: void onChange(boolean)
+cn.smssdk.contact.c
+cn.smssdk.contact.c: android.content.ContentResolver a
+cn.smssdk.contact.c: boolean b
+cn.smssdk.contact.c: c(android.content.Context,android.content.ContentResolver)
+cn.smssdk.contact.c: java.util.ArrayList a(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String)
+cn.smssdk.contact.d
+cn.smssdk.contact.d: android.os.Handler a
+cn.smssdk.contact.d: cn.smssdk.contact.a b
+cn.smssdk.contact.d: cn.smssdk.utils.c c
+cn.smssdk.contact.d: cn.smssdk.utils.Protocols d
+cn.smssdk.contact.d: java.lang.String e
+cn.smssdk.contact.d: d(android.content.Context,cn.smssdk.contact.a)
+cn.smssdk.contact.d: void a()
+cn.smssdk.contact.d: boolean handleMessage(android.os.Message)
+cn.smssdk.contact.d: java.lang.String a(java.lang.Object)
+cn.smssdk.contact.d: boolean b()
+cn.smssdk.contact.d: void c()
+cn.smssdk.contact.d: cn.smssdk.contact.a a(cn.smssdk.contact.d)
+cn.smssdk.contact.d: java.lang.String a(cn.smssdk.contact.d,java.lang.Object)
+cn.smssdk.contact.d: cn.smssdk.utils.c b(cn.smssdk.contact.d)
+cn.smssdk.contact.d: cn.smssdk.utils.Protocols c(cn.smssdk.contact.d)
+cn.smssdk.contact.d: void d(cn.smssdk.contact.d)
+cn.smssdk.contact.e
+cn.smssdk.contact.e: cn.smssdk.contact.d a
+cn.smssdk.contact.e: e(cn.smssdk.contact.d)
+cn.smssdk.contact.e: void run()
+cn.smssdk.framework.FakeActivity
+cn.smssdk.framework.FakeActivity: java.lang.Class shell
+cn.smssdk.framework.FakeActivity: android.app.Activity activity
+cn.smssdk.framework.FakeActivity: cn.smssdk.framework.FakeActivity resultReceiver
+cn.smssdk.framework.FakeActivity: java.util.HashMap result
+cn.smssdk.framework.FakeActivity: android.view.View contentView
+cn.smssdk.framework.FakeActivity: FakeActivity()
+cn.smssdk.framework.FakeActivity: void setShell(java.lang.Class)
+cn.smssdk.framework.FakeActivity: void setActivity(android.app.Activity)
+cn.smssdk.framework.FakeActivity: void setContentViewLayoutResName(java.lang.String)
+cn.smssdk.framework.FakeActivity: void setContentView(android.view.View)
+cn.smssdk.framework.FakeActivity: android.view.View getContentView()
+cn.smssdk.framework.FakeActivity: android.view.View findViewById(int)
+cn.smssdk.framework.FakeActivity: android.view.View findViewByResName(android.view.View,java.lang.String)
+cn.smssdk.framework.FakeActivity: android.view.View findViewByResName(java.lang.String)
+cn.smssdk.framework.FakeActivity: void onCreate()
+cn.smssdk.framework.FakeActivity: void onNewIntent(android.content.Intent)
+cn.smssdk.framework.FakeActivity: void onStart()
+cn.smssdk.framework.FakeActivity: void onPause()
+cn.smssdk.framework.FakeActivity: void onResume()
+cn.smssdk.framework.FakeActivity: void onStop()
+cn.smssdk.framework.FakeActivity: void onRestart()
+cn.smssdk.framework.FakeActivity: boolean onFinish()
+cn.smssdk.framework.FakeActivity: void onDestroy()
+cn.smssdk.framework.FakeActivity: void finish()
+cn.smssdk.framework.FakeActivity: boolean onKeyEvent(int,android.view.KeyEvent)
+cn.smssdk.framework.FakeActivity: void onActivityResult(int,int,android.content.Intent)
+cn.smssdk.framework.FakeActivity: void startActivity(android.content.Intent)
+cn.smssdk.framework.FakeActivity: void startActivityForResult(android.content.Intent,int)
+cn.smssdk.framework.FakeActivity: void onConfigurationChanged(android.content.res.Configuration)
+cn.smssdk.framework.FakeActivity: android.content.Context getContext()
+cn.smssdk.framework.FakeActivity: void show(android.content.Context,android.content.Intent)
+cn.smssdk.framework.FakeActivity: void showForResult(android.content.Context,android.content.Intent,cn.smssdk.framework.FakeActivity)
+cn.smssdk.framework.FakeActivity: cn.smssdk.framework.FakeActivity getParent()
+cn.smssdk.framework.FakeActivity: void setResult(java.util.HashMap)
+cn.smssdk.framework.FakeActivity: void sendResult()
+cn.smssdk.framework.FakeActivity: void onResult(java.util.HashMap)
+cn.smssdk.framework.FakeActivity: void runOnUIThread(java.lang.Runnable)
+cn.smssdk.framework.FakeActivity: void runOnUIThread(java.lang.Runnable,long)
+cn.smssdk.framework.FakeActivity: void setRequestedOrientation(int)
+cn.smssdk.framework.FakeActivity: void requestPortraitOrientation()
+cn.smssdk.framework.FakeActivity: void requestLandscapeOrientation()
+cn.smssdk.framework.FakeActivity: int getOrientation()
+cn.smssdk.framework.FakeActivity: void requestFullScreen(boolean)
+cn.smssdk.framework.MobUIShell
+cn.smssdk.framework.MobUIShell: java.util.HashMap executors
+cn.smssdk.framework.MobUIShell: cn.smssdk.framework.FakeActivity executor
+cn.smssdk.framework.MobUIShell: MobUIShell()
+cn.smssdk.framework.MobUIShell: java.lang.String registerExecutor(cn.smssdk.framework.FakeActivity)
+cn.smssdk.framework.MobUIShell: java.lang.String registerExecutor(java.lang.String,cn.smssdk.framework.FakeActivity)
+cn.smssdk.framework.MobUIShell: void onCreate(android.os.Bundle)
+cn.smssdk.framework.MobUIShell: void setContentView(int)
+cn.smssdk.framework.MobUIShell: void setContentView(android.view.View)
+cn.smssdk.framework.MobUIShell: void setContentView(android.view.View,android.view.ViewGroup$LayoutParams)
+cn.smssdk.framework.MobUIShell: void onNewIntent(android.content.Intent)
+cn.smssdk.framework.MobUIShell: void onStart()
+cn.smssdk.framework.MobUIShell: void onResume()
+cn.smssdk.framework.MobUIShell: void onPause()
+cn.smssdk.framework.MobUIShell: void onStop()
+cn.smssdk.framework.MobUIShell: void onRestart()
+cn.smssdk.framework.MobUIShell: void onDestroy()
+cn.smssdk.framework.MobUIShell: void onActivityResult(int,int,android.content.Intent)
+cn.smssdk.framework.MobUIShell: boolean onKeyDown(int,android.view.KeyEvent)
+cn.smssdk.framework.MobUIShell: boolean onKeyUp(int,android.view.KeyEvent)
+cn.smssdk.framework.MobUIShell: void onConfigurationChanged(android.content.res.Configuration)
+cn.smssdk.framework.MobUIShell: void finish()
+cn.smssdk.framework.MobUIShell: cn.smssdk.framework.FakeActivity getExecutor()
+cn.smssdk.framework.MobUIShell: void <clinit>()
+cn.smssdk.framework.a
+cn.smssdk.framework.a: cn.smssdk.framework.FakeActivity a
+cn.smssdk.framework.a: a(cn.smssdk.framework.FakeActivity)
+cn.smssdk.framework.a: boolean handleMessage(android.os.Message)
+cn.smssdk.framework.b
+cn.smssdk.framework.b: java.lang.Runnable a
+cn.smssdk.framework.b: cn.smssdk.framework.FakeActivity b
+cn.smssdk.framework.b: b(cn.smssdk.framework.FakeActivity,java.lang.Runnable)
+cn.smssdk.framework.b: boolean handleMessage(android.os.Message)
+cn.smssdk.framework.c
+cn.smssdk.framework.c: java.lang.Runnable a
+cn.smssdk.framework.c: cn.smssdk.framework.FakeActivity b
+cn.smssdk.framework.c: c(cn.smssdk.framework.FakeActivity,java.lang.Runnable)
+cn.smssdk.framework.c: boolean handleMessage(android.os.Message)
+cn.smssdk.framework.network.BufferedByteArrayOutputStream
+cn.smssdk.framework.network.BufferedByteArrayOutputStream: BufferedByteArrayOutputStream()
+cn.smssdk.framework.network.BufferedByteArrayOutputStream: BufferedByteArrayOutputStream(int)
+cn.smssdk.framework.network.BufferedByteArrayOutputStream: boolean switchBuffer(byte[])
+cn.smssdk.framework.network.BufferedByteArrayOutputStream: byte[] getBuffer()
+cn.smssdk.framework.network.BufferedByteArrayOutputStream: int getBufferSize()
+cn.smssdk.framework.network.BufferedByteArrayOutputStream: void write(java.nio.ByteBuffer,int)
+cn.smssdk.framework.network.ByteArrayPart
+cn.smssdk.framework.network.ByteArrayPart: cn.smssdk.framework.network.BufferedByteArrayOutputStream buffer
+cn.smssdk.framework.network.ByteArrayPart: ByteArrayPart()
+cn.smssdk.framework.network.ByteArrayPart: cn.smssdk.framework.network.ByteArrayPart append(byte[])
+cn.smssdk.framework.network.ByteArrayPart: java.io.InputStream getInputStream()
+cn.smssdk.framework.network.ByteArrayPart: java.lang.String toString()
+cn.smssdk.framework.network.ByteArrayPart: long length()
+cn.smssdk.framework.network.ByteCounterInputStream
+cn.smssdk.framework.network.ByteCounterInputStream: java.io.InputStream is
+cn.smssdk.framework.network.ByteCounterInputStream: long readBytes
+cn.smssdk.framework.network.ByteCounterInputStream: cn.smssdk.framework.network.OnReadListener listener
+cn.smssdk.framework.network.ByteCounterInputStream: ByteCounterInputStream(java.io.InputStream)
+cn.smssdk.framework.network.ByteCounterInputStream: int read()
+cn.smssdk.framework.network.ByteCounterInputStream: int read(byte[],int,int)
+cn.smssdk.framework.network.ByteCounterInputStream: void mark(int)
+cn.smssdk.framework.network.ByteCounterInputStream: boolean markSupported()
+cn.smssdk.framework.network.ByteCounterInputStream: void reset()
+cn.smssdk.framework.network.ByteCounterInputStream: long skip(long)
+cn.smssdk.framework.network.ByteCounterInputStream: int available()
+cn.smssdk.framework.network.ByteCounterInputStream: void close()
+cn.smssdk.framework.network.ByteCounterInputStream: void setOnInputStreamReadListener(cn.smssdk.framework.network.OnReadListener)
+cn.smssdk.framework.network.FilePart
+cn.smssdk.framework.network.FilePart: java.io.File file
+cn.smssdk.framework.network.FilePart: FilePart()
+cn.smssdk.framework.network.FilePart: void setFile(java.io.File)
+cn.smssdk.framework.network.FilePart: void setFile(java.lang.String)
+cn.smssdk.framework.network.FilePart: java.io.InputStream getInputStream()
+cn.smssdk.framework.network.FilePart: java.lang.String toString()
+cn.smssdk.framework.network.FilePart: long length()
+cn.smssdk.framework.network.HTTPPart
+cn.smssdk.framework.network.HTTPPart: long offset
+cn.smssdk.framework.network.HTTPPart: cn.smssdk.framework.network.OnReadListener listener
+cn.smssdk.framework.network.HTTPPart: HTTPPart()
+cn.smssdk.framework.network.HTTPPart: java.io.InputStream getInputStream()
+cn.smssdk.framework.network.HTTPPart: long length()
+cn.smssdk.framework.network.HTTPPart: void setOffset(long)
+cn.smssdk.framework.network.HTTPPart: org.apache.http.entity.InputStreamEntity getInputStreamEntity()
+cn.smssdk.framework.network.HTTPPart: void setOnReadListener(cn.smssdk.framework.network.OnReadListener)
+cn.smssdk.framework.network.HttpPatch
+cn.smssdk.framework.network.HttpPatch: java.lang.String METHOD_NAME
+cn.smssdk.framework.network.HttpPatch: HttpPatch()
+cn.smssdk.framework.network.HttpPatch: HttpPatch(java.net.URI)
+cn.smssdk.framework.network.HttpPatch: HttpPatch(java.lang.String)
+cn.smssdk.framework.network.HttpPatch: java.lang.String getMethod()
+cn.smssdk.framework.network.HttpResponseCallback
+cn.smssdk.framework.network.HttpResponseCallback: void onResponse(org.apache.http.HttpResponse)
+cn.smssdk.framework.network.KVPair
+cn.smssdk.framework.network.KVPair: java.lang.String name
+cn.smssdk.framework.network.KVPair: java.lang.Object value
+cn.smssdk.framework.network.KVPair: KVPair(java.lang.String,java.lang.Object)
+cn.smssdk.framework.network.KVPair: java.lang.String toString()
+cn.smssdk.framework.network.MultiPart
+cn.smssdk.framework.network.MultiPart: java.util.ArrayList parts
+cn.smssdk.framework.network.MultiPart: MultiPart()
+cn.smssdk.framework.network.MultiPart: cn.smssdk.framework.network.MultiPart append(cn.smssdk.framework.network.HTTPPart)
+cn.smssdk.framework.network.MultiPart: java.io.InputStream getInputStream()
+cn.smssdk.framework.network.MultiPart: java.lang.String toString()
+cn.smssdk.framework.network.MultiPart: long length()
+cn.smssdk.framework.network.MultiPartInputStream
+cn.smssdk.framework.network.MultiPartInputStream: java.util.ArrayList isList
+cn.smssdk.framework.network.MultiPartInputStream: int curIs
+cn.smssdk.framework.network.MultiPartInputStream: MultiPartInputStream()
+cn.smssdk.framework.network.MultiPartInputStream: void addInputStream(java.io.InputStream)
+cn.smssdk.framework.network.MultiPartInputStream: boolean isEmpty()
+cn.smssdk.framework.network.MultiPartInputStream: int available()
+cn.smssdk.framework.network.MultiPartInputStream: void close()
+cn.smssdk.framework.network.MultiPartInputStream: long skip(long)
+cn.smssdk.framework.network.MultiPartInputStream: int read()
+cn.smssdk.framework.network.MultiPartInputStream: int read(byte[],int,int)
+cn.smssdk.framework.network.NetworkHelper
+cn.smssdk.framework.network.NetworkHelper: int connectionTimeout
+cn.smssdk.framework.network.NetworkHelper: int readTimout
+cn.smssdk.framework.network.NetworkHelper: NetworkHelper()
+cn.smssdk.framework.network.NetworkHelper: java.lang.String httpGet(java.lang.String,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList)
+cn.smssdk.framework.network.NetworkHelper: java.lang.String downloadCache(android.content.Context,java.lang.String,java.lang.String,boolean)
+cn.smssdk.framework.network.NetworkHelper: void rawGet(java.lang.String,cn.smssdk.framework.network.RawNetworkCallback)
+cn.smssdk.framework.network.NetworkHelper: java.lang.String jsonPost(java.lang.String,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList)
+cn.smssdk.framework.network.NetworkHelper: java.lang.String httpPost(java.lang.String,java.util.ArrayList,cn.smssdk.framework.network.KVPair,java.util.ArrayList,java.util.ArrayList)
+cn.smssdk.framework.network.NetworkHelper: java.lang.String httpPostFiles(java.lang.String,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList)
+cn.smssdk.framework.network.NetworkHelper: void httpPost(java.lang.String,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList,cn.smssdk.framework.network.HttpResponseCallback)
+cn.smssdk.framework.network.NetworkHelper: org.apache.http.client.methods.HttpPost getFilePost(java.lang.String,java.util.ArrayList,java.util.ArrayList)
+cn.smssdk.framework.network.NetworkHelper: org.apache.http.client.methods.HttpPost getTextPost(java.lang.String,java.util.ArrayList)
+cn.smssdk.framework.network.NetworkHelper: void rawPost(java.lang.String,java.util.ArrayList,cn.smssdk.framework.network.HTTPPart,cn.smssdk.framework.network.RawNetworkCallback)
+cn.smssdk.framework.network.NetworkHelper: void rawPost(java.lang.String,java.util.ArrayList,cn.smssdk.framework.network.HTTPPart,cn.smssdk.framework.network.HttpResponseCallback)
+cn.smssdk.framework.network.NetworkHelper: java.lang.String httpPut(java.lang.String,java.util.ArrayList,cn.smssdk.framework.network.KVPair,java.util.ArrayList,java.util.ArrayList)
+cn.smssdk.framework.network.NetworkHelper: java.util.ArrayList httpHead(java.lang.String,java.util.ArrayList,cn.smssdk.framework.network.KVPair,java.util.ArrayList,java.util.ArrayList)
+cn.smssdk.framework.network.NetworkHelper: void httpPatch(java.lang.String,java.util.ArrayList,cn.smssdk.framework.network.KVPair,long,java.util.ArrayList,java.util.ArrayList,cn.smssdk.framework.network.OnReadListener,cn.smssdk.framework.network.HttpResponseCallback)
+cn.smssdk.framework.network.NetworkHelper: java.lang.String httpPatch(java.lang.String,java.util.ArrayList,cn.smssdk.framework.network.KVPair,long,java.util.ArrayList,java.util.ArrayList,cn.smssdk.framework.network.OnReadListener)
+cn.smssdk.framework.network.NetworkHelper: void getHttpPostResponse(java.lang.String,java.util.ArrayList,cn.smssdk.framework.network.KVPair,java.util.ArrayList,java.util.ArrayList,cn.smssdk.framework.network.HttpResponseCallback)
+cn.smssdk.framework.network.NetworkHelper: java.lang.String kvPairsToUrl(java.util.ArrayList)
+cn.smssdk.framework.network.NetworkHelper: org.apache.http.client.HttpClient getSSLHttpClient()
+cn.smssdk.framework.network.NetworkHelper$1
+cn.smssdk.framework.network.NetworkHelper$1: java.util.HashMap val$tmpMap
+cn.smssdk.framework.network.NetworkHelper$1: cn.smssdk.framework.network.NetworkHelper this$0
+cn.smssdk.framework.network.NetworkHelper$1: NetworkHelper$1(cn.smssdk.framework.network.NetworkHelper,java.util.HashMap)
+cn.smssdk.framework.network.NetworkHelper$1: void onResponse(org.apache.http.HttpResponse)
+cn.smssdk.framework.network.NetworkHelper$2
+cn.smssdk.framework.network.NetworkHelper$2: java.util.HashMap val$tmpMap
+cn.smssdk.framework.network.NetworkHelper$2: cn.smssdk.framework.network.NetworkHelper this$0
+cn.smssdk.framework.network.NetworkHelper$2: NetworkHelper$2(cn.smssdk.framework.network.NetworkHelper,java.util.HashMap)
+cn.smssdk.framework.network.NetworkHelper$2: void onResponse(org.apache.http.HttpResponse)
+cn.smssdk.framework.network.OnReadListener
+cn.smssdk.framework.network.OnReadListener: void onRead(long)
+cn.smssdk.framework.network.ProgressCallback
+cn.smssdk.framework.network.ProgressCallback: void onProgress(long,long)
+cn.smssdk.framework.network.RawNetworkCallback
+cn.smssdk.framework.network.RawNetworkCallback: void onResponse(java.io.InputStream)
+cn.smssdk.framework.network.SSLSocketFactoryEx
+cn.smssdk.framework.network.SSLSocketFactoryEx: javax.net.ssl.SSLContext sslContext
+cn.smssdk.framework.network.SSLSocketFactoryEx: SSLSocketFactoryEx(java.security.KeyStore)
+cn.smssdk.framework.network.SSLSocketFactoryEx: java.net.Socket createSocket(java.net.Socket,java.lang.String,int,boolean)
+cn.smssdk.framework.network.SSLSocketFactoryEx: java.net.Socket createSocket()
+cn.smssdk.framework.network.SSLSocketFactoryEx$1
+cn.smssdk.framework.network.SSLSocketFactoryEx$1: cn.smssdk.framework.network.SSLSocketFactoryEx this$0
+cn.smssdk.framework.network.SSLSocketFactoryEx$1: SSLSocketFactoryEx$1(cn.smssdk.framework.network.SSLSocketFactoryEx)
+cn.smssdk.framework.network.SSLSocketFactoryEx$1: java.security.cert.X509Certificate[] getAcceptedIssuers()
+cn.smssdk.framework.network.SSLSocketFactoryEx$1: void checkClientTrusted(java.security.cert.X509Certificate[],java.lang.String)
+cn.smssdk.framework.network.SSLSocketFactoryEx$1: void checkServerTrusted(java.security.cert.X509Certificate[],java.lang.String)
+cn.smssdk.framework.network.StringPart
+cn.smssdk.framework.network.StringPart: java.lang.StringBuilder sb
+cn.smssdk.framework.network.StringPart: StringPart()
+cn.smssdk.framework.network.StringPart: cn.smssdk.framework.network.StringPart append(java.lang.String)
+cn.smssdk.framework.network.StringPart: java.io.InputStream getInputStream()
+cn.smssdk.framework.network.StringPart: java.lang.String toString()
+cn.smssdk.framework.network.StringPart: long length()
+cn.smssdk.framework.utils.BitmapHelper
+cn.smssdk.framework.utils.BitmapHelper: BitmapHelper()
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap getBitmap(java.lang.String,int)
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap getBitmap(java.io.File,int)
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap getBitmap(java.io.InputStream,int)
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap getBitmap(java.lang.String)
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap getBitmap(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.BitmapHelper: java.lang.String downloadBitmap(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.BitmapHelper: java.lang.String saveViewToImage(android.view.View)
+cn.smssdk.framework.utils.BitmapHelper: java.lang.String saveViewToImage(android.view.View,int,int)
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap captureView(android.view.View,int,int)
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap blur(android.graphics.Bitmap,int,int)
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap a(android.graphics.Bitmap,int,boolean)
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap roundBitmap(android.graphics.Bitmap,int,int,float,float,float,float)
+cn.smssdk.framework.utils.BitmapHelper: int[] fixRect(int[],int[])
+cn.smssdk.framework.utils.BitmapHelper: int[] fixRect_2(int[],int[])
+cn.smssdk.framework.utils.BitmapHelper: java.lang.String saveBitmap(android.content.Context,android.graphics.Bitmap,android.graphics.Bitmap$CompressFormat,int)
+cn.smssdk.framework.utils.BitmapHelper: java.lang.String saveBitmap(android.content.Context,android.graphics.Bitmap)
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap$CompressFormat getBmpFormat(byte[])
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap$CompressFormat getBmpFormat(java.lang.String)
+cn.smssdk.framework.utils.BitmapHelper: java.lang.String a(java.lang.String)
+cn.smssdk.framework.utils.BitmapHelper: java.lang.String a(byte[])
+cn.smssdk.framework.utils.BitmapHelper: boolean a(byte[],byte[])
+cn.smssdk.framework.utils.BitmapHelper: android.graphics.Bitmap cropBitmap(android.graphics.Bitmap,int,int,int,int)
+cn.smssdk.framework.utils.BitmapHelper: boolean isBlackBitmap(android.graphics.Bitmap)
+cn.smssdk.framework.utils.BitmapHelper: int mixAlpha(int,int)
+cn.smssdk.framework.utils.Data
+cn.smssdk.framework.utils.Data: cn.smssdk.framework.utils.Hashon a
+cn.smssdk.framework.utils.Data: Data()
+cn.smssdk.framework.utils.Data: byte[] SHA1(java.lang.String)
+cn.smssdk.framework.utils.Data: byte[] SHA1(byte[])
+cn.smssdk.framework.utils.Data: byte[] AES128Encode(java.lang.String,java.lang.String)
+cn.smssdk.framework.utils.Data: byte[] AES128Encode(byte[],java.lang.String)
+cn.smssdk.framework.utils.Data: java.lang.String AES128Decode(java.lang.String,byte[])
+cn.smssdk.framework.utils.Data: byte[] AES128Decode(byte[],byte[])
+cn.smssdk.framework.utils.Data: java.lang.String byteToHex(byte[])
+cn.smssdk.framework.utils.Data: java.lang.String byteToHex(byte[],int,int)
+cn.smssdk.framework.utils.Data: java.util.HashMap parseJson(java.lang.String)
+cn.smssdk.framework.utils.Data: java.lang.String parseJson(java.util.HashMap)
+cn.smssdk.framework.utils.Data: java.lang.String base62(long)
+cn.smssdk.framework.utils.Data: java.lang.String MD5(java.lang.String)
+cn.smssdk.framework.utils.Data: java.lang.String MD5(byte[])
+cn.smssdk.framework.utils.Data: java.lang.String MD5(java.io.File)
+cn.smssdk.framework.utils.Data: byte[] rawMD5(java.lang.String)
+cn.smssdk.framework.utils.Data: byte[] rawMD5(byte[])
+cn.smssdk.framework.utils.Data: byte[] rawMD5(java.io.InputStream)
+cn.smssdk.framework.utils.Data: java.lang.String Base64AES(java.lang.String,java.lang.String)
+cn.smssdk.framework.utils.Data: java.lang.String urlEncode(java.lang.String,java.lang.String)
+cn.smssdk.framework.utils.Data: java.lang.String urlEncode(java.lang.String)
+cn.smssdk.framework.utils.Data: java.lang.String CRC32(byte[])
+cn.smssdk.framework.utils.Data: void <clinit>()
+cn.smssdk.framework.utils.Hashon
+cn.smssdk.framework.utils.Hashon: Hashon()
+cn.smssdk.framework.utils.Hashon: java.util.HashMap fromJson(java.lang.String)
+cn.smssdk.framework.utils.Hashon: java.util.HashMap fromJson(org.json.JSONObject)
+cn.smssdk.framework.utils.Hashon: java.util.ArrayList fromJson(org.json.JSONArray)
+cn.smssdk.framework.utils.Hashon: java.lang.String fromHashMap(java.util.HashMap)
+cn.smssdk.framework.utils.Hashon: org.json.JSONObject getJSONObject(java.util.HashMap)
+cn.smssdk.framework.utils.Hashon: boolean isBasicArray(java.lang.Object)
+cn.smssdk.framework.utils.Hashon: java.util.ArrayList arrayToList(java.lang.Object)
+cn.smssdk.framework.utils.Hashon: org.json.JSONArray getJSONArray(java.util.ArrayList)
+cn.smssdk.framework.utils.Hashon: java.lang.String format(java.lang.String)
+cn.smssdk.framework.utils.Hashon: java.lang.String format(java.lang.String,java.util.HashMap)
+cn.smssdk.framework.utils.Hashon: java.lang.String format(java.lang.String,java.util.ArrayList)
+cn.smssdk.framework.utils.R
+cn.smssdk.framework.utils.R: java.lang.String a
+cn.smssdk.framework.utils.R: float b
+cn.smssdk.framework.utils.R: R()
+cn.smssdk.framework.utils.R: int dipToPx(android.content.Context,int)
+cn.smssdk.framework.utils.R: int pxToDip(android.content.Context,int)
+cn.smssdk.framework.utils.R: int[] getScreenSize(android.content.Context)
+cn.smssdk.framework.utils.R: int getScreenWidth(android.content.Context)
+cn.smssdk.framework.utils.R: int getScreenHeight(android.content.Context)
+cn.smssdk.framework.utils.R: int getResId(java.lang.Class,java.lang.String)
+cn.smssdk.framework.utils.R: int getBitmapRes(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: int getStringRes(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: int getStringArrayRes(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: int getLayoutRes(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: int getStyleRes(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: int getIdRes(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: int getColorRes(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: int getRawRes(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: int getPluralsRes(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: void setCacheRoot(java.lang.String)
+cn.smssdk.framework.utils.R: java.lang.String getCachePath(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: java.lang.String getImageCachePath(android.content.Context)
+cn.smssdk.framework.utils.R: void clearCache(android.content.Context)
+cn.smssdk.framework.utils.R: void deleteFileAndFolder(java.io.File)
+cn.smssdk.framework.utils.R: java.lang.String toWordText(java.lang.String,int)
+cn.smssdk.framework.utils.R: int getTextLengthInWord(java.lang.String)
+cn.smssdk.framework.utils.R: long strToDate(java.lang.String)
+cn.smssdk.framework.utils.R: long dateStrToLong(java.lang.String)
+cn.smssdk.framework.utils.R: java.util.Date longToDate(long)
+cn.smssdk.framework.utils.R: java.lang.String longToTime(long,int)
+cn.smssdk.framework.utils.R: long parseTwitterDate(java.lang.String)
+cn.smssdk.framework.utils.R: int[] covertTimeInYears(long)
+cn.smssdk.framework.utils.R: android.net.Uri pathToContentUri(android.content.Context,java.lang.String)
+cn.smssdk.framework.utils.R: java.lang.String contentUriToPath(android.content.Context,android.net.Uri)
+cn.smssdk.framework.utils.R: java.lang.String encodeUrl(android.os.Bundle)
+cn.smssdk.framework.utils.R: java.lang.String encodeUrl(java.util.ArrayList)
+cn.smssdk.framework.utils.R: android.os.Bundle urlToBundle(java.lang.String)
+cn.smssdk.framework.utils.R: android.os.Bundle decodeUrl(java.lang.String)
+cn.smssdk.framework.utils.R: boolean copyFile(java.lang.String,java.lang.String)
+cn.smssdk.framework.utils.R: void copyFile(java.io.FileInputStream,java.io.FileOutputStream)
+cn.smssdk.framework.utils.R: boolean saveObjectToFile(java.lang.String,java.lang.Object)
+cn.smssdk.framework.utils.R: java.lang.Object readObjectFromFile(java.lang.String)
+cn.smssdk.framework.utils.UIHandler
+cn.smssdk.framework.utils.UIHandler: java.lang.String[] prays
+cn.smssdk.framework.utils.UIHandler: android.os.Handler handler
+cn.smssdk.framework.utils.UIHandler: UIHandler()
+cn.smssdk.framework.utils.UIHandler: void prepare()
+cn.smssdk.framework.utils.UIHandler: void reset()
+cn.smssdk.framework.utils.UIHandler: void printPray()
+cn.smssdk.framework.utils.UIHandler: void handleMessage(android.os.Message)
+cn.smssdk.framework.utils.UIHandler: android.os.Message getShellMessage(android.os.Message,android.os.Handler$Callback)
+cn.smssdk.framework.utils.UIHandler: android.os.Message getShellMessage(int,android.os.Handler$Callback)
+cn.smssdk.framework.utils.UIHandler: boolean sendMessage(android.os.Message,android.os.Handler$Callback)
+cn.smssdk.framework.utils.UIHandler: boolean sendMessageDelayed(android.os.Message,long,android.os.Handler$Callback)
+cn.smssdk.framework.utils.UIHandler: boolean sendMessageAtTime(android.os.Message,long,android.os.Handler$Callback)
+cn.smssdk.framework.utils.UIHandler: boolean sendMessageAtFrontOfQueue(android.os.Message,android.os.Handler$Callback)
+cn.smssdk.framework.utils.UIHandler: boolean sendEmptyMessage(int,android.os.Handler$Callback)
+cn.smssdk.framework.utils.UIHandler: boolean sendEmptyMessageAtTime(int,long,android.os.Handler$Callback)
+cn.smssdk.framework.utils.UIHandler: boolean sendEmptyMessageDelayed(int,long,android.os.Handler$Callback)
+cn.smssdk.framework.utils.UIHandler: void access$000(android.os.Message)
+cn.smssdk.framework.utils.UIHandler: void <clinit>()
+cn.smssdk.framework.utils.a
+cn.smssdk.framework.utils.a: android.content.Context a
+cn.smssdk.framework.utils.a: cn.smssdk.framework.utils.a b
+cn.smssdk.framework.utils.a: cn.smssdk.framework.utils.a a(android.content.Context)
+cn.smssdk.framework.utils.a: a(android.content.Context)
+cn.smssdk.framework.utils.a: java.lang.String a()
+cn.smssdk.framework.utils.a: java.lang.String b()
+cn.smssdk.framework.utils.a: java.lang.String c()
+cn.smssdk.framework.utils.a: java.lang.String d()
+cn.smssdk.framework.utils.a: java.lang.String e()
+cn.smssdk.framework.utils.a: java.lang.String f()
+cn.smssdk.framework.utils.a: java.lang.String g()
+cn.smssdk.framework.utils.a: java.lang.String h()
+cn.smssdk.framework.utils.a: java.lang.String i()
+cn.smssdk.framework.utils.a: java.lang.String j()
+cn.smssdk.framework.utils.a: java.lang.Object a(java.lang.String)
+cn.smssdk.framework.utils.a: java.lang.String k()
+cn.smssdk.framework.utils.a: java.lang.String l()
+cn.smssdk.framework.utils.a: int m()
+cn.smssdk.framework.utils.a: boolean t()
+cn.smssdk.framework.utils.a: boolean u()
+cn.smssdk.framework.utils.a: java.lang.String n()
+cn.smssdk.framework.utils.a: java.lang.String o()
+cn.smssdk.framework.utils.a: java.util.ArrayList a(boolean)
+cn.smssdk.framework.utils.a: boolean a(android.content.pm.PackageInfo)
+cn.smssdk.framework.utils.a: boolean p()
+cn.smssdk.framework.utils.a: java.lang.String q()
+cn.smssdk.framework.utils.a: java.lang.String r()
+cn.smssdk.framework.utils.a: java.lang.String s()
+cn.smssdk.framework.utils.a$1
+cn.smssdk.framework.utils.a$a
+cn.smssdk.framework.utils.a$a: boolean a
+cn.smssdk.framework.utils.a$a: java.util.concurrent.BlockingQueue c
+cn.smssdk.framework.utils.a$a: cn.smssdk.framework.utils.a b
+cn.smssdk.framework.utils.a$a: a$a(cn.smssdk.framework.utils.a)
+cn.smssdk.framework.utils.a$a: void onServiceConnected(android.content.ComponentName,android.os.IBinder)
+cn.smssdk.framework.utils.a$a: void onServiceDisconnected(android.content.ComponentName)
+cn.smssdk.framework.utils.a$a: android.os.IBinder a()
+cn.smssdk.framework.utils.a$a: a$a(cn.smssdk.framework.utils.a,cn.smssdk.framework.utils.a$1)
+cn.smssdk.framework.utils.b
+cn.smssdk.framework.utils.b: char[] a
+cn.smssdk.framework.utils.b: java.lang.String a(byte[])
+cn.smssdk.framework.utils.b: void <clinit>()
+cn.smssdk.framework.utils.c
+cn.smssdk.framework.utils.c: android.content.Context c
+cn.smssdk.framework.utils.c: java.lang.String d
+cn.smssdk.framework.utils.c: cn.smssdk.framework.utils.c$a a
+cn.smssdk.framework.utils.c: cn.smssdk.framework.utils.c$b b
+cn.smssdk.framework.utils.c: int a(java.lang.Throwable)
+cn.smssdk.framework.utils.c: int a(java.lang.Object,java.lang.Object[])
+cn.smssdk.framework.utils.c: int b(java.lang.Object,java.lang.Object[])
+cn.smssdk.framework.utils.c: int b(java.lang.Throwable)
+cn.smssdk.framework.utils.c: int c(java.lang.Object,java.lang.Object[])
+cn.smssdk.framework.utils.c: int c(java.lang.Throwable)
+cn.smssdk.framework.utils.c: int d(java.lang.Object,java.lang.Object[])
+cn.smssdk.framework.utils.c: android.content.Context a()
+cn.smssdk.framework.utils.c: java.lang.String b()
+cn.smssdk.framework.utils.c: void <clinit>()
+cn.smssdk.framework.utils.c$a
+cn.smssdk.framework.utils.c$a: int a
+cn.smssdk.framework.utils.c$a: java.lang.String b
+cn.smssdk.framework.utils.c$a: java.lang.String c
+cn.smssdk.framework.utils.c$a: c$a()
+cn.smssdk.framework.utils.c$b
+cn.smssdk.framework.utils.c$b: c$b()
+cn.smssdk.framework.utils.c$b: int a(int,java.lang.String)
+cn.smssdk.framework.utils.c$b: int b(int,java.lang.String)
+cn.smssdk.framework.utils.c$b: java.lang.String a(java.lang.String)
+cn.smssdk.framework.utils.c$b: java.lang.String a(int)
+cn.smssdk.framework.utils.d
+cn.smssdk.framework.utils.d: java.io.File a
+cn.smssdk.framework.utils.d: java.util.HashMap b
+cn.smssdk.framework.utils.d: d()
+cn.smssdk.framework.utils.d: void a(java.lang.String)
+cn.smssdk.framework.utils.d: void a()
+cn.smssdk.framework.utils.d: void b(java.lang.String,java.lang.Object)
+cn.smssdk.framework.utils.d: java.lang.Object e(java.lang.String)
+cn.smssdk.framework.utils.d: void a(java.lang.String,java.lang.String)
+cn.smssdk.framework.utils.d: java.lang.String b(java.lang.String)
+cn.smssdk.framework.utils.d: void a(java.lang.String,java.lang.Long)
+cn.smssdk.framework.utils.d: long c(java.lang.String)
+cn.smssdk.framework.utils.d: void a(java.lang.String,java.lang.Object)
+cn.smssdk.framework.utils.d: java.lang.Object d(java.lang.String)
+cn.smssdk.framework.utils.e
+cn.smssdk.framework.utils.e: cn.smssdk.framework.utils.e a
+cn.smssdk.framework.utils.e: android.content.Context b
+cn.smssdk.framework.utils.e: android.content.SharedPreferences c
+cn.smssdk.framework.utils.e: cn.smssdk.framework.utils.e a(android.content.Context)
+cn.smssdk.framework.utils.e: e(android.content.Context)
+cn.smssdk.framework.utils.e: void a(java.lang.String,int)
+cn.smssdk.framework.utils.e: void a(java.lang.String,java.lang.String)
+cn.smssdk.framework.utils.e: java.lang.String a(java.lang.String)
+cn.smssdk.framework.utils.e: void a(java.lang.String,java.lang.Long)
+cn.smssdk.framework.utils.e: long b(java.lang.String)
+cn.smssdk.framework.utils.e: void a(java.lang.String,java.lang.Object)
+cn.smssdk.framework.utils.e: java.lang.Object c(java.lang.String)
+cn.smssdk.framework.utils.e: void d(java.lang.String)
+cn.smssdk.framework.utils.f
+cn.smssdk.framework.utils.f: f()
+cn.smssdk.framework.utils.f: boolean handleMessage(android.os.Message)
+cn.smssdk.gui.CommonDialog
+cn.smssdk.gui.CommonDialog: CommonDialog()
+cn.smssdk.gui.CommonDialog: android.app.Dialog ProgressDialog(android.content.Context)
+cn.smssdk.gui.ContactDetailPage
+cn.smssdk.gui.ContactDetailPage: java.lang.String phoneName
+cn.smssdk.gui.ContactDetailPage: java.util.ArrayList phoneList
+cn.smssdk.gui.ContactDetailPage: ContactDetailPage()
+cn.smssdk.gui.ContactDetailPage: void onCreate()
+cn.smssdk.gui.ContactDetailPage: void onResume()
+cn.smssdk.gui.ContactDetailPage: void onPause()
+cn.smssdk.gui.ContactDetailPage: void setContact(java.util.HashMap)
+cn.smssdk.gui.ContactDetailPage: void onClick(android.view.View)
+cn.smssdk.gui.ContactDetailPage: void sendMsg(java.lang.String)
+cn.smssdk.gui.ContactDetailPage: void showDialog()
+cn.smssdk.gui.ContactDetailPage: java.util.ArrayList access$0(cn.smssdk.gui.ContactDetailPage)
+cn.smssdk.gui.ContactDetailPage: void access$1(cn.smssdk.gui.ContactDetailPage,java.lang.String)
+cn.smssdk.gui.ContactDetailPage$1
+cn.smssdk.gui.ContactDetailPage$1: cn.smssdk.gui.ContactDetailPage this$0
+cn.smssdk.gui.ContactDetailPage$1: ContactDetailPage$1(cn.smssdk.gui.ContactDetailPage)
+cn.smssdk.gui.ContactDetailPage$1: void onClick(android.content.DialogInterface,int)
+cn.smssdk.gui.ContactDetailPage$2
+cn.smssdk.gui.ContactDetailPage$2: cn.smssdk.gui.ContactDetailPage this$0
+cn.smssdk.gui.ContactDetailPage$2: ContactDetailPage$2(cn.smssdk.gui.ContactDetailPage)
+cn.smssdk.gui.ContactDetailPage$2: void onClick(android.content.DialogInterface,int)
+cn.smssdk.gui.ContactEntry
+cn.smssdk.gui.ContactEntry: java.lang.String key
+cn.smssdk.gui.ContactEntry: java.util.HashMap value
+cn.smssdk.gui.ContactEntry: ContactEntry(java.lang.String,java.util.HashMap)
+cn.smssdk.gui.ContactEntry: java.lang.String getKey()
+cn.smssdk.gui.ContactEntry: java.util.HashMap getValue()
+cn.smssdk.gui.ContactEntry: java.util.HashMap setValue(java.util.HashMap)
+cn.smssdk.gui.ContactEntry: java.lang.String toString()
+cn.smssdk.gui.ContactEntry: java.lang.Object getValue()
+cn.smssdk.gui.ContactEntry: java.lang.Object getKey()
+cn.smssdk.gui.ContactEntry: java.lang.Object setValue(java.lang.Object)
+cn.smssdk.gui.ContactItemMaker
+cn.smssdk.gui.ContactItemMaker: android.view.View getView(java.util.HashMap,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.ContactsAdapter
+cn.smssdk.gui.ContactsAdapter: java.util.ArrayList titles
+cn.smssdk.gui.ContactsAdapter: java.util.ArrayList contacts
+cn.smssdk.gui.ContactsAdapter: java.util.ArrayList friendsInApp
+cn.smssdk.gui.ContactsAdapter: java.util.ArrayList contactsOutApp
+cn.smssdk.gui.ContactsAdapter: cn.smssdk.gui.ContactItemMaker itemMaker
+cn.smssdk.gui.ContactsAdapter: cn.smssdk.gui.SearchEngine sEngine
+cn.smssdk.gui.ContactsAdapter: ContactsAdapter(cn.smssdk.gui.ContactsListView,java.util.ArrayList,java.util.ArrayList)
+cn.smssdk.gui.ContactsAdapter: void initSearchEngine()
+cn.smssdk.gui.ContactsAdapter: void search(java.lang.String)
+cn.smssdk.gui.ContactsAdapter: void reSortFia(java.util.HashMap,boolean,java.util.ArrayList)
+cn.smssdk.gui.ContactsAdapter: void reSortFoa(java.util.HashMap,boolean,java.util.ArrayList)
+cn.smssdk.gui.ContactsAdapter: void setContactItemMaker(cn.smssdk.gui.ContactItemMaker)
+cn.smssdk.gui.ContactsAdapter: int getGroupCount()
+cn.smssdk.gui.ContactsAdapter: int getCount(int)
+cn.smssdk.gui.ContactsAdapter: java.lang.String getGroupTitle(int)
+cn.smssdk.gui.ContactsAdapter: java.util.HashMap getItem(int,int)
+cn.smssdk.gui.ContactsAdapter: android.widget.TextView getTitleView(int,android.widget.TextView,android.view.ViewGroup)
+cn.smssdk.gui.ContactsAdapter: android.view.View getView(int,int,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.ContactsAdapter: java.lang.Object getItem(int,int)
+cn.smssdk.gui.ContactsListView
+cn.smssdk.gui.ContactsListView: android.widget.ListView lvBody
+cn.smssdk.gui.ContactsListView: cn.smssdk.gui.ContactsListView$InnerAdapter innerAdapter
+cn.smssdk.gui.ContactsListView: cn.smssdk.gui.ContactsListView$GroupAdapter adapter
+cn.smssdk.gui.ContactsListView: android.widget.TextView tvTitle
+cn.smssdk.gui.ContactsListView: int curFirstItem
+cn.smssdk.gui.ContactsListView: int titleHeight
+cn.smssdk.gui.ContactsListView: android.widget.AbsListView$OnScrollListener osListener
+cn.smssdk.gui.ContactsListView: ContactsListView(android.content.Context)
+cn.smssdk.gui.ContactsListView: ContactsListView(android.content.Context,android.util.AttributeSet)
+cn.smssdk.gui.ContactsListView: ContactsListView(android.content.Context,android.util.AttributeSet,int)
+cn.smssdk.gui.ContactsListView: void init(android.content.Context)
+cn.smssdk.gui.ContactsListView: void setAdapter(cn.smssdk.gui.ContactsListView$GroupAdapter)
+cn.smssdk.gui.ContactsListView: cn.smssdk.gui.ContactsListView$GroupAdapter getAdapter()
+cn.smssdk.gui.ContactsListView: void notifyDataSetChanged()
+cn.smssdk.gui.ContactsListView: void setTitle()
+cn.smssdk.gui.ContactsListView: void setSelection(int)
+cn.smssdk.gui.ContactsListView: void setSelection(int,int)
+cn.smssdk.gui.ContactsListView: void onScroll()
+cn.smssdk.gui.ContactsListView: void setOnScrollListener(android.widget.AbsListView$OnScrollListener)
+cn.smssdk.gui.ContactsListView: void access$0(cn.smssdk.gui.ContactsListView)
+cn.smssdk.gui.ContactsListView: android.widget.AbsListView$OnScrollListener access$1(cn.smssdk.gui.ContactsListView)
+cn.smssdk.gui.ContactsListView: void access$2(cn.smssdk.gui.ContactsListView,int)
+cn.smssdk.gui.ContactsListView: android.widget.TextView access$3(cn.smssdk.gui.ContactsListView)
+cn.smssdk.gui.ContactsListView: void access$4(cn.smssdk.gui.ContactsListView)
+cn.smssdk.gui.ContactsListView$1
+cn.smssdk.gui.ContactsListView$1: cn.smssdk.gui.ContactsListView this$0
+cn.smssdk.gui.ContactsListView$1: ContactsListView$1(cn.smssdk.gui.ContactsListView)
+cn.smssdk.gui.ContactsListView$1: void onScrollStateChanged(android.widget.AbsListView,int)
+cn.smssdk.gui.ContactsListView$1: void onScroll(android.widget.AbsListView,int,int,int)
+cn.smssdk.gui.ContactsListView$GroupAdapter
+cn.smssdk.gui.ContactsListView$GroupAdapter: cn.smssdk.gui.ContactsListView view
+cn.smssdk.gui.ContactsListView$GroupAdapter: ContactsListView$GroupAdapter(cn.smssdk.gui.ContactsListView)
+cn.smssdk.gui.ContactsListView$GroupAdapter: int getGroupCount()
+cn.smssdk.gui.ContactsListView$GroupAdapter: int getCount(int)
+cn.smssdk.gui.ContactsListView$GroupAdapter: java.lang.String getGroupTitle(int)
+cn.smssdk.gui.ContactsListView$GroupAdapter: java.lang.Object getItem(int,int)
+cn.smssdk.gui.ContactsListView$GroupAdapter: android.widget.TextView getTitleView(int,android.widget.TextView,android.view.ViewGroup)
+cn.smssdk.gui.ContactsListView$GroupAdapter: android.view.View getView(int,int,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.ContactsListView$GroupAdapter: void notifyDataSetChanged()
+cn.smssdk.gui.ContactsListView$InnerAdapter
+cn.smssdk.gui.ContactsListView$InnerAdapter: cn.smssdk.gui.ContactsListView$GroupAdapter adapter
+cn.smssdk.gui.ContactsListView$InnerAdapter: java.util.ArrayList listData
+cn.smssdk.gui.ContactsListView$InnerAdapter: java.util.ArrayList titleIndex
+cn.smssdk.gui.ContactsListView$InnerAdapter: java.util.ArrayList lastItemIndex
+cn.smssdk.gui.ContactsListView$InnerAdapter: ContactsListView$InnerAdapter(cn.smssdk.gui.ContactsListView$GroupAdapter)
+cn.smssdk.gui.ContactsListView$InnerAdapter: void init()
+cn.smssdk.gui.ContactsListView$InnerAdapter: int getCount()
+cn.smssdk.gui.ContactsListView$InnerAdapter: java.lang.Object getItem(int)
+cn.smssdk.gui.ContactsListView$InnerAdapter: long getItemId(int)
+cn.smssdk.gui.ContactsListView$InnerAdapter: int getItemGroup(int)
+cn.smssdk.gui.ContactsListView$InnerAdapter: boolean isTitle(int)
+cn.smssdk.gui.ContactsListView$InnerAdapter: int getViewTypeCount()
+cn.smssdk.gui.ContactsListView$InnerAdapter: int getItemViewType(int)
+cn.smssdk.gui.ContactsListView$InnerAdapter: android.view.View getView(int,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.ContactsListView$InnerAdapter: void notifyDataSetChanged()
+cn.smssdk.gui.ContactsListView$InnerAdapter: boolean isLastItem(int)
+cn.smssdk.gui.ContactsListView$InnerAdapter: java.util.ArrayList access$0(cn.smssdk.gui.ContactsListView$InnerAdapter)
+cn.smssdk.gui.ContactsPage
+cn.smssdk.gui.ContactsPage: android.widget.EditText etSearch
+cn.smssdk.gui.ContactsPage: cn.smssdk.gui.ContactsListView listView
+cn.smssdk.gui.ContactsPage: cn.smssdk.gui.ContactsAdapter adapter
+cn.smssdk.gui.ContactsPage: cn.smssdk.gui.ContactItemMaker itemMaker
+cn.smssdk.gui.ContactsPage: android.app.Dialog pd
+cn.smssdk.gui.ContactsPage: cn.smssdk.EventHandler handler
+cn.smssdk.gui.ContactsPage: java.util.ArrayList friendsInApp
+cn.smssdk.gui.ContactsPage: java.util.ArrayList contactsInMobile
+cn.smssdk.gui.ContactsPage: ContactsPage()
+cn.smssdk.gui.ContactsPage: void onCreate()
+cn.smssdk.gui.ContactsPage: void afterPrepare()
+cn.smssdk.gui.ContactsPage: void onResume()
+cn.smssdk.gui.ContactsPage: void onPause()
+cn.smssdk.gui.ContactsPage: void show(android.content.Context)
+cn.smssdk.gui.ContactsPage: void show(android.content.Context,cn.smssdk.gui.ContactItemMaker)
+cn.smssdk.gui.ContactsPage: void initView()
+cn.smssdk.gui.ContactsPage: void initData()
+cn.smssdk.gui.ContactsPage: boolean onKeyEvent(int,android.view.KeyEvent)
+cn.smssdk.gui.ContactsPage: void onDestroy()
+cn.smssdk.gui.ContactsPage: void onTextChanged(java.lang.CharSequence,int,int,int)
+cn.smssdk.gui.ContactsPage: void beforeTextChanged(java.lang.CharSequence,int,int,int)
+cn.smssdk.gui.ContactsPage: void afterTextChanged(android.text.Editable)
+cn.smssdk.gui.ContactsPage: void onClick(android.view.View)
+cn.smssdk.gui.ContactsPage: void refreshContactList()
+cn.smssdk.gui.ContactsPage: void access$0(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: void access$1(cn.smssdk.gui.ContactsPage,java.util.ArrayList)
+cn.smssdk.gui.ContactsPage: void access$2(cn.smssdk.gui.ContactsPage,java.util.ArrayList)
+cn.smssdk.gui.ContactsPage: android.app.Activity access$3(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: void access$4(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: void access$5(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: void access$6(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: android.app.Dialog access$7(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: cn.smssdk.gui.ContactsListView access$8(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: java.util.ArrayList access$9(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: java.util.ArrayList access$10(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: void access$11(cn.smssdk.gui.ContactsPage,cn.smssdk.gui.ContactsAdapter)
+cn.smssdk.gui.ContactsPage: cn.smssdk.gui.ContactsAdapter access$12(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage: cn.smssdk.gui.ContactItemMaker access$13(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage$1
+cn.smssdk.gui.ContactsPage$1: cn.smssdk.gui.ContactsPage this$0
+cn.smssdk.gui.ContactsPage$1: ContactsPage$1(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage$1: void run()
+cn.smssdk.gui.ContactsPage$2
+cn.smssdk.gui.ContactsPage$2: cn.smssdk.gui.ContactsPage this$0
+cn.smssdk.gui.ContactsPage$2: ContactsPage$2(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage$2: void run()
+cn.smssdk.gui.ContactsPage$3
+cn.smssdk.gui.ContactsPage$3: cn.smssdk.gui.ContactsPage this$0
+cn.smssdk.gui.ContactsPage$3: ContactsPage$3(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage$3: void afterEvent(int,int,java.lang.Object)
+cn.smssdk.gui.ContactsPage$3: cn.smssdk.gui.ContactsPage access$0(cn.smssdk.gui.ContactsPage$3)
+cn.smssdk.gui.ContactsPage$3$1
+cn.smssdk.gui.ContactsPage$3$1: cn.smssdk.gui.ContactsPage$3 this$1
+cn.smssdk.gui.ContactsPage$3$1: ContactsPage$3$1(cn.smssdk.gui.ContactsPage$3)
+cn.smssdk.gui.ContactsPage$3$1: void run()
+cn.smssdk.gui.ContactsPage$4
+cn.smssdk.gui.ContactsPage$4: cn.smssdk.gui.ContactsPage this$0
+cn.smssdk.gui.ContactsPage$4: ContactsPage$4(cn.smssdk.gui.ContactsPage)
+cn.smssdk.gui.ContactsPage$4: void run()
+cn.smssdk.gui.CountryAdapter
+cn.smssdk.gui.CountryAdapter: java.util.HashMap rawData
+cn.smssdk.gui.CountryAdapter: java.util.ArrayList titles
+cn.smssdk.gui.CountryAdapter: java.util.ArrayList countries
+cn.smssdk.gui.CountryAdapter: cn.smssdk.gui.SearchEngine sEngine
+cn.smssdk.gui.CountryAdapter: CountryAdapter(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.CountryAdapter: void initSearchEngine()
+cn.smssdk.gui.CountryAdapter: void search(java.lang.String)
+cn.smssdk.gui.CountryAdapter: int getGroupCount()
+cn.smssdk.gui.CountryAdapter: int getCount(int)
+cn.smssdk.gui.CountryAdapter: java.lang.String getGroupTitle(int)
+cn.smssdk.gui.CountryAdapter: java.lang.String[] getItem(int,int)
+cn.smssdk.gui.CountryAdapter: android.view.View getTitleView(int,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.CountryAdapter: void onGroupChange(android.view.View,java.lang.String)
+cn.smssdk.gui.CountryAdapter: android.view.View getView(int,int,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.CountryAdapter: java.lang.Object getItem(int,int)
+cn.smssdk.gui.CountryListView
+cn.smssdk.gui.CountryListView: cn.smssdk.gui.GroupListView lvContries
+cn.smssdk.gui.CountryListView: android.widget.TextView tvScroll
+cn.smssdk.gui.CountryListView: android.widget.LinearLayout llScroll
+cn.smssdk.gui.CountryListView: cn.smssdk.gui.CountryAdapter adapter
+cn.smssdk.gui.CountryListView: CountryListView(android.content.Context)
+cn.smssdk.gui.CountryListView: CountryListView(android.content.Context,android.util.AttributeSet)
+cn.smssdk.gui.CountryListView: CountryListView(android.content.Context,android.util.AttributeSet,int)
+cn.smssdk.gui.CountryListView: void init(android.content.Context)
+cn.smssdk.gui.CountryListView: void initScroll(android.content.Context)
+cn.smssdk.gui.CountryListView: boolean onTouch(android.view.View,android.view.MotionEvent)
+cn.smssdk.gui.CountryListView: void onScroll(android.view.ViewGroup,float,float)
+cn.smssdk.gui.CountryListView: void onSearch(java.lang.String)
+cn.smssdk.gui.CountryListView: void setOnItemClickListener(cn.smssdk.gui.GroupListView$OnItemClickListener)
+cn.smssdk.gui.CountryListView: java.lang.String[] getCountry(int,int)
+cn.smssdk.gui.CountryPage
+cn.smssdk.gui.CountryPage: java.lang.String id
+cn.smssdk.gui.CountryPage: java.util.HashMap countryRules
+cn.smssdk.gui.CountryPage: cn.smssdk.EventHandler handler
+cn.smssdk.gui.CountryPage: cn.smssdk.gui.CountryListView listView
+cn.smssdk.gui.CountryPage: android.widget.EditText etSearch
+cn.smssdk.gui.CountryPage: android.app.Dialog pd
+cn.smssdk.gui.CountryPage: CountryPage()
+cn.smssdk.gui.CountryPage: void setCountryId(java.lang.String)
+cn.smssdk.gui.CountryPage: void setCountryRuls(java.util.HashMap)
+cn.smssdk.gui.CountryPage: void onCreate()
+cn.smssdk.gui.CountryPage: void afterPrepare()
+cn.smssdk.gui.CountryPage: void onResume()
+cn.smssdk.gui.CountryPage: void onPause()
+cn.smssdk.gui.CountryPage: void initPage()
+cn.smssdk.gui.CountryPage: void onCountryListGot(java.util.ArrayList)
+cn.smssdk.gui.CountryPage: void onItemClick(cn.smssdk.gui.GroupListView,android.view.View,int,int)
+cn.smssdk.gui.CountryPage: void onClick(android.view.View)
+cn.smssdk.gui.CountryPage: boolean onKeyEvent(int,android.view.KeyEvent)
+cn.smssdk.gui.CountryPage: boolean onFinish()
+cn.smssdk.gui.CountryPage: void beforeTextChanged(java.lang.CharSequence,int,int,int)
+cn.smssdk.gui.CountryPage: void onTextChanged(java.lang.CharSequence,int,int,int)
+cn.smssdk.gui.CountryPage: void afterTextChanged(android.text.Editable)
+cn.smssdk.gui.CountryPage: void access$0(cn.smssdk.gui.CountryPage)
+cn.smssdk.gui.CountryPage: android.app.Activity access$1(cn.smssdk.gui.CountryPage)
+cn.smssdk.gui.CountryPage: java.util.HashMap access$2(cn.smssdk.gui.CountryPage)
+cn.smssdk.gui.CountryPage: android.app.Dialog access$3(cn.smssdk.gui.CountryPage)
+cn.smssdk.gui.CountryPage: void access$4(cn.smssdk.gui.CountryPage,java.util.ArrayList)
+cn.smssdk.gui.CountryPage: void access$5(cn.smssdk.gui.CountryPage,cn.smssdk.EventHandler)
+cn.smssdk.gui.CountryPage: cn.smssdk.EventHandler access$6(cn.smssdk.gui.CountryPage)
+cn.smssdk.gui.CountryPage: void access$7(cn.smssdk.gui.CountryPage)
+cn.smssdk.gui.CountryPage$1
+cn.smssdk.gui.CountryPage$1: cn.smssdk.gui.CountryPage this$0
+cn.smssdk.gui.CountryPage$1: CountryPage$1(cn.smssdk.gui.CountryPage)
+cn.smssdk.gui.CountryPage$1: void run()
+cn.smssdk.gui.CountryPage$2
+cn.smssdk.gui.CountryPage$2: cn.smssdk.gui.CountryPage this$0
+cn.smssdk.gui.CountryPage$2: CountryPage$2(cn.smssdk.gui.CountryPage)
+cn.smssdk.gui.CountryPage$2: void run()
+cn.smssdk.gui.CountryPage$2: cn.smssdk.gui.CountryPage access$0(cn.smssdk.gui.CountryPage$2)
+cn.smssdk.gui.CountryPage$2$1
+cn.smssdk.gui.CountryPage$2$1: cn.smssdk.gui.CountryPage$2 this$1
+cn.smssdk.gui.CountryPage$2$1: CountryPage$2$1(cn.smssdk.gui.CountryPage$2)
+cn.smssdk.gui.CountryPage$2$1: void afterEvent(int,int,java.lang.Object)
+cn.smssdk.gui.CountryPage$2$1: cn.smssdk.gui.CountryPage$2 access$0(cn.smssdk.gui.CountryPage$2$1)
+cn.smssdk.gui.CountryPage$2$1$1
+cn.smssdk.gui.CountryPage$2$1$1: cn.smssdk.gui.CountryPage$2$1 this$2
+cn.smssdk.gui.CountryPage$2$1$1: int val$result
+cn.smssdk.gui.CountryPage$2$1$1: java.lang.Object val$data
+cn.smssdk.gui.CountryPage$2$1$1: CountryPage$2$1$1(cn.smssdk.gui.CountryPage$2$1,int,java.lang.Object)
+cn.smssdk.gui.CountryPage$2$1$1: void run()
+cn.smssdk.gui.DefaultContactViewItem
+cn.smssdk.gui.DefaultContactViewItem: DefaultContactViewItem()
+cn.smssdk.gui.DefaultContactViewItem: android.view.View getView(java.util.HashMap,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.DefaultContactViewItem$1
+cn.smssdk.gui.DefaultContactViewItem$1: cn.smssdk.gui.DefaultContactViewItem this$0
+cn.smssdk.gui.DefaultContactViewItem$1: java.util.HashMap val$user
+cn.smssdk.gui.DefaultContactViewItem$1: android.view.ViewGroup val$parent
+cn.smssdk.gui.DefaultContactViewItem$1: DefaultContactViewItem$1(cn.smssdk.gui.DefaultContactViewItem,java.util.HashMap,android.view.ViewGroup)
+cn.smssdk.gui.DefaultContactViewItem$1: void onClick(android.view.View)
+cn.smssdk.gui.DefaultContactViewItem$ViewHolder
+cn.smssdk.gui.DefaultContactViewItem$ViewHolder: android.view.View bg
+cn.smssdk.gui.DefaultContactViewItem$ViewHolder: m.framework.ui.widget.asyncview.AsyncImageView ivContact
+cn.smssdk.gui.DefaultContactViewItem$ViewHolder: android.widget.TextView tvName
+cn.smssdk.gui.DefaultContactViewItem$ViewHolder: android.widget.TextView tvContact
+cn.smssdk.gui.DefaultContactViewItem$ViewHolder: android.widget.Button btnAdd
+cn.smssdk.gui.DefaultContactViewItem$ViewHolder: cn.smssdk.gui.DefaultContactViewItem this$0
+cn.smssdk.gui.DefaultContactViewItem$ViewHolder: DefaultContactViewItem$ViewHolder(cn.smssdk.gui.DefaultContactViewItem)
+cn.smssdk.gui.DefaultOnSendMessageListener
+cn.smssdk.gui.DefaultOnSendMessageListener: DefaultOnSendMessageListener()
+cn.smssdk.gui.DefaultOnSendMessageListener: boolean onSendMessage(java.lang.String,java.lang.String)
+cn.smssdk.gui.GroupListView
+cn.smssdk.gui.GroupListView: android.widget.ListView lvBody
+cn.smssdk.gui.GroupListView: cn.smssdk.gui.GroupListView$InnerAdapter innerAdapter
+cn.smssdk.gui.GroupListView: cn.smssdk.gui.GroupListView$GroupAdapter adapter
+cn.smssdk.gui.GroupListView: android.view.View tvTitle
+cn.smssdk.gui.GroupListView: int curFirstItem
+cn.smssdk.gui.GroupListView: int titleHeight
+cn.smssdk.gui.GroupListView: android.widget.AbsListView$OnScrollListener osListener
+cn.smssdk.gui.GroupListView: cn.smssdk.gui.GroupListView$OnItemClickListener oicListener
+cn.smssdk.gui.GroupListView: GroupListView(android.content.Context)
+cn.smssdk.gui.GroupListView: GroupListView(android.content.Context,android.util.AttributeSet)
+cn.smssdk.gui.GroupListView: GroupListView(android.content.Context,android.util.AttributeSet,int)
+cn.smssdk.gui.GroupListView: void init(android.content.Context)
+cn.smssdk.gui.GroupListView: void setDividerHeight(int)
+cn.smssdk.gui.GroupListView: void setDivider(android.graphics.drawable.Drawable)
+cn.smssdk.gui.GroupListView: void setAdapter(cn.smssdk.gui.GroupListView$GroupAdapter)
+cn.smssdk.gui.GroupListView: cn.smssdk.gui.GroupListView$GroupAdapter getAdapter()
+cn.smssdk.gui.GroupListView: void notifyDataSetChanged()
+cn.smssdk.gui.GroupListView: void setTitle()
+cn.smssdk.gui.GroupListView: void setSelection(int)
+cn.smssdk.gui.GroupListView: void setSelection(int,int)
+cn.smssdk.gui.GroupListView: void onScroll()
+cn.smssdk.gui.GroupListView: void setOnScrollListener(android.widget.AbsListView$OnScrollListener)
+cn.smssdk.gui.GroupListView: void setOnItemClickListener(cn.smssdk.gui.GroupListView$OnItemClickListener)
+cn.smssdk.gui.GroupListView: void access$0(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.GroupListView: android.widget.AbsListView$OnScrollListener access$1(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.GroupListView: void access$2(cn.smssdk.gui.GroupListView,int)
+cn.smssdk.gui.GroupListView: android.view.View access$3(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.GroupListView: void access$4(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.GroupListView: cn.smssdk.gui.GroupListView$OnItemClickListener access$5(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.GroupListView: cn.smssdk.gui.GroupListView$InnerAdapter access$6(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.GroupListView$1
+cn.smssdk.gui.GroupListView$1: cn.smssdk.gui.GroupListView this$0
+cn.smssdk.gui.GroupListView$1: GroupListView$1(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.GroupListView$1: void onScrollStateChanged(android.widget.AbsListView,int)
+cn.smssdk.gui.GroupListView$1: void onScroll(android.widget.AbsListView,int,int,int)
+cn.smssdk.gui.GroupListView$2
+cn.smssdk.gui.GroupListView$2: cn.smssdk.gui.GroupListView this$0
+cn.smssdk.gui.GroupListView$2: GroupListView$2(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.GroupListView$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)
+cn.smssdk.gui.GroupListView$GroupAdapter
+cn.smssdk.gui.GroupListView$GroupAdapter: cn.smssdk.gui.GroupListView view
+cn.smssdk.gui.GroupListView$GroupAdapter: GroupListView$GroupAdapter(cn.smssdk.gui.GroupListView)
+cn.smssdk.gui.GroupListView$GroupAdapter: int getGroupCount()
+cn.smssdk.gui.GroupListView$GroupAdapter: int getCount(int)
+cn.smssdk.gui.GroupListView$GroupAdapter: java.lang.String getGroupTitle(int)
+cn.smssdk.gui.GroupListView$GroupAdapter: java.lang.Object getItem(int,int)
+cn.smssdk.gui.GroupListView$GroupAdapter: android.view.View getTitleView(int,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.GroupListView$GroupAdapter: android.view.View getView(int,int,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.GroupListView$GroupAdapter: void notifyDataSetChanged()
+cn.smssdk.gui.GroupListView$GroupAdapter: void onGroupChange(android.view.View,java.lang.String)
+cn.smssdk.gui.GroupListView$InnerAdapter
+cn.smssdk.gui.GroupListView$InnerAdapter: cn.smssdk.gui.GroupListView$GroupAdapter adapter
+cn.smssdk.gui.GroupListView$InnerAdapter: java.util.ArrayList listData
+cn.smssdk.gui.GroupListView$InnerAdapter: java.util.ArrayList titleIndex
+cn.smssdk.gui.GroupListView$InnerAdapter: java.util.ArrayList lastItemIndex
+cn.smssdk.gui.GroupListView$InnerAdapter: GroupListView$InnerAdapter(cn.smssdk.gui.GroupListView$GroupAdapter)
+cn.smssdk.gui.GroupListView$InnerAdapter: void init()
+cn.smssdk.gui.GroupListView$InnerAdapter: int getCount()
+cn.smssdk.gui.GroupListView$InnerAdapter: java.lang.Object getItem(int)
+cn.smssdk.gui.GroupListView$InnerAdapter: long getItemId(int)
+cn.smssdk.gui.GroupListView$InnerAdapter: int getItemGroup(int)
+cn.smssdk.gui.GroupListView$InnerAdapter: boolean isTitle(int)
+cn.smssdk.gui.GroupListView$InnerAdapter: int getViewTypeCount()
+cn.smssdk.gui.GroupListView$InnerAdapter: int getItemViewType(int)
+cn.smssdk.gui.GroupListView$InnerAdapter: android.view.View getView(int,android.view.View,android.view.ViewGroup)
+cn.smssdk.gui.GroupListView$InnerAdapter: void notifyDataSetChanged()
+cn.smssdk.gui.GroupListView$InnerAdapter: boolean isLastItem(int)
+cn.smssdk.gui.GroupListView$InnerAdapter: java.util.ArrayList access$0(cn.smssdk.gui.GroupListView$InnerAdapter)
+cn.smssdk.gui.GroupListView$OnItemClickListener
+cn.smssdk.gui.GroupListView$OnItemClickListener: void onItemClick(cn.smssdk.gui.GroupListView,android.view.View,int,int)
+cn.smssdk.gui.IdentifyNumPage
+cn.smssdk.gui.IdentifyNumPage: int RETRY_INTERVAL
+cn.smssdk.gui.IdentifyNumPage: java.lang.String phone
+cn.smssdk.gui.IdentifyNumPage: java.lang.String code
+cn.smssdk.gui.IdentifyNumPage: java.lang.String formatedPhone
+cn.smssdk.gui.IdentifyNumPage: int time
+cn.smssdk.gui.IdentifyNumPage: cn.smssdk.EventHandler handler
+cn.smssdk.gui.IdentifyNumPage: android.app.Dialog pd
+cn.smssdk.gui.IdentifyNumPage: android.widget.EditText etIdentifyNum
+cn.smssdk.gui.IdentifyNumPage: android.widget.TextView tvTitle
+cn.smssdk.gui.IdentifyNumPage: android.widget.TextView tvPhone
+cn.smssdk.gui.IdentifyNumPage: android.widget.TextView tvIdentifyNotify
+cn.smssdk.gui.IdentifyNumPage: android.widget.TextView tvUnreceiveIdentify
+cn.smssdk.gui.IdentifyNumPage: android.widget.ImageView ivClear
+cn.smssdk.gui.IdentifyNumPage: android.widget.Button btnSubmit
+cn.smssdk.gui.IdentifyNumPage: android.widget.Button btnSounds
+cn.smssdk.gui.IdentifyNumPage: android.content.BroadcastReceiver smsReceiver
+cn.smssdk.gui.IdentifyNumPage: int SHOWDIALOGTYPE
+cn.smssdk.gui.IdentifyNumPage: IdentifyNumPage()
+cn.smssdk.gui.IdentifyNumPage: void setPhone(java.lang.String,java.lang.String,java.lang.String)
+cn.smssdk.gui.IdentifyNumPage: void onCreate()
+cn.smssdk.gui.IdentifyNumPage: void onResume()
+cn.smssdk.gui.IdentifyNumPage: void onPause()
+cn.smssdk.gui.IdentifyNumPage: boolean onFinish()
+cn.smssdk.gui.IdentifyNumPage: void countDown()
+cn.smssdk.gui.IdentifyNumPage: void onTextChanged(java.lang.CharSequence,int,int,int)
+cn.smssdk.gui.IdentifyNumPage: void beforeTextChanged(java.lang.CharSequence,int,int,int)
+cn.smssdk.gui.IdentifyNumPage: void afterTextChanged(android.text.Editable)
+cn.smssdk.gui.IdentifyNumPage: void onClick(android.view.View)
+cn.smssdk.gui.IdentifyNumPage: void showDialog(int)
+cn.smssdk.gui.IdentifyNumPage: void afterSubmit(int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage: void afterGet(int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage: void afterGetVoice(int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage: void showNotifyDialog()
+cn.smssdk.gui.IdentifyNumPage: boolean onKeyEvent(int,android.view.KeyEvent)
+cn.smssdk.gui.IdentifyNumPage: void access$0(cn.smssdk.gui.IdentifyNumPage,int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage: void access$1(cn.smssdk.gui.IdentifyNumPage,int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage: void access$2(cn.smssdk.gui.IdentifyNumPage,int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage: android.widget.EditText access$3(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage: int access$4(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage: void access$5(cn.smssdk.gui.IdentifyNumPage,int)
+cn.smssdk.gui.IdentifyNumPage: android.app.Activity access$6(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage: android.widget.TextView access$7(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage: android.widget.Button access$8(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage: void access$9(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage: android.app.Dialog access$10(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage: void access$11(cn.smssdk.gui.IdentifyNumPage,android.app.Dialog)
+cn.smssdk.gui.IdentifyNumPage: java.lang.String access$12(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage: java.lang.String access$13(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage: void access$14(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage$1
+cn.smssdk.gui.IdentifyNumPage$1: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$1: IdentifyNumPage$1(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage$1: void afterEvent(int,int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage$10
+cn.smssdk.gui.IdentifyNumPage$10: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$10: int val$result
+cn.smssdk.gui.IdentifyNumPage$10: java.lang.Object val$data
+cn.smssdk.gui.IdentifyNumPage$10: IdentifyNumPage$10(cn.smssdk.gui.IdentifyNumPage,int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage$10: void run()
+cn.smssdk.gui.IdentifyNumPage$11
+cn.smssdk.gui.IdentifyNumPage$11: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$11: int val$result
+cn.smssdk.gui.IdentifyNumPage$11: java.lang.Object val$data
+cn.smssdk.gui.IdentifyNumPage$11: IdentifyNumPage$11(cn.smssdk.gui.IdentifyNumPage,int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage$11: void run()
+cn.smssdk.gui.IdentifyNumPage$12
+cn.smssdk.gui.IdentifyNumPage$12: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$12: android.app.Dialog val$dialog
+cn.smssdk.gui.IdentifyNumPage$12: IdentifyNumPage$12(cn.smssdk.gui.IdentifyNumPage,android.app.Dialog)
+cn.smssdk.gui.IdentifyNumPage$12: void onClick(android.view.View)
+cn.smssdk.gui.IdentifyNumPage$13
+cn.smssdk.gui.IdentifyNumPage$13: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$13: android.app.Dialog val$dialog
+cn.smssdk.gui.IdentifyNumPage$13: IdentifyNumPage$13(cn.smssdk.gui.IdentifyNumPage,android.app.Dialog)
+cn.smssdk.gui.IdentifyNumPage$13: void onClick(android.view.View)
+cn.smssdk.gui.IdentifyNumPage$14
+cn.smssdk.gui.IdentifyNumPage$14: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$14: IdentifyNumPage$14(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage$14: void run()
+cn.smssdk.gui.IdentifyNumPage$2
+cn.smssdk.gui.IdentifyNumPage$2: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$2: IdentifyNumPage$2(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage$2: void onReadVerifyCode(java.lang.String)
+cn.smssdk.gui.IdentifyNumPage$2: cn.smssdk.gui.IdentifyNumPage access$0(cn.smssdk.gui.IdentifyNumPage$2)
+cn.smssdk.gui.IdentifyNumPage$2$1
+cn.smssdk.gui.IdentifyNumPage$2$1: cn.smssdk.gui.IdentifyNumPage$2 this$1
+cn.smssdk.gui.IdentifyNumPage$2$1: java.lang.String val$verifyCode
+cn.smssdk.gui.IdentifyNumPage$2$1: IdentifyNumPage$2$1(cn.smssdk.gui.IdentifyNumPage$2,java.lang.String)
+cn.smssdk.gui.IdentifyNumPage$2$1: void run()
+cn.smssdk.gui.IdentifyNumPage$3
+cn.smssdk.gui.IdentifyNumPage$3: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$3: IdentifyNumPage$3(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage$3: void run()
+cn.smssdk.gui.IdentifyNumPage$4
+cn.smssdk.gui.IdentifyNumPage$4: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$4: IdentifyNumPage$4(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage$4: void run()
+cn.smssdk.gui.IdentifyNumPage$5
+cn.smssdk.gui.IdentifyNumPage$5: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$5: android.app.Dialog val$dialog
+cn.smssdk.gui.IdentifyNumPage$5: IdentifyNumPage$5(cn.smssdk.gui.IdentifyNumPage,android.app.Dialog)
+cn.smssdk.gui.IdentifyNumPage$5: void onClick(android.view.View)
+cn.smssdk.gui.IdentifyNumPage$6
+cn.smssdk.gui.IdentifyNumPage$6: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$6: IdentifyNumPage$6(cn.smssdk.gui.IdentifyNumPage)
+cn.smssdk.gui.IdentifyNumPage$6: void onCancel(android.content.DialogInterface)
+cn.smssdk.gui.IdentifyNumPage$7
+cn.smssdk.gui.IdentifyNumPage$7: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$7: android.app.Dialog val$dialog
+cn.smssdk.gui.IdentifyNumPage$7: IdentifyNumPage$7(cn.smssdk.gui.IdentifyNumPage,android.app.Dialog)
+cn.smssdk.gui.IdentifyNumPage$7: void onClick(android.view.View)
+cn.smssdk.gui.IdentifyNumPage$8
+cn.smssdk.gui.IdentifyNumPage$8: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$8: android.app.Dialog val$dialog
+cn.smssdk.gui.IdentifyNumPage$8: IdentifyNumPage$8(cn.smssdk.gui.IdentifyNumPage,android.app.Dialog)
+cn.smssdk.gui.IdentifyNumPage$8: void onClick(android.view.View)
+cn.smssdk.gui.IdentifyNumPage$9
+cn.smssdk.gui.IdentifyNumPage$9: cn.smssdk.gui.IdentifyNumPage this$0
+cn.smssdk.gui.IdentifyNumPage$9: int val$result
+cn.smssdk.gui.IdentifyNumPage$9: java.lang.Object val$data
+cn.smssdk.gui.IdentifyNumPage$9: IdentifyNumPage$9(cn.smssdk.gui.IdentifyNumPage,int,java.lang.Object)
+cn.smssdk.gui.IdentifyNumPage$9: void run()
+cn.smssdk.gui.RegisterPage
+cn.smssdk.gui.RegisterPage: java.lang.String DEFAULT_COUNTRY_ID
+cn.smssdk.gui.RegisterPage: cn.smssdk.EventHandler callback
+cn.smssdk.gui.RegisterPage: android.widget.TextView tvCountry
+cn.smssdk.gui.RegisterPage: android.widget.EditText etPhoneNum
+cn.smssdk.gui.RegisterPage: android.widget.TextView tvCountryNum
+cn.smssdk.gui.RegisterPage: android.widget.ImageView ivClear
+cn.smssdk.gui.RegisterPage: android.widget.Button btnNext
+cn.smssdk.gui.RegisterPage: java.lang.String currentId
+cn.smssdk.gui.RegisterPage: java.lang.String currentCode
+cn.smssdk.gui.RegisterPage: cn.smssdk.EventHandler handler
+cn.smssdk.gui.RegisterPage: java.util.HashMap countryRules
+cn.smssdk.gui.RegisterPage: android.app.Dialog pd
+cn.smssdk.gui.RegisterPage: cn.smssdk.OnSendMessageHandler osmHandler
+cn.smssdk.gui.RegisterPage: RegisterPage()
+cn.smssdk.gui.RegisterPage: void setRegisterCallback(cn.smssdk.EventHandler)
+cn.smssdk.gui.RegisterPage: void setOnSendMessageHandler(cn.smssdk.OnSendMessageHandler)
+cn.smssdk.gui.RegisterPage: void show(android.content.Context)
+cn.smssdk.gui.RegisterPage: void onCreate()
+cn.smssdk.gui.RegisterPage: java.lang.String[] getCurrentCountry()
+cn.smssdk.gui.RegisterPage: java.lang.String getMCC()
+cn.smssdk.gui.RegisterPage: void onResume()
+cn.smssdk.gui.RegisterPage: void onPause()
+cn.smssdk.gui.RegisterPage: void beforeTextChanged(java.lang.CharSequence,int,int,int)
+cn.smssdk.gui.RegisterPage: void onTextChanged(java.lang.CharSequence,int,int,int)
+cn.smssdk.gui.RegisterPage: void afterTextChanged(android.text.Editable)
+cn.smssdk.gui.RegisterPage: void onClick(android.view.View)
+cn.smssdk.gui.RegisterPage: void onResult(java.util.HashMap)
+cn.smssdk.gui.RegisterPage: void onCountryListGot(java.util.ArrayList)
+cn.smssdk.gui.RegisterPage: java.lang.String splitPhoneNum(java.lang.String)
+cn.smssdk.gui.RegisterPage: void checkPhoneNum(java.lang.String,java.lang.String)
+cn.smssdk.gui.RegisterPage: void showDialog(java.lang.String,java.lang.String)
+cn.smssdk.gui.RegisterPage: void afterVerificationCodeRequested()
+cn.smssdk.gui.RegisterPage: android.app.Dialog access$0(cn.smssdk.gui.RegisterPage)
+cn.smssdk.gui.RegisterPage: void access$1(cn.smssdk.gui.RegisterPage,java.util.ArrayList)
+cn.smssdk.gui.RegisterPage: void access$2(cn.smssdk.gui.RegisterPage)
+cn.smssdk.gui.RegisterPage: android.app.Activity access$3(cn.smssdk.gui.RegisterPage)
+cn.smssdk.gui.RegisterPage: void access$4(cn.smssdk.gui.RegisterPage,android.app.Dialog)
+cn.smssdk.gui.RegisterPage: cn.smssdk.OnSendMessageHandler access$5(cn.smssdk.gui.RegisterPage)
+cn.smssdk.gui.RegisterPage$1
+cn.smssdk.gui.RegisterPage$1: cn.smssdk.gui.RegisterPage this$0
+cn.smssdk.gui.RegisterPage$1: RegisterPage$1(cn.smssdk.gui.RegisterPage)
+cn.smssdk.gui.RegisterPage$1: void afterEvent(int,int,java.lang.Object)
+cn.smssdk.gui.RegisterPage$1: cn.smssdk.gui.RegisterPage access$0(cn.smssdk.gui.RegisterPage$1)
+cn.smssdk.gui.RegisterPage$1$1
+cn.smssdk.gui.RegisterPage$1$1: cn.smssdk.gui.RegisterPage$1 this$1
+cn.smssdk.gui.RegisterPage$1$1: int val$result
+cn.smssdk.gui.RegisterPage$1$1: int val$event
+cn.smssdk.gui.RegisterPage$1$1: java.lang.Object val$data
+cn.smssdk.gui.RegisterPage$1$1: RegisterPage$1$1(cn.smssdk.gui.RegisterPage$1,int,int,java.lang.Object)
+cn.smssdk.gui.RegisterPage$1$1: void run()
+cn.smssdk.gui.RegisterPage$2
+cn.smssdk.gui.RegisterPage$2: cn.smssdk.gui.RegisterPage this$0
+cn.smssdk.gui.RegisterPage$2: android.app.Dialog val$dialog
+cn.smssdk.gui.RegisterPage$2: java.lang.String val$phone
+cn.smssdk.gui.RegisterPage$2: java.lang.String val$code
+cn.smssdk.gui.RegisterPage$2: RegisterPage$2(cn.smssdk.gui.RegisterPage,android.app.Dialog,java.lang.String,java.lang.String)
+cn.smssdk.gui.RegisterPage$2: void onClick(android.view.View)
+cn.smssdk.gui.RegisterPage$3
+cn.smssdk.gui.RegisterPage$3: cn.smssdk.gui.RegisterPage this$0
+cn.smssdk.gui.RegisterPage$3: android.app.Dialog val$dialog
+cn.smssdk.gui.RegisterPage$3: RegisterPage$3(cn.smssdk.gui.RegisterPage,android.app.Dialog)
+cn.smssdk.gui.RegisterPage$3: void onClick(android.view.View)
+cn.smssdk.gui.SMSReceiver
+cn.smssdk.gui.SMSReceiver: java.lang.String ACTION_SMS_RECEIVER
+cn.smssdk.gui.SMSReceiver: cn.smssdk.SMSSDK$VerifyCodeReadListener listener
+cn.smssdk.gui.SMSReceiver: SMSReceiver(cn.smssdk.SMSSDK$VerifyCodeReadListener)
+cn.smssdk.gui.SMSReceiver: SMSReceiver()
+cn.smssdk.gui.SMSReceiver: void onReceive(android.content.Context,android.content.Intent)
+cn.smssdk.gui.SearchEngine
+cn.smssdk.gui.SearchEngine: java.lang.String DB_FILE
+cn.smssdk.gui.SearchEngine: java.util.HashMap hanzi2Pinyin
+cn.smssdk.gui.SearchEngine: boolean caseSensitive
+cn.smssdk.gui.SearchEngine: java.util.ArrayList index
+cn.smssdk.gui.SearchEngine: SearchEngine()
+cn.smssdk.gui.SearchEngine: void prepare(android.content.Context,java.lang.Runnable)
+cn.smssdk.gui.SearchEngine: void setCaseSensitive(boolean)
+cn.smssdk.gui.SearchEngine: void setIndex(java.util.ArrayList)
+cn.smssdk.gui.SearchEngine: java.util.ArrayList match(java.lang.String)
+cn.smssdk.gui.SearchEngine: java.util.HashMap access$0()
+cn.smssdk.gui.SearchEngine: void access$1(java.util.HashMap)
+cn.smssdk.gui.SearchEngine$1
+cn.smssdk.gui.SearchEngine$1: android.content.Context val$context
+cn.smssdk.gui.SearchEngine$1: java.lang.Runnable val$afterPrepare
+cn.smssdk.gui.SearchEngine$1: SearchEngine$1(android.content.Context,java.lang.Runnable)
+cn.smssdk.gui.SearchEngine$1: void run()
+cn.smssdk.gui.SearchEngine$SearchIndex
+cn.smssdk.gui.SearchEngine$SearchIndex: java.lang.String text
+cn.smssdk.gui.SearchEngine$SearchIndex: java.util.ArrayList pinyin
+cn.smssdk.gui.SearchEngine$SearchIndex: java.util.ArrayList firstLatters
+cn.smssdk.gui.SearchEngine$SearchIndex: SearchEngine$SearchIndex(java.lang.String,java.util.HashMap)
+cn.smssdk.gui.SearchEngine$SearchIndex: void createPinyinList(java.util.HashMap)
+cn.smssdk.gui.SearchEngine$SearchIndex: void toPinyinArray(java.lang.String,java.lang.String,java.util.HashSet,java.util.HashSet,java.util.ArrayList)
+cn.smssdk.gui.SearchEngine$SearchIndex: java.lang.String getText()
+cn.smssdk.gui.SearchEngine$SearchIndex: boolean match(java.lang.String,boolean)
+cn.smssdk.gui.SearchEngine$SearchIndex: java.lang.String toString()
+cn.smssdk.gui.SearchEngine$SearchIndex: boolean access$0(cn.smssdk.gui.SearchEngine$SearchIndex,java.lang.String,boolean)
+cn.smssdk.utils.Protocols
+cn.smssdk.utils.Protocols: cn.smssdk.utils.Protocols a
+cn.smssdk.utils.Protocols: android.content.Context context
+cn.smssdk.utils.Protocols: cn.smssdk.framework.utils.Hashon b
+cn.smssdk.utils.Protocols: cn.smssdk.framework.network.NetworkHelper c
+cn.smssdk.utils.Protocols: cn.smssdk.utils.c d
+cn.smssdk.utils.Protocols: cn.smssdk.b.a e
+cn.smssdk.utils.Protocols: cn.smssdk.framework.utils.a f
+cn.smssdk.utils.Protocols: java.lang.String appkey
+cn.smssdk.utils.Protocols: java.lang.String appSecrect
+cn.smssdk.utils.Protocols: cn.smssdk.utils.Protocols a(android.content.Context)
+cn.smssdk.utils.Protocols: Protocols(android.content.Context)
+cn.smssdk.utils.Protocols: void a(java.lang.String,java.lang.String)
+cn.smssdk.utils.Protocols: java.lang.String b()
+cn.smssdk.utils.Protocols: java.lang.String getDUID()
+cn.smssdk.utils.Protocols: java.lang.String getTokenUrl()
+cn.smssdk.utils.Protocols: java.lang.String c()
+cn.smssdk.utils.Protocols: java.lang.String nativeGetToken()
+cn.smssdk.utils.Protocols: java.lang.String d()
+cn.smssdk.utils.Protocols: java.lang.String e()
+cn.smssdk.utils.Protocols: void b(java.lang.String,java.lang.String)
+cn.smssdk.utils.Protocols: void a(java.util.ArrayList,java.lang.String)
+cn.smssdk.utils.Protocols: byte[] a(java.util.HashMap,java.lang.String)
+cn.smssdk.utils.Protocols: java.lang.String f()
+cn.smssdk.utils.Protocols: void a(java.util.ArrayList)
+cn.smssdk.utils.Protocols: java.lang.String g()
+cn.smssdk.utils.Protocols: void c(java.lang.String,java.lang.String)
+cn.smssdk.utils.Protocols: java.lang.String h()
+cn.smssdk.utils.Protocols: java.util.HashMap a(java.lang.String,java.lang.String,java.lang.String)
+cn.smssdk.utils.Protocols: java.lang.String i()
+cn.smssdk.utils.Protocols: java.util.ArrayList a()
+cn.smssdk.utils.Protocols: java.lang.String j()
+cn.smssdk.utils.Protocols: void a(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+cn.smssdk.utils.Protocols: java.lang.String k()
+cn.smssdk.utils.Protocols: java.util.ArrayList a(java.lang.String[])
+cn.smssdk.utils.Protocols: java.util.HashMap a(java.lang.String,java.util.HashMap,java.lang.String,java.lang.String,byte[],int)
+cn.smssdk.utils.Protocols: java.util.HashMap a(java.lang.String,java.util.HashMap,java.lang.String,java.lang.String,boolean)
+cn.smssdk.utils.Protocols: java.util.HashMap a(java.lang.String,java.util.HashMap,java.lang.String,java.lang.String,int,boolean)
+cn.smssdk.utils.Protocols: java.util.HashMap httpPost(java.lang.String,java.util.HashMap,java.lang.String,java.lang.String,int,byte[])
+cn.smssdk.utils.Protocols: byte[] a(java.util.HashMap,java.lang.String,boolean)
+cn.smssdk.utils.Protocols: java.lang.String a(byte[],java.lang.String)
+cn.smssdk.utils.Protocols: java.util.ArrayList b(byte[],java.lang.String)
+cn.smssdk.utils.Protocols: java.lang.String getVersionCode()
+cn.smssdk.utils.Protocols: java.util.HashMap a(java.lang.String,java.util.HashMap,java.lang.String,java.lang.String,java.util.HashMap,int,byte[])
+cn.smssdk.utils.Protocols: void b(java.lang.String,java.lang.String,java.lang.String)
+cn.smssdk.utils.Protocols: java.lang.String getErrorDiscription(int)
+cn.smssdk.utils.Protocols: java.lang.String getErrorDetail(int)
+cn.smssdk.utils.Protocols: void <clinit>()
+cn.smssdk.utils.RawNetworkCallbackImpl
+cn.smssdk.utils.RawNetworkCallbackImpl: java.util.HashMap a
+cn.smssdk.utils.RawNetworkCallbackImpl: RawNetworkCallbackImpl(java.util.HashMap)
+cn.smssdk.utils.RawNetworkCallbackImpl: void onResponse(java.io.InputStream)
+cn.smssdk.utils.a
+cn.smssdk.utils.a: java.util.HashMap a
+cn.smssdk.utils.a: a(java.util.HashMap)
+cn.smssdk.utils.a: void onResponse(org.apache.http.HttpResponse)
+cn.smssdk.utils.b
+cn.smssdk.utils.b: cn.smssdk.utils.b a
+cn.smssdk.utils.b: b(android.content.Context)
+cn.smssdk.utils.b: cn.smssdk.utils.b a(android.content.Context)
+cn.smssdk.utils.b: java.lang.String a(java.lang.String)
+cn.smssdk.utils.c
+cn.smssdk.utils.c: cn.smssdk.utils.c a
+cn.smssdk.utils.c: cn.smssdk.framework.utils.e b
+cn.smssdk.utils.c: cn.smssdk.utils.c a(android.content.Context,java.lang.String)
+cn.smssdk.utils.c: c(android.content.Context,java.lang.String)
+cn.smssdk.utils.c: java.lang.String a()
+cn.smssdk.utils.c: void a(java.lang.String)
+cn.smssdk.utils.c: java.lang.String b()
+cn.smssdk.utils.c: void b(java.lang.String)
+cn.smssdk.utils.c: void c()
+cn.smssdk.utils.c: java.lang.String d()
+cn.smssdk.utils.c: void c(java.lang.String)
+cn.smssdk.utils.c: void a(java.util.ArrayList)
+cn.smssdk.utils.c: java.util.ArrayList e()
+cn.smssdk.utils.c: void b(java.util.ArrayList)
+cn.smssdk.utils.c: java.util.ArrayList f()
+cn.smssdk.utils.c: void c(java.util.ArrayList)
+cn.smssdk.utils.c: long g()
+cn.smssdk.utils.c: void h()
+cn.smssdk.utils.c: void a(java.lang.String[])
+cn.smssdk.utils.c: java.lang.String[] i()
+com.android.volley.Request$Priority: com.android.volley.Request$Priority[] values()
+com.android.volley.Request$Priority: com.android.volley.Request$Priority valueOf(java.lang.String)
+com.android.volley.toolbox.NetworkImageView
+com.android.volley.toolbox.NetworkImageView: NetworkImageView(android.content.Context,android.util.AttributeSet)
+com.android.volley.toolbox.NetworkImageView: NetworkImageView(android.content.Context,android.util.AttributeSet,int)
+com.fortysevendeg.swipelistview.SwipeListView
+com.fortysevendeg.swipelistview.SwipeListView: SwipeListView(android.content.Context,int,int)
+com.fortysevendeg.swipelistview.SwipeListView: SwipeListView(android.content.Context,android.util.AttributeSet)
+com.fortysevendeg.swipelistview.SwipeListView: SwipeListView(android.content.Context,android.util.AttributeSet,int)
+com.pingo.activity.AboutActivity
+com.pingo.activity.AboutActivity: AboutActivity()
+com.pingo.activity.AboutActivity: void onIntroduction(android.view.View)
+com.pingo.activity.AboutActivity: void onAgreement(android.view.View)
+com.pingo.activity.AboutActivity: void onTopLeft(android.view.View)
+com.pingo.activity.ChatActivity
+com.pingo.activity.ChatActivity: ChatActivity()
+com.pingo.activity.ChatActivity: void onClick(android.view.View)
+com.pingo.activity.ChatActivity: void head_xiaohei(android.view.View)
+com.pingo.activity.ConfirmOrderActivity
+com.pingo.activity.ConfirmOrderActivity: ConfirmOrderActivity()
+com.pingo.activity.ConfirmOrderActivity: void onTopLeft(android.view.View)
+com.pingo.activity.ConfirmOrderActivity: void chooseAddress(android.view.View)
+com.pingo.activity.FirstCatGoodActivity
+com.pingo.activity.FirstCatGoodActivity: FirstCatGoodActivity()
+com.pingo.activity.FirstCatGoodActivity: void getMoreGoods(android.view.View)
+com.pingo.activity.FirstCatGoodActivity: void onTopLeft(android.view.View)
+com.pingo.activity.FirstCatGoodActivity: void onSubmit(android.view.View)
+com.pingo.activity.FirstCatGoodActivity: void onTopRight(android.view.View)
+com.pingo.activity.GoodInfoActivity
+com.pingo.activity.GoodInfoActivity: GoodInfoActivity()
+com.pingo.activity.GoodInfoActivity: void onTopLeft(android.view.View)
+com.pingo.activity.GoodInfoActivity: void onMinus(android.view.View)
+com.pingo.activity.GoodInfoActivity: void onAdd(android.view.View)
+com.pingo.activity.GoodInfoActivity: void onAddToCart(android.view.View)
+com.pingo.activity.GoodListActivity
+com.pingo.activity.GoodListActivity: GoodListActivity()
+com.pingo.activity.GoodListActivity: void onTopLeft(android.view.View)
+com.pingo.activity.GoodNewActivity
+com.pingo.activity.GoodNewActivity: GoodNewActivity()
+com.pingo.activity.GoodNewActivity: void GetGoods(android.view.View)
+com.pingo.activity.GoodNewActivity: void onTopLeft(android.view.View)
+com.pingo.activity.GoodShoppingRushActivity
+com.pingo.activity.GoodShoppingRushActivity: GoodShoppingRushActivity()
+com.pingo.activity.GoodShoppingRushActivity: void GetRushGoods(android.view.View)
+com.pingo.activity.GoodShoppingRushActivity: void onTopLeft(android.view.View)
+com.pingo.activity.GuideActivity
+com.pingo.activity.GuideActivity: GuideActivity()
+com.pingo.activity.GuideActivity: void onEnter(android.view.View)
+com.pingo.activity.LoginActivity
+com.pingo.activity.LoginActivity: LoginActivity()
+com.pingo.activity.LoginActivity: void register(android.view.View)
+com.pingo.activity.LoginActivity: void onResetPass(android.view.View)
+com.pingo.activity.LoginActivity: void login(android.view.View)
+com.pingo.activity.LoginNetActivity
+com.pingo.activity.LoginNetActivity: LoginNetActivity()
+com.pingo.activity.MainActivity
+com.pingo.activity.MainActivity: MainActivity()
+com.pingo.activity.MainActivity: void onClick(android.view.View)
+com.pingo.activity.MainFragmentHome: void getCat(android.view.View)
+com.pingo.activity.MainFragmentHome: void getMoreGoods(android.view.View)
+com.pingo.activity.MainFragmentMsg: void startchat(android.view.View)
+com.pingo.activity.ManageAddressActivity
+com.pingo.activity.ManageAddressActivity: ManageAddressActivity()
+com.pingo.activity.ManageAddressActivity: void onTopLeft(android.view.View)
+com.pingo.activity.ManageAddressActivity: void addAddress(android.view.View)
+com.pingo.activity.NewOrEditAddressActivity
+com.pingo.activity.NewOrEditAddressActivity: NewOrEditAddressActivity()
+com.pingo.activity.NewOrEditAddressActivity: void onTopLeft(android.view.View)
+com.pingo.activity.NewOrEditAddressActivity: void onTopRight(android.view.View)
+com.pingo.activity.NewOrEditAddressActivity: void getProvinceSchoolZone(android.view.View)
+com.pingo.activity.OrderActivity
+com.pingo.activity.OrderActivity: void getOrder(android.view.View)
+com.pingo.activity.OrderActivity: void onTopLeft(android.view.View)
+com.pingo.activity.PersonInfoActivity
+com.pingo.activity.PersonInfoActivity: PersonInfoActivity()
+com.pingo.activity.PersonInfoActivity: void logout(android.view.View)
+com.pingo.activity.PersonInfoActivity: void onTopLeft(android.view.View)
+com.pingo.activity.PingoApplication
+com.pingo.activity.PingoApplication: PingoApplication()
+com.pingo.activity.ProvinceSchoolZoneSelectActivity
+com.pingo.activity.ProvinceSchoolZoneSelectActivity: ProvinceSchoolZoneSelectActivity()
+com.pingo.activity.ProvinceSchoolZoneSelectActivity: void onTopLeft(android.view.View)
+com.pingo.activity.RegisterActivity
+com.pingo.activity.RegisterActivity: RegisterActivity()
+com.pingo.activity.RegisterActivity: void onTopLeft(android.view.View)
+com.pingo.activity.RegisterActivity: void onPassSee(android.view.View)
+com.pingo.activity.RegisterActivity: void registerSexMale(android.view.View)
+com.pingo.activity.RegisterActivity: void registerSexFemale(android.view.View)
+com.pingo.activity.RegisterActivity: void onLogin(android.view.View)
+com.pingo.activity.RegisterActivity: void onRegister(android.view.View)
+com.pingo.activity.ResetPassActivity
+com.pingo.activity.ResetPassActivity: ResetPassActivity()
+com.pingo.activity.ResetPassActivity: void onTopLeft(android.view.View)
+com.pingo.activity.ResetPassActivity: void onResetPass(android.view.View)
+com.pingo.activity.SettingsActivity
+com.pingo.activity.SettingsActivity: SettingsActivity()
+com.pingo.activity.SettingsActivity: void onTopLeft(android.view.View)
+com.pingo.activity.SettingsActivity: void aboutUs(android.view.View)
+com.pingo.activity.SettingsActivity: void onHelp(android.view.View)
+com.pingo.activity.SettingsActivity: void onFeedBack(android.view.View)
+com.pingo.activity.SmsSendActivity
+com.pingo.activity.SmsSendActivity: SmsSendActivity()
+com.pingo.activity.SmsSendActivity: void onTopLeft(android.view.View)
+com.pingo.activity.SmsSendActivity: void onClick(android.view.View)
+com.pingo.activity.SmsValidationActivity
+com.pingo.activity.SmsValidationActivity: SmsValidationActivity()
+com.pingo.activity.SmsValidationActivity: void onTopLeft(android.view.View)
+com.pingo.activity.SmsValidationActivity: void onClick(android.view.View)
+com.pingo.activity.SubmitTextActivity
+com.pingo.activity.SubmitTextActivity: SubmitTextActivity()
+com.pingo.activity.SubmitTextActivity: void onTopLeft(android.view.View)
+com.pingo.activity.SubmitTextActivity: void submit(android.view.View)
+com.pingo.activity.TextDisplayActivity
+com.pingo.activity.TextDisplayActivity: TextDisplayActivity()
+com.pingo.activity.TextDisplayActivity: void onTopLeft(android.view.View)
+com.pingo.model.CartGoodsInfo
+com.pingo.model.CartGoodsInfo: android.os.Parcelable$Creator CREATOR
+com.pingo.model.WXMessage: void setTime(java.lang.String)
+com.pingo.net.GoodInfoData: void getGoodInfo(android.view.View,java.lang.String)
+com.pingo.receiver.getMessegeReceiver
+com.pingo.receiver.getMessegeReceiver: getMessegeReceiver()
+com.pingo.utils.ShowBigPictrue
+com.pingo.utils.ShowBigPictrue: ShowBigPictrue()
+com.pingo.widget.HackyViewPager
+com.pingo.widget.HackyViewPager: HackyViewPager(android.content.Context)
+com.pingo.widget.HackyViewPager: HackyViewPager(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.MyListView
+com.pingo.widget.MyListView: MyListView(android.content.Context)
+com.pingo.widget.MyListView: MyListView(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.MyListView: MyListView(android.content.Context,android.util.AttributeSet,int)
+com.pingo.widget.PickerView
+com.pingo.widget.PickerView: PickerView(android.content.Context)
+com.pingo.widget.PickerView: PickerView(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.SegmentedRadioGroup
+com.pingo.widget.SegmentedRadioGroup: SegmentedRadioGroup(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.pullrefresh.PullToRefreshLayout
+com.pingo.widget.pullrefresh.PullToRefreshLayout: PullToRefreshLayout(android.content.Context)
+com.pingo.widget.pullrefresh.PullToRefreshLayout: PullToRefreshLayout(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.pullrefresh.PullToRefreshLayout: PullToRefreshLayout(android.content.Context,android.util.AttributeSet,int)
+com.pingo.widget.pullrefresh.PullableExpandableListView
+com.pingo.widget.pullrefresh.PullableExpandableListView: PullableExpandableListView(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.pullrefresh.PullableExpandableListView: PullableExpandableListView(android.content.Context,android.util.AttributeSet,int)
+com.pingo.widget.pullrefresh.PullableGridView
+com.pingo.widget.pullrefresh.PullableGridView: PullableGridView(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.pullrefresh.PullableGridView: PullableGridView(android.content.Context,android.util.AttributeSet,int)
+com.pingo.widget.pullrefresh.PullableImageView
+com.pingo.widget.pullrefresh.PullableImageView: PullableImageView(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.pullrefresh.PullableImageView: PullableImageView(android.content.Context,android.util.AttributeSet,int)
+com.pingo.widget.pullrefresh.PullableListView
+com.pingo.widget.pullrefresh.PullableListView: PullableListView(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.pullrefresh.PullableListView: PullableListView(android.content.Context,android.util.AttributeSet,int)
+com.pingo.widget.pullrefresh.PullableScrollView
+com.pingo.widget.pullrefresh.PullableScrollView: PullableScrollView(android.content.Context)
+com.pingo.widget.pullrefresh.PullableScrollView: PullableScrollView(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.pullrefresh.PullableScrollView: PullableScrollView(android.content.Context,android.util.AttributeSet,int)
+com.pingo.widget.pullrefresh.PullableTextView
+com.pingo.widget.pullrefresh.PullableTextView: PullableTextView(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.pullrefresh.PullableTextView: PullableTextView(android.content.Context,android.util.AttributeSet,int)
+com.pingo.widget.pullrefresh.PullableWebView
+com.pingo.widget.pullrefresh.PullableWebView: PullableWebView(android.content.Context,android.util.AttributeSet)
+com.pingo.widget.pullrefresh.PullableWebView: PullableWebView(android.content.Context,android.util.AttributeSet,int)
+m.framework.ui.widget.asyncview.AsyncImageView
+m.framework.ui.widget.asyncview.AsyncImageView: AsyncImageView(android.content.Context)
+m.framework.ui.widget.asyncview.AsyncImageView: AsyncImageView(android.content.Context,android.util.AttributeSet)
+m.framework.ui.widget.asyncview.AsyncImageView: AsyncImageView(android.content.Context,android.util.AttributeSet,int)
+m.framework.ui.widget.pulltorefresh.GroupListView
+m.framework.ui.widget.pulltorefresh.GroupListView: GroupListView(android.content.Context,android.util.AttributeSet)
+m.framework.ui.widget.pulltorefresh.GroupListView: GroupListView(android.content.Context,android.util.AttributeSet,int)
+m.framework.ui.widget.pulltorefresh.PullToRefreshView
+m.framework.ui.widget.pulltorefresh.PullToRefreshView: PullToRefreshView(android.content.Context,android.util.AttributeSet)
+m.framework.ui.widget.pulltorefresh.PullToRefreshView: PullToRefreshView(android.content.Context,android.util.AttributeSet,int)
+m.framework.ui.widget.pulltorefresh.ScrollableGridView
+m.framework.ui.widget.pulltorefresh.ScrollableGridView: ScrollableGridView(android.content.Context,android.util.AttributeSet)
+m.framework.ui.widget.pulltorefresh.ScrollableGridView: ScrollableGridView(android.content.Context,android.util.AttributeSet,int)
+m.framework.ui.widget.pulltorefresh.ScrollableGroupListView
+m.framework.ui.widget.pulltorefresh.ScrollableGroupListView: ScrollableGroupListView(android.content.Context,android.util.AttributeSet)
+m.framework.ui.widget.pulltorefresh.ScrollableGroupListView: ScrollableGroupListView(android.content.Context,android.util.AttributeSet,int)
+m.framework.ui.widget.pulltorefresh.ScrollableListView
+m.framework.ui.widget.pulltorefresh.ScrollableListView: ScrollableListView(android.content.Context,android.util.AttributeSet)
+m.framework.ui.widget.pulltorefresh.ScrollableListView: ScrollableListView(android.content.Context,android.util.AttributeSet,int)
+m.framework.ui.widget.slidingmenu.SlidingMenu
+m.framework.ui.widget.slidingmenu.SlidingMenu: SlidingMenu(android.content.Context,android.util.AttributeSet)
+m.framework.ui.widget.slidingmenu.SlidingMenu: SlidingMenu(android.content.Context,android.util.AttributeSet,int)
+m.framework.ui.widget.viewpager.ViewPagerClassic
+m.framework.ui.widget.viewpager.ViewPagerClassic: ViewPagerClassic(android.content.Context,android.util.AttributeSet)
+m.framework.ui.widget.viewpager.ViewPagerClassic: ViewPagerClassic(android.content.Context,android.util.AttributeSet,int)
+org.apache.commons.codec.digest.HmacAlgorithms: org.apache.commons.codec.digest.HmacAlgorithms[] values()
+org.apache.commons.codec.digest.HmacAlgorithms: org.apache.commons.codec.digest.HmacAlgorithms valueOf(java.lang.String)
+org.apache.commons.codec.language.bm.NameType: org.apache.commons.codec.language.bm.NameType[] values()
+org.apache.commons.codec.language.bm.NameType: org.apache.commons.codec.language.bm.NameType valueOf(java.lang.String)
+org.apache.commons.codec.language.bm.RuleType: org.apache.commons.codec.language.bm.RuleType[] values()
+org.apache.commons.codec.language.bm.RuleType: org.apache.commons.codec.language.bm.RuleType valueOf(java.lang.String)

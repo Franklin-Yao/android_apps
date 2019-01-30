@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sqq.ScrollViewPull.widget.TryRefreshableView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/trymyRV"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:focusable="true"
+    android:orientation="vertical" >
+
+    <sqq.ScrollViewPull.widget.TryPullToRefreshScrollView
+        android:id="@+id/trymySv"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:focusable="true" >
+
+        <LinearLayout
+            android:id="@+id/linear_root"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/sv_text"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="top"
+                android:gravity="top"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:id="@+id/tryrefresh_footer"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:gravity="center"
+                android:paddingBottom="15dip" >
+
+                <TextView
+                    android:id="@+id/tryrefresh_footer_text"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingTop="5dip"
+                    android:text="加载"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+        </LinearLayout>
+    </sqq.ScrollViewPull.widget.TryPullToRefreshScrollView>
+</sqq.ScrollViewPull.widget.TryRefreshableView>

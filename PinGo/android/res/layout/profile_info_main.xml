@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_gray"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/line_size"
+        android:background="@color/bg_line" />
+
+    <RelativeLayout
+        android:id="@+id/profile_username_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_main_light"
+        android:clickable="true" >
+
+        <TextView
+            android:id="@+id/profile_username_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/margin_medium"
+            android:text="手机号"
+            android:textColor="@color/font_color_primary"
+            android:textSize="@dimen/font_size_large" />
+
+        <TextView
+            android:id="@+id/profile_info_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_medium"
+            android:layout_toRightOf="@id/profile_username_title"
+            android:textColor="@color/font_color_primary"
+            android:textSize="@dimen/font_size_large" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/line_size"
+        android:background="@color/bg_line" />
+
+    <RelativeLayout
+        android:id="@+id/profile_nickname_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_white_list_selector"
+        android:clickable="true" >
+
+        <TextView
+            android:id="@+id/profile_nickname_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/margin_medium"
+            android:text="姓名"
+            android:textColor="@color/font_color_primary"
+            android:textSize="@dimen/font_size_large" />
+
+        <TextView
+            android:id="@+id/profile_info_nickname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_medium"
+            android:layout_toRightOf="@id/profile_nickname_title"
+            android:textColor="@color/font_color_primary"
+            android:textSize="@dimen/font_size_large" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15.0dip"
+            android:contentDescription="@null"
+            android:src="@drawable/icon_guide" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/line_size"
+        android:background="@color/bg_line" />
+
+    <RelativeLayout
+        android:id="@+id/profile_appellation_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_white_list_selector"
+        android:clickable="true" >
+
+        <TextView
+            android:id="@+id/profile_appellation_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/margin_medium"
+            android:text="称谓"
+            android:textColor="@color/font_color_primary"
+            android:textSize="@dimen/font_size_large" />
+
+        <TextView
+            android:id="@+id/profile_info_appellation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_medium"
+            android:layout_toRightOf="@id/profile_appellation_title"
+            android:textColor="@color/font_color_primary"
+            android:textSize="@dimen/font_size_large" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15.0dip"
+            android:contentDescription="@null"
+            android:src="@drawable/icon_guide" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/line_size"
+        android:background="@color/bg_line" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/line_size"
+        android:layout_marginTop="32.0dip"
+        android:background="@color/bg_line" />
+
+    <RelativeLayout
+        android:id="@+id/profile_logout_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_white_list_selector"
+        android:clickable="true" >
+
+        <TextView
+            android:id="@+id/profile_logout_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/margin_medium"
+            android:text="退出"
+            android:textColor="@color/font_color_primary"
+            android:textSize="@dimen/font_size_large" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/line_size"
+        android:background="@color/bg_line" />
+
+</LinearLayout>

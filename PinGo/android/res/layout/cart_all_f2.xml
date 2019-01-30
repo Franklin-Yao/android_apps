@@ -1,0 +1,153 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/divide_line" >
+
+    <include
+        android:id="@+id/title"
+        layout="@layout/activity_top_menu" />
+
+    <ScrollView
+        android:id="@+id/scroll_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ll_pay"
+        android:layout_below="@id/title" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+			<TextView
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:background="@color/white"
+                android:layout_marginTop="5dp"
+                android:paddingLeft="10dp"
+                android:gravity="center_vertical"
+                android:text="您淘到的宝贝"
+                android:textSize="18dp"
+                android:textColor="@color/textgrey1" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="3dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/ll_cart"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/white"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="88dp"
+                        android:layout_marginRight="88dp"
+                        android:layout_marginTop=" 40dp"
+                        android:src="@drawable/cart_icon" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="12dp"
+                        android:text="啊哦~购物车空啦，快去添加点什么吧!"
+                        android:textColor="@color/textgrey1" />
+
+                    <TextView
+                        android:id="@+id/tv_goShop"
+                        android:layout_width="140dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="35dp"
+                        android:background="@drawable/zhijiao"
+                        android:gravity="center"
+                        android:text="去逛逛"
+                        android:textColor="@color/textgrey1"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/white" >
+
+                    <com.fortysevendeg.swipelistview.SwipeListView
+                        xmlns:swipe="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/listView_cart"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:descendantFocusability="blocksDescendants"
+                        android:listSelector="#00000000"
+                        swipe:swipeActionLeft="reveal"
+                        swipe:swipeActionRight="reveal"
+                        swipe:swipeAnimationTime="1"
+                        swipe:swipeBackView="@+id/id_back"
+                        swipe:swipeCloseAllItemsWhenMoveList="true"
+                        swipe:swipeFrontView="@+id/id_front"
+                        swipe:swipeMode="left"
+                        swipe:swipeOffsetLeft="0dip"
+                        swipe:swipeOffsetRight="0dp"
+                        swipe:swipeOpenOnLongPress="false" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/ll_pay"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="72dp"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:visibility="invisible"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/cb_cart_all"
+            style="@style/MyCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:singleLine="true"
+            android:text="总价："
+            android:textSize="16dip" />
+
+        <TextView
+            android:id="@+id/tv_cart_Allprice"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:singleLine="true"
+            android:text="0"
+            android:textColor="@color/tv_Red"
+            android:textSize="16dip" />
+        <TextView
+            android:id="@+id/tv_cart_buy_or_del"
+             android:layout_width="110dp"
+                android:layout_height="38dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/bg_common_round_blue_5"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:text="下单"
+                android:textColor="@color/tv_White" />
+    </LinearLayout>
+
+</RelativeLayout>
